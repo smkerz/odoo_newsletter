@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MC Davidian — Newsletter Preview</title>
+    <style>
+        /* Reset navigateur */
+        body { margin: 0; padding: 0; background-color: #e8e5e0; font-family: sans-serif; }
+
+        /* Barre de preview */
+        .preview-bar {
+            background: #1a1a1a;
+            color: #c9a96e;
+            text-align: center;
+            padding: 12px 20px;
+            font-size: 13px;
+            letter-spacing: 1px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            border-bottom: 2px solid #c9a96e;
+        }
+        .preview-bar span { color: #ffffff; font-weight: 600; }
+
+        /* Boutons toggle desktop/mobile */
+        .preview-toggle {
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            padding: 16px;
+            background: #e8e5e0;
+        }
+        .preview-toggle button {
+            padding: 8px 24px;
+            border: 2px solid #1a1a1a;
+            background: #ffffff;
+            color: #1a1a1a;
+            font-size: 13px;
+            font-weight: 600;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            cursor: pointer;
+            border-radius: 2px;
+            transition: all 0.2s;
+        }
+        .preview-toggle button.active,
+        .preview-toggle button:hover {
+            background: #1a1a1a;
+            color: #c9a96e;
+        }
+
+        /* Container preview */
+        .preview-frame {
+            max-width: 640px;
+            margin: 0 auto 40px auto;
+            transition: max-width 0.3s ease;
+        }
+        .preview-frame.mobile {
+            max-width: 375px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="preview-bar">
+        PREVIEW — <span>MC Davidian Newsletter Template</span> — Ne pas envoyer ce fichier
+    </div>
+
+    <div class="preview-toggle">
+        <button class="active" onclick="setView('desktop', this)">Desktop</button>
+        <button onclick="setView('mobile', this)">Mobile (375px)</button>
+    </div>
+
+    <div class="preview-frame" id="previewFrame">
+
+<!-- ============================================================= -->
+<!--  DEBUT DU TEMPLATE EMAIL (identique au XML Odoo)              -->
+<!-- ============================================================= -->
+
+<div class="o_layout" style="background-color: #f8f6f3; padding: 0; margin: 0;">
+    <table class="o_mail_wrapper" style="width: 100%; border-collapse: collapse; margin: 0; padding: 0; background-color: #f8f6f3;">
+        <tr>
+            <td align="center" style="padding: 24px 16px;">
+                <table class="container" style="width: 600px; max-width: 100%; margin: 0 auto; border-collapse: collapse; background-color: #ffffff; border-radius: 4px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
+
+                    <!-- HEADER / LOGO -->
+                    <tr>
+                        <td style="padding: 0;">
+                            <table width="100%" style="border-collapse: collapse;">
+                                <tr>
+                                    <td align="center" style="background-color: #1a1a1a; padding: 32px 40px;">
+                                        <!-- Logo texte (remplacer par <img> avec votre vrai logo) -->
+                                        <a href="https://www.mcdavidian.com" target="_blank" style="text-decoration: none;">
+                                            <h2 style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 32px; font-weight: 400; color: #ffffff; letter-spacing: 4px;">
+                                                MC DAVIDIAN
+                                            </h2>
+                                        </a>
+                                        <p style="margin: 12px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 13px; letter-spacing: 3px; color: #c9a96e; text-transform: uppercase;">
+                                            Lunetterie Artisanale depuis 1980
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <!-- HERO IMAGE -->
+                    <tr>
+                        <td style="padding: 0; line-height: 0;">
+                            <img src="https://placehold.co/600x300/1a1a1a/c9a96e?text=MC+Davidian"
+                                 alt="MC Davidian Collection"
+                                 width="600"
+                                 style="display: block; width: 100%; max-width: 600px; height: auto; border: 0;" />
+                        </td>
+                    </tr>
+
+                    <!-- TITRE PRINCIPAL -->
+                    <tr>
+                        <td style="padding: 40px 48px 16px 48px;">
+                            <h1 style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 28px; font-weight: 400; line-height: 1.3; color: #1a1a1a; text-align: center;">
+                                Nouvelle Collection Printemps 2026
+                            </h1>
+                        </td>
+                    </tr>
+
+                    <!-- SOUS-TITRE -->
+                    <tr>
+                        <td style="padding: 0 48px 8px 48px;">
+                            <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e; text-align: center; letter-spacing: 1px;">
+                                Acétate de cellulose &amp; cristaux Swarovski
+                            </p>
+                        </td>
+                    </tr>
+
+                    <!-- SEPARATEUR -->
+                    <tr>
+                        <td align="center" style="padding: 16px 48px;">
+                            <table style="border-collapse: collapse; width: 60px;">
+                                <tr>
+                                    <td style="border-top: 2px solid #c9a96e; font-size: 0; line-height: 0; height: 1px;">&nbsp;</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <!-- CONTENU PRINCIPAL -->
+                    <tr>
+                        <td style="padding: 0 48px 24px 48px;">
+                            <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444; text-align: center;">
+                                Cher partenaire,
+                            </p>
+                            <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444; text-align: left;">
+                                Nous avons le plaisir de vous présenter notre nouvelle collection de lunettes artisanales, façonnées à la main dans notre atelier français. Chaque monture est taillée dans de l'acétate de cellulose véritable et ornée de cristaux Swarovski® authentiques.
+                            </p>
+                            <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444; text-align: left;">
+                                Découvrez les pièces phares de cette saison et les conditions exclusives réservées à nos partenaires professionnels.
+                            </p>
+                        </td>
+                    </tr>
+
+                    <!-- BOUTON CTA -->
+                    <tr>
+                        <td align="center" style="padding: 8px 48px 40px 48px;">
+                            <table style="border-collapse: collapse;">
+                                <tr>
+                                    <td align="center" style="background-color: #c9a96e; border-radius: 2px;">
+                                        <a href="https://www.mcdavidian.com/collections"
+                                           target="_blank"
+                                           style="display: inline-block; padding: 14px 40px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #ffffff; text-decoration: none; border-radius: 2px;">
+                                            Découvrir la collection
+                                        </a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <!-- BLOC PRODUITS (2 colonnes) -->
+                    <tr>
+                        <td style="padding: 0 48px 40px 48px;">
+                            <table width="100%" style="border-collapse: collapse;">
+                                <tr>
+                                    <td width="48%" align="center" valign="top" style="padding: 0 2% 0 0;">
+                                        <img src="https://placehold.co/240x160/f8f6f3/1a1a1a?text=Modele+1"
+                                             alt="Modele Riviera"
+                                             width="240"
+                                             style="display: block; width: 100%; max-width: 240px; height: auto; border: 0; border-radius: 2px;" />
+                                        <h3 style="margin: 12px 0 4px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-weight: 400; color: #1a1a1a;">
+                                            Modèle Riviera
+                                        </h3>
+                                        <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #888888;">
+                                            Acétate havane • Cristaux dorés
+                                        </p>
+                                    </td>
+                                    <td width="48%" align="center" valign="top" style="padding: 0 0 0 2%;">
+                                        <img src="https://placehold.co/240x160/f8f6f3/1a1a1a?text=Modele+2"
+                                             alt="Modele Opale"
+                                             width="240"
+                                             style="display: block; width: 100%; max-width: 240px; height: auto; border: 0; border-radius: 2px;" />
+                                        <h3 style="margin: 12px 0 4px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-weight: 400; color: #1a1a1a;">
+                                            Modèle Opale
+                                        </h3>
+                                        <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #888888;">
+                                            Acétate noir • Cristaux argentés
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <!-- CITATION -->
+                    <tr>
+                        <td style="padding: 0;">
+                            <table width="100%" style="border-collapse: collapse;">
+                                <tr>
+                                    <td align="center" style="background-color: #1a1a1a; padding: 32px 48px;">
+                                        <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 17px; font-style: italic; line-height: 1.6; color: #c9a96e; text-align: center;">
+                                            « Chaque monture raconte une histoire. La vôtre. »
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <!-- FOOTER -->
+                    <tr>
+                        <td style="padding: 32px 48px; border-top: 1px solid #eeeeee;">
+                            <table width="100%" style="border-collapse: collapse;">
+                                <tr>
+                                    <td align="center" style="padding: 0 0 16px 0;">
+                                        <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; color: #1a1a1a; text-transform: uppercase; letter-spacing: 1px;">
+                                            MC Davidian
+                                        </p>
+                                        <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999; line-height: 1.6;">
+                                            Lunetterie Artisanale Française<br/>
+                                            <a href="mailto:marie@news.mcdavidian.com" style="color: #c9a96e; text-decoration: none;">marie@news.mcdavidian.com</a>
+                                            &nbsp;•&nbsp;
+                                            <a href="https://www.mcdavidian.com" target="_blank" style="color: #c9a96e; text-decoration: none;">mcdavidian.com</a>
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center" style="padding: 16px 0 0 0; border-top: 1px solid #eeeeee;">
+                                        <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 11px; color: #bbbbbb; line-height: 1.5;">
+                                            Vous recevez cet email car vous êtes inscrit(e) à notre newsletter.<br/>
+                                            <a href="#" style="color: #999999; text-decoration: underline;">
+                                                Se désinscrire
+                                            </a>
+                                            &nbsp;|&nbsp;
+                                            <a href="#" style="color: #999999; text-decoration: underline;">
+                                                Gérer mes préférences
+                                            </a>
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                </table>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<!-- ============================================================= -->
+<!--  FIN DU TEMPLATE EMAIL                                        -->
+<!-- ============================================================= -->
+
+    </div>
+
+    <script>
+        function setView(mode, btn) {
+            var frame = document.getElementById('previewFrame');
+            var buttons = document.querySelectorAll('.preview-toggle button');
+            buttons.forEach(function(b) { b.classList.remove('active'); });
+            btn.classList.add('active');
+            if (mode === 'mobile') {
+                frame.classList.add('mobile');
+            } else {
+                frame.classList.remove('mobile');
+            }
+        }
+    </script>
+
+</body>
+</html>
