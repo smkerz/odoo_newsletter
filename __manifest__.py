@@ -11,7 +11,8 @@
     'website': 'https://www.mcdavidian.com',
     'depends': ['mass_mailing'],
     'data': [
-        'data/mail_template.xml',
+        'views/themes_templates.xml',
+        'views/snippets_themes.xml',
     ],
     'installable': True,
     'application': False,
