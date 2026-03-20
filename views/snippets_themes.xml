@@ -8,8 +8,7 @@
             <div data-name="mcdavidian"
                  title="MC Davidian"
                  data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_thumb"
-                 data-layout-styles="background-color: #f8f6f3 !important;"
-                 data-nowrap="1">
+                 data-layout-styles="background-color: #f8f6f3 !important;">
                 <t t-call="odoo_newsletter.theme_mcdavidian_template"/>
             </div>
         </xpath>
