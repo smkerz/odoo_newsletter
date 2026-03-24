@@ -10,9 +10,9 @@
             a { color: #c9a96e !important; }
         </style>
 
-        <!-- HEADER NOIR + LOGO + TAGLINE -->
+        <!-- HEADER ROSE POUDRÉ + LOGO + TAGLINE -->
         <div class="s_text_block o_mail_snippet_general o_not_editable"
-             style="background-color: #1a1a1a; padding: 40px 20px; text-align: center;">
+             style="background-color: #f5e1dc; padding: 40px 20px; text-align: center;">
             <div class="container s_allow_columns">
                 <a href="https://www.mcdavidian.fr" target="_blank" style="text-decoration: none;">
                     <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg"
@@ -20,7 +20,7 @@
                          width="200"
                          style="display: inline-block; max-width: 200px; height: auto;" />
                 </a>
-                <p style="margin: 16px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 12px; letter-spacing: 3px; color: #c9a96e !important; text-transform: uppercase;">
+                <p style="margin: 16px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 12px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
                     Accessoires cheveux de luxe · Faits main en France depuis 1980
                 </p>
             </div>
@@ -76,11 +76,11 @@
             </div>
         </div>
 
-        <!-- CITATION BANDEAU NOIR -->
+        <!-- CITATION BANDEAU ROSE POUDRÉ -->
         <div class="s_text_block o_mail_snippet_general"
-             style="background-color: #1a1a1a; padding: 32px 24px; text-align: center;">
+             style="background-color: #f5e1dc; padding: 32px 24px; text-align: center;">
             <div class="container s_allow_columns">
-                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 17px; font-style: italic; line-height: 1.6; color: #c9a96e !important;">
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 17px; font-style: italic; line-height: 1.6; color: #7a5c5c !important;">
                     « Chaque accessoire est une pièce unique. Comme celle qui le porte. »
                 </p>
             </div>
