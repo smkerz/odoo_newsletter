@@ -14,14 +14,14 @@
         <div class="s_text_block o_mail_snippet_general o_not_editable"
              style="background-color: #1a1a1a; padding: 40px 20px; text-align: center;">
             <div class="container s_allow_columns">
-                <a href="https://www.mcdavidian.com" target="_blank" style="text-decoration: none;">
+                <a href="https://www.mcdavidian.fr" target="_blank" style="text-decoration: none;">
                     <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg"
                          alt="MC Davidian"
                          width="200"
                          style="display: inline-block; max-width: 200px; height: auto;" />
                 </a>
                 <p style="margin: 16px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 12px; letter-spacing: 3px; color: #c9a96e !important; text-transform: uppercase;">
-                    Lunetterie Artisanale depuis 1980
+                    Accessoires cheveux de luxe · Faits main en France depuis 1980
                 </p>
             </div>
         </div>
@@ -31,10 +31,10 @@
              style="background-color: #ffffff; padding: 40px 24px 8px 24px; text-align: center;">
             <div class="container s_allow_columns">
                 <h1 style="margin: 0 0 16px 0; font-size: 26px; line-height: 1.3; color: #1a1a1a !important;">
-                    Nouvelle Collection Printemps 2026
+                    Cela faisait trop longtemps.
                 </h1>
                 <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important; letter-spacing: 1px;">
-                    Acétate de cellulose &amp; cristaux Swarovski
+                    Un mot de Marie-Christine, depuis l'atelier de Saint-Raphaël
                 </p>
             </div>
         </div>
@@ -52,13 +52,13 @@
              style="background-color: #ffffff; padding: 8px 24px 24px 24px;">
             <div class="container s_allow_columns">
                 <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: center;">
-                    Cher partenaire,
+                    Bonjour,
                 </p>
                 <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
-                    Nous avons le plaisir de vous présenter notre nouvelle collection de lunettes artisanales, façonnées à la main dans notre atelier français. Chaque monture est taillée dans de l'acétate de cellulose véritable et ornée de cristaux Swarovski® authentiques.
+                    Vous faites partie des toutes premières personnes à avoir suivi MC Davidian. Et pourtant, je ne vous ai pas donné de nouvelles depuis bien trop longtemps.
                 </p>
                 <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
-                    Découvrez les pièces phares de cette saison et les conditions exclusives réservées à nos partenaires professionnels.
+                    Ce silence ne veut pas dire que l'atelier s'est arrêté — bien au contraire. Ces dernières années, j'ai continué à créer, à imaginer de nouvelles pièces, à travailler l'acétate et les cristaux comme je le fais depuis 1980.
                 </p>
             </div>
         </div>
@@ -67,11 +67,11 @@
         <div class="s_btn o_mail_snippet_general"
              style="background-color: #ffffff; padding: 8px 24px 40px 24px; text-align: center;">
             <div class="container s_allow_columns">
-                <a href="https://www.mcdavidian.com/collections"
+                <a href="https://mcdavidian.fr"
                    target="_blank"
                    class="btn btn-primary"
                    style="display: inline-block; padding: 14px 40px; background-color: #c9a96e !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #ffffff !important; text-decoration: none; border-radius: 2px; border: none;">
-                    Découvrir la collection
+                    Redécouvrir la collection
                 </a>
             </div>
         </div>
@@ -81,7 +81,7 @@
              style="background-color: #1a1a1a; padding: 32px 24px; text-align: center;">
             <div class="container s_allow_columns">
                 <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 17px; font-style: italic; line-height: 1.6; color: #c9a96e !important;">
-                    « Chaque monture raconte une histoire. La vôtre. »
+                    « Chaque accessoire est une pièce unique. Comme celle qui le porte. »
                 </p>
             </div>
         </div>
@@ -94,15 +94,15 @@
                     MC Davidian
                 </p>
                 <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important; line-height: 1.6;">
-                    Lunetterie Artisanale Française<br/>
+                    Accessoires Cheveux · Faits Main en France<br/>
                     <a href="mailto:marie@news.mcdavidian.com" style="color: #c9a96e !important; text-decoration: none;">marie@news.mcdavidian.com</a>
                     &#160;•&#160;
-                    <a href="https://www.mcdavidian.com" target="_blank" style="color: #c9a96e !important; text-decoration: none;">mcdavidian.com</a>
+                    <a href="https://mcdavidian.fr" target="_blank" style="color: #c9a96e !important; text-decoration: none;">mcdavidian.fr</a>
                 </p>
             </div>
         </div>
 
-        <!-- UNSUBSCRIBE (footer natif Odoo simplifié, sans réseaux sociaux) -->
+        <!-- UNSUBSCRIBE (footer natif Odoo) -->
         <t t-call="mass_mailing.s_mail_block_footer_social"/>
 
     </template>
