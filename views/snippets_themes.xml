@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
 
-    <!-- Register MC Davidian theme in the email template picker -->
+    <!-- Register MC Davidian themes in the email template picker -->
     <template id="email_designer_snippets"
               inherit_id="mass_mailing.email_designer_snippets">
         <xpath expr="//div[@id='email_designer_themes']" position="inside">
-            <div data-name="mcdavidian"
-                 title="MC Davidian"
+            <div data-name="mcdavidian_fr"
+                 title="MC Davidian (FR)"
                  data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_thumb"
                  data-layout-styles="background-color: #f8f6f3 !important;">
-                <t t-call="odoo_newsletter.theme_mcdavidian_template"/>
+                <t t-call="odoo_newsletter.theme_mcdavidian_fr_template"/>
+            </div>
+            <div data-name="mcdavidian_en"
+                 title="MC Davidian (EN)"
+                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_thumb"
+                 data-layout-styles="background-color: #f8f6f3 !important;">
+                <t t-call="odoo_newsletter.theme_mcdavidian_en_template"/>
             </div>
         </xpath>
     </template>

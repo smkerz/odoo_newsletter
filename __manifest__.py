@@ -4,8 +4,9 @@
     'category': 'Marketing',
     'summary': 'Templates newsletter premium pour MC Davidian',
     'description': """
-        Templates email marketing pour MC Davidian — lunetterie artisanale française.
-        Design premium avec palette or/noir, responsive, compatible mass mailing Odoo 17.
+        Templates email marketing pour MC Davidian — accessoires cheveux de luxe.
+        Design premium rose poudré, responsive, compatible mass mailing Odoo 17.
+        Inclut versions FR (mcdavidian.fr) et EN (mcdavidian.com).
     """,
     'author': 'MC Davidian',
     'website': 'https://www.mcdavidian.com',
