@@ -483,14 +483,16 @@
         </div>
 
         <!-- PRODUITS PM + MM -->
-        <div class="s_text_block o_mail_snippet_general"
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
              style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
             <div class="container s_allow_columns">
                 <div class="row">
                     <div class="col-6" style="text-align: center; padding-bottom: 16px;">
-                        <img src="https://mcdavidian.fr/49884-large_default/pince-a-cheveux-love-ajouree-light-pm.jpg"
-                             alt="Pince Love Ajourée Light PM"
-                             style="display: block; width: 100%; max-width: 100%; height: auto; margin: 0 auto 12px auto; border-radius: 4px;" />
+                        <a href="https://mcdavidian.fr/pince-a-cheveux/pince-a-cheveux-love-ajouree-light-pm" target="_blank" style="text-decoration: none;">
+                            <img src="https://mcdavidian.fr/49884-large_default/pince-a-cheveux-love-ajouree-light-pm.jpg"
+                                 alt="Pince Love Ajourée Light PM"
+                                 style="display: block; width: 100%; max-width: 100%; height: auto; margin: 0 auto 12px auto; border-radius: 4px;" />
+                        </a>
                         <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">
                             Pince Love — PM
                         </p>
@@ -504,9 +506,11 @@
                         </a>
                     </div>
                     <div class="col-6" style="text-align: center; padding-bottom: 16px;">
-                        <img src="https://mcdavidian.fr/49798-large_default/serre-tete-fait-main-double-entrelacement-simple-mm.jpg"
-                             alt="Serre-Tête Double Entrelacement MM"
-                             style="display: block; width: 100%; max-width: 100%; height: auto; margin: 0 auto 12px auto; border-radius: 4px;" />
+                        <a href="https://mcdavidian.fr/serre-tete/serre-tete-fait-main-double-entrelacement-simple-mm" target="_blank" style="text-decoration: none;">
+                            <img src="https://mcdavidian.fr/49798-large_default/serre-tete-fait-main-double-entrelacement-simple-mm.jpg"
+                                 alt="Serre-Tête Double Entrelacement MM"
+                                 style="display: block; width: 100%; max-width: 100%; height: auto; margin: 0 auto 12px auto; border-radius: 4px;" />
+                        </a>
                         <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">
                             Serre-Tête Entrelacement — MM
                         </p>
@@ -524,14 +528,16 @@
         </div>
 
         <!-- PRODUIT GM — centré -->
-        <div class="s_text_block o_mail_snippet_general"
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
              style="background-color: #ffffff; padding: 0 24px 32px 24px; text-align: center;">
             <div class="container s_allow_columns">
                 <div class="row justify-content-center">
                     <div class="col-6" style="text-align: center;">
-                        <img src="https://mcdavidian.fr/51344-large_default/barrette-a-cheveux-queue-de-cheval-rectangle-simple-gm.jpg"
-                             alt="Barrette Rectangle Simple GM"
-                             style="display: block; width: 100%; max-width: 100%; height: auto; margin: 0 auto 12px auto; border-radius: 4px;" />
+                        <a href="https://mcdavidian.fr/barrettes-a-cheveux/barrette-a-cheveux-queue-de-cheval-rectangle-simple-gm" target="_blank" style="text-decoration: none;">
+                            <img src="https://mcdavidian.fr/51344-large_default/barrette-a-cheveux-queue-de-cheval-rectangle-simple-gm.jpg"
+                                 alt="Barrette Rectangle Simple GM"
+                                 style="display: block; width: 100%; max-width: 100%; height: auto; margin: 0 auto 12px auto; border-radius: 4px;" />
+                        </a>
                         <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">
                             Barrette Rectangle — GM
                         </p>
@@ -810,14 +816,16 @@
         </div>
 
         <!-- PRODUCTS PM + MM -->
-        <div class="s_text_block o_mail_snippet_general"
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
              style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
             <div class="container s_allow_columns">
                 <div class="row">
                     <div class="col-6" style="text-align: center; padding-bottom: 16px;">
-                        <img src="https://mcdavidian.com/7156-large_default/love-hair-clip-pm.jpg"
-                             alt="Love Hair Clip PM"
-                             style="display: block; width: 100%; max-width: 100%; height: auto; margin: 0 auto 12px auto; border-radius: 4px;" />
+                        <a href="https://mcdavidian.com/hairclips/love-hair-clip-pm" target="_blank" style="text-decoration: none;">
+                            <img src="https://mcdavidian.com/7156-large_default/love-hair-clip-pm.jpg"
+                                 alt="Love Hair Clip PM"
+                                 style="display: block; width: 100%; max-width: 100%; height: auto; margin: 0 auto 12px auto; border-radius: 4px;" />
+                        </a>
                         <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">
                             Love Hair Clip — PM
                         </p>
@@ -831,9 +839,11 @@
                         </a>
                     </div>
                     <div class="col-6" style="text-align: center; padding-bottom: 16px;">
-                        <img src="https://mcdavidian.com/5123-large_default/ivory-headband-mm.jpg"
-                             alt="Ivory Headband MM"
-                             style="display: block; width: 100%; max-width: 100%; height: auto; margin: 0 auto 12px auto; border-radius: 4px;" />
+                        <a href="https://mcdavidian.com/headbands/ivory-headband-mm" target="_blank" style="text-decoration: none;">
+                            <img src="https://mcdavidian.com/5123-large_default/ivory-headband-mm.jpg"
+                                 alt="Ivory Headband MM"
+                                 style="display: block; width: 100%; max-width: 100%; height: auto; margin: 0 auto 12px auto; border-radius: 4px;" />
+                        </a>
                         <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">
                             Ivory Headband — MM
                         </p>
@@ -851,14 +861,16 @@
         </div>
 
         <!-- PRODUCT GM — centred -->
-        <div class="s_text_block o_mail_snippet_general"
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
              style="background-color: #ffffff; padding: 0 24px 32px 24px; text-align: center;">
             <div class="container s_allow_columns">
                 <div class="row justify-content-center">
                     <div class="col-6" style="text-align: center;">
-                        <img src="https://mcdavidian.com/15363-large_default/timeless-ponytail-gm.jpg"
-                             alt="Timeless Ponytail GM"
-                             style="display: block; width: 100%; max-width: 100%; height: auto; margin: 0 auto 12px auto; border-radius: 4px;" />
+                        <a href="https://mcdavidian.com/ponytails/timeless-ponytail-gm" target="_blank" style="text-decoration: none;">
+                            <img src="https://mcdavidian.com/15363-large_default/timeless-ponytail-gm.jpg"
+                                 alt="Timeless Ponytail GM"
+                                 style="display: block; width: 100%; max-width: 100%; height: auto; margin: 0 auto 12px auto; border-radius: 4px;" />
+                        </a>
                         <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">
                             Timeless Ponytail — GM
                         </p>
