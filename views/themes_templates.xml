@@ -281,4 +281,658 @@
 
     </template>
 
+    <!-- ========================================================== -->
+    <!-- MC Davidian Newsletter #2 — Guide des tailles (FR) -->
+    <!-- ========================================================== -->
+    <template id="theme_mcdavidian_guide_tailles_fr_template">
+
+        <style id="design-element-guide-fr">
+            h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; color: #1a1a1a !important; }
+            p, p > *, li, li > * { color: #444444 !important; }
+            a { color: #c9a96e !important; }
+        </style>
+
+        <!-- HEADER ROSE POUDRÉ + LOGO -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #f5e1dc; padding: 40px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.fr" target="_blank" style="text-decoration: none;">
+                    <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg"
+                         alt="MC Davidian"
+                         width="200"
+                         style="display: inline-block; max-width: 200px; height: auto;" />
+                </a>
+                <p style="margin: 16px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 12px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
+                    Accessoires cheveux de luxe · Faits main en France depuis 1980
+                </p>
+            </div>
+        </div>
+
+        <!-- TITRE + SOUS-TITRE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h1 style="margin: 0 0 12px 0; font-size: 26px; line-height: 1.3; color: #1a1a1a !important;">
+                    Quelle taille choisir ?
+                </h1>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important; letter-spacing: 1px;">
+                    Le guide pour ne plus hésiter.
+                </p>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR DORE -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- INTRODUCTION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: center; font-style: italic;">
+                    C'est la question que nous recevons le plus souvent.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Chaque chevelure est unique — épaisseur, volume, longueur — et le bon accessoire est celui qui s'adapte parfaitement à la vôtre. Nous avons créé un guide simple pour vous aider à choisir.
+                </p>
+            </div>
+        </div>
+
+        <!-- TABLEAU DES TAILLES -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 18px; font-weight: 400; color: #1a1a1a !important; text-align: center;">
+                    Nos tailles en un coup d'œil
+                </p>
+                <table style="width: 100%; border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <tr style="background-color: #1a1a1a;">
+                        <td style="padding: 10px 12px; color: #c9a96e !important; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; font-size: 11px;">Taille</td>
+                        <td style="padding: 10px 12px; color: #c9a96e !important; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; font-size: 11px;">Signification</td>
+                        <td style="padding: 10px 12px; color: #c9a96e !important; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; font-size: 11px;">Pour qui ?</td>
+                    </tr>
+                    <tr style="background-color: #faf8f5;">
+                        <td style="padding: 10px 12px; color: #1a1a1a !important; font-weight: 600;">PM</td>
+                        <td style="padding: 10px 12px; color: #444444 !important;">Petit modèle</td>
+                        <td style="padding: 10px 12px; color: #444444 !important;">Cheveux fins</td>
+                    </tr>
+                    <tr style="background-color: #ffffff;">
+                        <td style="padding: 10px 12px; color: #1a1a1a !important; font-weight: 600;">MM</td>
+                        <td style="padding: 10px 12px; color: #444444 !important;">Moyen modèle</td>
+                        <td style="padding: 10px 12px; color: #444444 !important;">Cheveux normaux</td>
+                    </tr>
+                    <tr style="background-color: #faf8f5;">
+                        <td style="padding: 10px 12px; color: #1a1a1a !important; font-weight: 600;">GM</td>
+                        <td style="padding: 10px 12px; color: #444444 !important;">Grand modèle</td>
+                        <td style="padding: 10px 12px; color: #444444 !important;">Cheveux épais</td>
+                    </tr>
+                    <tr style="background-color: #ffffff;">
+                        <td style="padding: 10px 12px; color: #1a1a1a !important; font-weight: 600;">TGM</td>
+                        <td style="padding: 10px 12px; color: #444444 !important;">Très grand modèle</td>
+                        <td style="padding: 10px 12px; color: #444444 !important;">Cheveux très épais</td>
+                    </tr>
+                    <tr style="background-color: #faf8f5;">
+                        <td style="padding: 10px 12px; color: #1a1a1a !important; font-weight: 600;">TTGM</td>
+                        <td style="padding: 10px 12px; color: #444444 !important;">Très très grand modèle</td>
+                        <td style="padding: 10px 12px; color: #444444 !important;">Cheveux très abondants</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR DORE -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 8px 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- 3 CONSEILS — TITRE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 20px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 18px; font-weight: 400; color: #1a1a1a !important; text-align: center;">
+                    3 conseils pour bien choisir
+                </p>
+            </div>
+        </div>
+
+        <!-- CONSEIL 1 -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 20px 24px;">
+            <div class="container s_allow_columns">
+                <div class="row">
+                    <div class="col-1" style="text-align: center;">
+                        <div style="width: 36px; height: 36px; border-radius: 50%; background-color: #c9a96e; text-align: center; line-height: 36px; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; color: #ffffff !important;">1</div>
+                    </div>
+                    <div class="col-11">
+                        <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; color: #1a1a1a !important;">
+                            En cas de doute, prenez la taille au-dessus
+                        </p>
+                        <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; color: #666666 !important;">
+                            Une barrette légèrement plus grande est toujours plus confortable qu'une trop petite. Elle tient mieux et abîme moins les cheveux.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- CONSEIL 2 -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 20px 24px;">
+            <div class="container s_allow_columns">
+                <div class="row">
+                    <div class="col-1" style="text-align: center;">
+                        <div style="width: 36px; height: 36px; border-radius: 50%; background-color: #c9a96e; text-align: center; line-height: 36px; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; color: #ffffff !important;">2</div>
+                    </div>
+                    <div class="col-11">
+                        <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; color: #1a1a1a !important;">
+                            Cheveux fins ≠ peu de cheveux
+                        </p>
+                        <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; color: #666666 !important;">
+                            Vous pouvez avoir beaucoup de cheveux très fins. Dans ce cas, un MM sera plus adapté qu'un PM. C'est le volume total qui compte.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- CONSEIL 3 -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px;">
+            <div class="container s_allow_columns">
+                <div class="row">
+                    <div class="col-1" style="text-align: center;">
+                        <div style="width: 36px; height: 36px; border-radius: 50%; background-color: #c9a96e; text-align: center; line-height: 36px; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; color: #ffffff !important;">3</div>
+                    </div>
+                    <div class="col-11">
+                        <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; color: #1a1a1a !important;">
+                            Une barrette pour chaque coiffure
+                        </p>
+                        <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; color: #666666 !important;">
+                            <strong>PM / MM</strong> → demi-queue, mèche sur le côté<br/>
+                            <strong>GM</strong> → queue de cheval classique, chignon bas<br/>
+                            <strong>TGM / TTGM</strong> → queue de cheval volumineuse, chignon haut
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR DORE -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- TROUVEZ VOTRE TAILLE — TITRE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 20px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 18px; font-weight: 400; color: #1a1a1a !important; text-align: center;">
+                    Trouvez votre taille
+                </p>
+            </div>
+        </div>
+
+        <!-- PRODUITS PM + MM -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <div class="row">
+                    <div class="col-6" style="text-align: center; padding-bottom: 16px;">
+                        <img src="https://mcdavidian.fr/49884-large_default/pince-a-cheveux-love-ajouree-light-pm.jpg"
+                             alt="Pince Love Ajourée Light PM"
+                             style="display: block; width: 100%; max-width: 220px; height: auto; margin: 0 auto 12px auto; border-radius: 4px;" />
+                        <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">
+                            Pince Love — PM
+                        </p>
+                        <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important;">
+                            Cheveux fins
+                        </p>
+                        <a href="https://mcdavidian.fr/pince-a-cheveux/pince-a-cheveux-love-ajouree-light-pm"
+                           target="_blank"
+                           style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #c9a96e !important; text-decoration: underline;">
+                            Voir cette pièce →
+                        </a>
+                    </div>
+                    <div class="col-6" style="text-align: center; padding-bottom: 16px;">
+                        <img src="https://mcdavidian.fr/49798-large_default/serre-tete-fait-main-double-entrelacement-simple-mm.jpg"
+                             alt="Serre-Tête Double Entrelacement MM"
+                             style="display: block; width: 100%; max-width: 220px; height: auto; margin: 0 auto 12px auto; border-radius: 4px;" />
+                        <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">
+                            Serre-Tête Entrelacement — MM
+                        </p>
+                        <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important;">
+                            Cheveux normaux
+                        </p>
+                        <a href="https://mcdavidian.fr/serre-tete/serre-tete-fait-main-double-entrelacement-simple-mm"
+                           target="_blank"
+                           style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #c9a96e !important; text-decoration: underline;">
+                            Voir cette pièce →
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- PRODUIT GM — centré -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <div class="row justify-content-center">
+                    <div class="col-6" style="text-align: center;">
+                        <img src="https://mcdavidian.fr/51344-large_default/barrette-a-cheveux-queue-de-cheval-rectangle-simple-gm.jpg"
+                             alt="Barrette Rectangle Simple GM"
+                             style="display: block; width: 100%; max-width: 260px; height: auto; margin: 0 auto 12px auto; border-radius: 4px;" />
+                        <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">
+                            Barrette Rectangle — GM
+                        </p>
+                        <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important;">
+                            Cheveux épais
+                        </p>
+                        <a href="https://mcdavidian.fr/barrettes-a-cheveux/barrette-a-cheveux-queue-de-cheval-rectangle-simple-gm"
+                           target="_blank"
+                           style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #c9a96e !important; text-decoration: underline;">
+                            Voir cette pièce →
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- CONCLUSION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Et si vous hésitez encore ? Répondez simplement à cet email. Marie-Christine vous conseillera personnellement.
+                </p>
+                <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    À bientôt,
+                </p>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-style: italic; color: #1a1a1a !important; text-align: left;">
+                    Marie-Christine
+                </p>
+            </div>
+        </div>
+
+        <!-- BOUTON CTA -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 8px 24px 40px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.fr/pages/guide-des-tailles"
+                   target="_blank"
+                   class="btn btn-primary"
+                   style="display: inline-block; padding: 14px 40px; background-color: #c9a96e !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #ffffff !important; text-decoration: none; border-radius: 2px; border: none;">
+                    Voir le guide complet
+                </a>
+            </div>
+        </div>
+
+        <!-- CITATION BANDEAU ROSE POUDRÉ -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f5e1dc; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 17px; font-style: italic; line-height: 1.6; color: #7a5c5c !important;">
+                    « Le bon accessoire est celui qui s'adapte parfaitement à votre chevelure. »
+                </p>
+            </div>
+        </div>
+
+        <!-- FOOTER CONTACT -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; color: #1a1a1a !important; text-transform: uppercase; letter-spacing: 1px;">
+                    MC Davidian
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important; line-height: 1.6;">
+                    Accessoires Cheveux · Faits Main en France<br/>
+                    <a href="mailto:marie@news.mcdavidian.com" style="color: #c9a96e !important; text-decoration: none;">marie@news.mcdavidian.com</a>
+                    &#160;•&#160;
+                    <a href="https://mcdavidian.fr" target="_blank" style="color: #c9a96e !important; text-decoration: none;">mcdavidian.fr</a>
+                </p>
+            </div>
+        </div>
+
+        <!-- UNSUBSCRIBE -->
+        <t t-call="mass_mailing.s_mail_block_footer_social"/>
+
+    </template>
+
+    <!-- ========================================================== -->
+    <!-- MC Davidian Newsletter #2 — Size Guide (EN) -->
+    <!-- ========================================================== -->
+    <template id="theme_mcdavidian_guide_tailles_en_template">
+
+        <style id="design-element-guide-en">
+            h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; color: #1a1a1a !important; }
+            p, p > *, li, li > * { color: #444444 !important; }
+            a { color: #c9a96e !important; }
+        </style>
+
+        <!-- HEADER BLUSH PINK + LOGO -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #f5e1dc; padding: 40px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.com" target="_blank" style="text-decoration: none;">
+                    <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg"
+                         alt="MC Davidian"
+                         width="200"
+                         style="display: inline-block; max-width: 200px; height: auto;" />
+                </a>
+                <p style="margin: 16px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 12px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
+                    Luxury hair accessories · Handmade in France since 1980
+                </p>
+            </div>
+        </div>
+
+        <!-- TITLE + SUBTITLE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h1 style="margin: 0 0 12px 0; font-size: 26px; line-height: 1.3; color: #1a1a1a !important;">
+                    Which size should you choose?
+                </h1>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important; letter-spacing: 1px;">
+                    The guide to choosing with confidence.
+                </p>
+            </div>
+        </div>
+
+        <!-- SEPARATOR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- INTRODUCTION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: center; font-style: italic;">
+                    It's the question we receive most often.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Every head of hair is unique — thickness, volume, length — and the right accessory is the one that fits yours perfectly. We've created a simple guide to help you choose.
+                </p>
+            </div>
+        </div>
+
+        <!-- SIZE TABLE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 18px; font-weight: 400; color: #1a1a1a !important; text-align: center;">
+                    Our sizes at a glance
+                </p>
+                <table style="width: 100%; border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <tr style="background-color: #1a1a1a;">
+                        <td style="padding: 10px 12px; color: #c9a96e !important; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; font-size: 11px;">Size</td>
+                        <td style="padding: 10px 12px; color: #c9a96e !important; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; font-size: 11px;">Meaning</td>
+                        <td style="padding: 10px 12px; color: #c9a96e !important; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; font-size: 11px;">Best for</td>
+                    </tr>
+                    <tr style="background-color: #faf8f5;">
+                        <td style="padding: 10px 12px; color: #1a1a1a !important; font-weight: 600;">PM</td>
+                        <td style="padding: 10px 12px; color: #444444 !important;">Small</td>
+                        <td style="padding: 10px 12px; color: #444444 !important;">Fine hair</td>
+                    </tr>
+                    <tr style="background-color: #ffffff;">
+                        <td style="padding: 10px 12px; color: #1a1a1a !important; font-weight: 600;">MM</td>
+                        <td style="padding: 10px 12px; color: #444444 !important;">Medium</td>
+                        <td style="padding: 10px 12px; color: #444444 !important;">Normal hair</td>
+                    </tr>
+                    <tr style="background-color: #faf8f5;">
+                        <td style="padding: 10px 12px; color: #1a1a1a !important; font-weight: 600;">GM</td>
+                        <td style="padding: 10px 12px; color: #444444 !important;">Large</td>
+                        <td style="padding: 10px 12px; color: #444444 !important;">Thick hair</td>
+                    </tr>
+                    <tr style="background-color: #ffffff;">
+                        <td style="padding: 10px 12px; color: #1a1a1a !important; font-weight: 600;">TGM</td>
+                        <td style="padding: 10px 12px; color: #444444 !important;">Extra Large</td>
+                        <td style="padding: 10px 12px; color: #444444 !important;">Very thick hair</td>
+                    </tr>
+                    <tr style="background-color: #faf8f5;">
+                        <td style="padding: 10px 12px; color: #1a1a1a !important; font-weight: 600;">TTGM</td>
+                        <td style="padding: 10px 12px; color: #444444 !important;">XXL</td>
+                        <td style="padding: 10px 12px; color: #444444 !important;">Very abundant hair</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <!-- SEPARATOR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 8px 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- 3 TIPS — TITLE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 20px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 18px; font-weight: 400; color: #1a1a1a !important; text-align: center;">
+                    3 tips for choosing well
+                </p>
+            </div>
+        </div>
+
+        <!-- TIP 1 -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 20px 24px;">
+            <div class="container s_allow_columns">
+                <div class="row">
+                    <div class="col-1" style="text-align: center;">
+                        <div style="width: 36px; height: 36px; border-radius: 50%; background-color: #c9a96e; text-align: center; line-height: 36px; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; color: #ffffff !important;">1</div>
+                    </div>
+                    <div class="col-11">
+                        <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; color: #1a1a1a !important;">
+                            When in doubt, go one size up
+                        </p>
+                        <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; color: #666666 !important;">
+                            A slightly larger barrette is always more comfortable than one that's too small. It holds better and is gentler on your hair.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- TIP 2 -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 20px 24px;">
+            <div class="container s_allow_columns">
+                <div class="row">
+                    <div class="col-1" style="text-align: center;">
+                        <div style="width: 36px; height: 36px; border-radius: 50%; background-color: #c9a96e; text-align: center; line-height: 36px; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; color: #ffffff !important;">2</div>
+                    </div>
+                    <div class="col-11">
+                        <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; color: #1a1a1a !important;">
+                            Fine hair ≠ thin hair
+                        </p>
+                        <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; color: #666666 !important;">
+                            You can have a lot of very fine hair. In that case, an MM will suit you better than a PM. It's total volume that matters.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- TIP 3 -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px;">
+            <div class="container s_allow_columns">
+                <div class="row">
+                    <div class="col-1" style="text-align: center;">
+                        <div style="width: 36px; height: 36px; border-radius: 50%; background-color: #c9a96e; text-align: center; line-height: 36px; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; color: #ffffff !important;">3</div>
+                    </div>
+                    <div class="col-11">
+                        <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; color: #1a1a1a !important;">
+                            One barrette for every hairstyle
+                        </p>
+                        <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; color: #666666 !important;">
+                            <strong>PM / MM</strong> → half-up, side-swept strands<br/>
+                            <strong>GM</strong> → classic ponytail, low bun<br/>
+                            <strong>TGM / TTGM</strong> → voluminous ponytail, high chignon
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SEPARATOR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- FIND YOUR SIZE — TITLE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 20px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 18px; font-weight: 400; color: #1a1a1a !important; text-align: center;">
+                    Find your size
+                </p>
+            </div>
+        </div>
+
+        <!-- PRODUCTS PM + MM -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <div class="row">
+                    <div class="col-6" style="text-align: center; padding-bottom: 16px;">
+                        <img src="https://mcdavidian.com/7156-large_default/love-hair-clip-pm.jpg"
+                             alt="Love Hair Clip PM"
+                             style="display: block; width: 100%; max-width: 220px; height: auto; margin: 0 auto 12px auto; border-radius: 4px;" />
+                        <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">
+                            Love Hair Clip — PM
+                        </p>
+                        <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important;">
+                            Fine hair
+                        </p>
+                        <a href="https://mcdavidian.com/hairclips/love-hair-clip-pm"
+                           target="_blank"
+                           style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #c9a96e !important; text-decoration: underline;">
+                            See this piece →
+                        </a>
+                    </div>
+                    <div class="col-6" style="text-align: center; padding-bottom: 16px;">
+                        <img src="https://mcdavidian.com/5123-large_default/ivory-headband-mm.jpg"
+                             alt="Ivory Headband MM"
+                             style="display: block; width: 100%; max-width: 220px; height: auto; margin: 0 auto 12px auto; border-radius: 4px;" />
+                        <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">
+                            Ivory Headband — MM
+                        </p>
+                        <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important;">
+                            Normal hair
+                        </p>
+                        <a href="https://mcdavidian.com/headbands/ivory-headband-mm"
+                           target="_blank"
+                           style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #c9a96e !important; text-decoration: underline;">
+                            See this piece →
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- PRODUCT GM — centred -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <div class="row justify-content-center">
+                    <div class="col-6" style="text-align: center;">
+                        <img src="https://mcdavidian.com/15363-large_default/timeless-ponytail-gm.jpg"
+                             alt="Timeless Ponytail GM"
+                             style="display: block; width: 100%; max-width: 260px; height: auto; margin: 0 auto 12px auto; border-radius: 4px;" />
+                        <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">
+                            Timeless Ponytail — GM
+                        </p>
+                        <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important;">
+                            Thick hair
+                        </p>
+                        <a href="https://mcdavidian.com/ponytails/timeless-ponytail-gm"
+                           target="_blank"
+                           style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #c9a96e !important; text-decoration: underline;">
+                            See this piece →
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- CONCLUSION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Still unsure? Simply reply to this email. Marie-Christine will advise you personally.
+                </p>
+                <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    See you soon,
+                </p>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-style: italic; color: #1a1a1a !important; text-align: left;">
+                    Marie-Christine
+                </p>
+            </div>
+        </div>
+
+        <!-- CTA BUTTON -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 8px 24px 40px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.com/content/accessories-guide"
+                   target="_blank"
+                   class="btn btn-primary"
+                   style="display: inline-block; padding: 14px 40px; background-color: #c9a96e !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #ffffff !important; text-decoration: none; border-radius: 2px; border: none;">
+                    See the full guide
+                </a>
+            </div>
+        </div>
+
+        <!-- QUOTE BANNER -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f5e1dc; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 17px; font-style: italic; line-height: 1.6; color: #7a5c5c !important;">
+                    "The right accessory is the one that fits your hair perfectly."
+                </p>
+            </div>
+        </div>
+
+        <!-- FOOTER CONTACT -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; color: #1a1a1a !important; text-transform: uppercase; letter-spacing: 1px;">
+                    MC Davidian
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important; line-height: 1.6;">
+                    Luxury Hair Accessories · Handmade in France<br/>
+                    <a href="mailto:marie@news.mcdavidian.com" style="color: #c9a96e !important; text-decoration: none;">marie@news.mcdavidian.com</a>
+                    &#160;•&#160;
+                    <a href="https://mcdavidian.com" target="_blank" style="color: #c9a96e !important; text-decoration: none;">mcdavidian.com</a>
+                </p>
+            </div>
+        </div>
+
+        <!-- UNSUBSCRIBE -->
+        <t t-call="mass_mailing.s_mail_block_footer_social"/>
+
+    </template>
+
 </odoo>
