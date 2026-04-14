@@ -1395,4 +1395,367 @@
 
     </template>
 
+    <!-- ============================================================ -->
+    <!-- MC Davidian B2B — Bilingual EN/FR — Bienvenue revendeurs     -->
+    <!-- ============================================================ -->
+    <template id="theme_mcdavidian_b2b_bienvenue_template">
+
+        <style id="design-element-b2b">
+            h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; color: #1a1a1a !important; }
+            p, p > *, li, li > * { color: #444444 !important; }
+            a { color: #c9a96e !important; }
+        </style>
+
+        <!-- HEADER BLUSH PINK + LOGO -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #f5e1dc; padding: 40px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.hair" target="_blank" style="text-decoration: none;">
+                    <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg"
+                         alt="MC Davidian"
+                         width="200"
+                         style="display: inline-block; max-width: 200px; height: auto;" />
+                </a>
+                <p style="margin: 16px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 12px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
+                    Reseller Partners · Partenaires revendeurs · Since 1980
+                </p>
+            </div>
+        </div>
+
+        <!-- PHOTO MARIE-CHRISTINE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px 0 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <img src="https://gallery.mcdavidian.com/i.php?/galleries/!%20Newsletters/1/_IMG2320-me.jpg"
+                     alt="Marie-Christine at a partner boutique"
+                     style="display: block; width: 100%; max-width: 400px; height: auto; margin: 0 auto; border-radius: 4px;" />
+                <p style="margin: 12px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 13px; font-style: italic; color: #999999 !important;">
+                    Marie-Christine, creating since 1980 · Créatrice depuis 1980
+                </p>
+            </div>
+        </div>
+
+        <!-- ======== ENGLISH SECTION ======== -->
+
+        <!-- EN TITLE + SUBTITLE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h1 style="margin: 0 0 12px 0; font-size: 26px; line-height: 1.3; color: #1a1a1a !important;">
+                    Dear partner, dear boutique.
+                </h1>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important; letter-spacing: 1px;">
+                    Marie-Christine Davidian, French house of hair accessories.
+                </p>
+            </div>
+        </div>
+
+        <!-- EN SEPARATOR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- EN INTRODUCTION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: center; font-style: italic;">
+                    I should have written to you much sooner.
+                </p>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Since 1980, I have been creating hair accessories in my workshop in France. You already know this — you present them to your customers every day. And yet, we never took the time to write to you regularly.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    That changes today.
+                </p>
+            </div>
+        </div>
+
+        <!-- EN SEPARATOR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- EN — WHAT YOU'LL RECEIVE EACH MONTH -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0; font-size: 18px; color: #1a1a1a !important;">
+                    What you'll receive each month
+                </h2>
+            </div>
+        </div>
+
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 8px 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 12px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    <strong style="color: #1a1a1a !important;">1. New collections in preview</strong><br/>
+                    Discover new pieces before they go live online.
+                </p>
+                <p style="margin: 0 0 12px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    <strong style="color: #1a1a1a !important;">2. Merchandising tips</strong><br/>
+                    Ideas to showcase our pieces in your window display.
+                </p>
+                <p style="margin: 0 0 12px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    <strong style="color: #1a1a1a !important;">3. Sales tools</strong><br/>
+                    Display stands, velvet pouches, visuals — everything to elevate the sale.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    <strong style="color: #1a1a1a !important;">4. Field insights</strong><br/>
+                    What works for your fellow retailers — inspiration and best practices.
+                </p>
+            </div>
+        </div>
+
+        <!-- EN SEPARATOR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- EN — TOOLS FOR YOUR POINT OF SALE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f8f6f3; padding: 32px 24px;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 20px 0; font-size: 18px; color: #1a1a1a !important; text-align: center;">
+                    Our tools for your point of sale
+                </h2>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    <strong style="color: #1a1a1a !important;">Dedicated display stands</strong><br/>
+                    Brushes, headbands — display stands designed for optimal presentation in your space.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    <strong style="color: #1a1a1a !important;">Premium pouches</strong><br/>
+                    Velvet pouches (classic range) and velour pouches (luxury range) — every sale becomes a gift.
+                </p>
+            </div>
+        </div>
+
+        <!-- EN — INVITATION TO DIALOGUE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    What makes MC Davidian strong is you. Your feedback, your ideas, your knowledge of your customers.
+                </p>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    If you have a question, a suggestion, or simply want to chat — reply to this email or write to me on WhatsApp. I read every message personally.
+                </p>
+                <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Talk soon,
+                </p>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-style: italic; color: #1a1a1a !important; text-align: left;">
+                    Marie-Christine
+                </p>
+            </div>
+        </div>
+
+        <!-- ======== LANGUAGE DIVIDER ======== -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f5e1dc; padding: 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 8px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 14px; color: #7a5c5c !important; letter-spacing: 3px;">
+                    ── ✦ ──
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #7a5c5c !important; font-style: italic;">
+                    Version française ci-dessous · French version above
+                </p>
+            </div>
+        </div>
+
+        <!-- ======== FRENCH SECTION ======== -->
+
+        <!-- FR TITRE + SOUS-TITRE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h1 style="margin: 0 0 12px 0; font-size: 26px; line-height: 1.3; color: #1a1a1a !important;">
+                    Chère partenaire, chère boutique.
+                </h1>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important; letter-spacing: 1px;">
+                    Marie-Christine Davidian, maison française d'accessoires pour cheveux.
+                </p>
+            </div>
+        </div>
+
+        <!-- FR SEPARATEUR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- FR INTRODUCTION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: center; font-style: italic;">
+                    J'aurais dû vous écrire bien plus tôt.
+                </p>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Depuis 1980, je crée des accessoires pour cheveux dans mon atelier en France. Vous le savez — vous les présentez chaque jour à vos clientes. Et pourtant, nous n'avons jamais pris le temps de vous écrire régulièrement.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    C'est chose faite.
+                </p>
+            </div>
+        </div>
+
+        <!-- FR SEPARATEUR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- FR — CE QUE VOUS RECEVREZ CHAQUE MOIS -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0; font-size: 18px; color: #1a1a1a !important;">
+                    Ce que vous recevrez chaque mois
+                </h2>
+            </div>
+        </div>
+
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 8px 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 12px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    <strong style="color: #1a1a1a !important;">1. Nouveautés en avant-première</strong><br/>
+                    Découvrez les nouvelles collections avant qu'elles n'arrivent en ligne.
+                </p>
+                <p style="margin: 0 0 12px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    <strong style="color: #1a1a1a !important;">2. Conseils merchandising</strong><br/>
+                    Des idées pour mettre en valeur nos pièces dans votre vitrine.
+                </p>
+                <p style="margin: 0 0 12px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    <strong style="color: #1a1a1a !important;">3. Outils de vente</strong><br/>
+                    Présentoirs, pochettes velours, visuels — tout pour sublimer la vente.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    <strong style="color: #1a1a1a !important;">4. Retours du terrain</strong><br/>
+                    Ce qui fonctionne chez vos confrères — inspirations et bonnes pratiques.
+                </p>
+            </div>
+        </div>
+
+        <!-- FR SEPARATEUR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- FR — OUTILS POUR VOS POINTS DE VENTE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f8f6f3; padding: 32px 24px;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 20px 0; font-size: 18px; color: #1a1a1a !important; text-align: center;">
+                    Nos outils pour vos points de vente
+                </h2>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    <strong style="color: #1a1a1a !important;">Présentoirs dédiés</strong><br/>
+                    Brosses, serre-têtes — des présentoirs conçus pour une mise en valeur optimale dans votre espace.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    <strong style="color: #1a1a1a !important;">Pochettes premium</strong><br/>
+                    Pochettes velours (gamme classique) et velvet (gamme luxe) — chaque vente devient un cadeau.
+                </p>
+            </div>
+        </div>
+
+        <!-- FR — INVITATION AU DIALOGUE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Ce qui fait la force de MC Davidian, c'est vous. Vos retours, vos idées, votre connaissance de vos clientes.
+                </p>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Si vous avez une question, une suggestion, ou simplement envie d'échanger — répondez à cet email ou écrivez-moi sur WhatsApp. Je lis chaque message personnellement.
+                </p>
+                <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    À très bientôt,
+                </p>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-style: italic; color: #1a1a1a !important; text-align: left;">
+                    Marie-Christine
+                </p>
+            </div>
+        </div>
+
+        <!-- ======== SHARED CTA + FOOTER ======== -->
+
+        <!-- BOUTON CTA PRINCIPAL — bilingue -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 8px 24px 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.hair"
+                   target="_blank"
+                   class="btn btn-primary"
+                   style="display: inline-block; padding: 14px 40px; background-color: #c9a96e !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #ffffff !important; text-decoration: none; border-radius: 2px; border: none;">
+                    Discover / Découvrir le catalogue B2B
+                </a>
+            </div>
+        </div>
+
+        <!-- BOUTON WHATSAPP — bilingue -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 40px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://wa.me/33651752267"
+                   target="_blank"
+                   class="btn btn-secondary"
+                   style="display: inline-block; padding: 12px 32px; background-color: #ffffff !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #c9a96e !important; text-decoration: none; border-radius: 2px; border: 2px solid #c9a96e !important;">
+                    Write to / Écrire à Marie-Christine
+                </a>
+            </div>
+        </div>
+
+        <!-- CITATION BANDEAU — bilingue -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f5e1dc; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 8px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 17px; font-style: italic; line-height: 1.6; color: #7a5c5c !important;">
+                    "What makes MC Davidian strong is you."
+                </p>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; line-height: 1.6; color: #7a5c5c !important;">
+                    « Ce qui fait la force de MC Davidian, c'est vous. »
+                </p>
+            </div>
+        </div>
+
+        <!-- FOOTER CONTACT — bilingue -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; color: #1a1a1a !important; text-transform: uppercase; letter-spacing: 1px;">
+                    MC Davidian
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important; line-height: 1.6;">
+                    Reseller Partners · Partenaires Revendeurs · Handmade in France<br/>
+                    <a href="mailto:marie@news.mcdavidian.com" style="color: #c9a96e !important; text-decoration: none;">marie@news.mcdavidian.com</a>
+                    &#160;•&#160;
+                    <a href="https://mcdavidian.hair" target="_blank" style="color: #c9a96e !important; text-decoration: none;">mcdavidian.hair</a>
+                </p>
+            </div>
+        </div>
+
+        <!-- UNSUBSCRIBE -->
+        <t t-call="mass_mailing.s_mail_block_footer_social"/>
+
+    </template>
+
 </odoo>

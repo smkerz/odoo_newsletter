@@ -41,6 +41,12 @@
                  data-layout-styles="background-color: #f8f6f3 !important;">
                 <t t-call="odoo_newsletter.theme_mcdavidian_nouveautes_promo_en_template"/>
             </div>
+            <div data-name="mcdavidian_b2b_bienvenue"
+                 title="MC Davidian B2B — Bienvenue / Welcome (EN/FR)"
+                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_thumb"
+                 data-layout-styles="background-color: #f8f6f3 !important;">
+                <t t-call="odoo_newsletter.theme_mcdavidian_b2b_bienvenue_template"/>
+            </div>
         </xpath>
     </template>
 
