@@ -821,11 +821,13 @@
             <div class="container s_allow_columns">
                 <div class="row">
                     <div class="col-6" style="text-align: center; padding-bottom: 16px;">
-                        <a href="https://mcdavidian.com/hairclips/love-hair-clip-pm" target="_blank" style="display: block; text-decoration: none; text-align: center;">
-                            <img src="https://mcdavidian.com/7156-large_default/love-hair-clip-pm.jpg"
-                                 alt="Love Hair Clip PM"
-                                 style="display: inline-block; width: auto; max-width: 80%; height: auto; margin: 0 auto 12px auto; border-radius: 4px;" />
-                        </a>
+                        <table align="center" style="border-collapse: collapse; margin: 0 auto 12px auto;"><tr><td align="center">
+                            <a href="https://mcdavidian.com/hairclips/love-hair-clip-pm" target="_blank">
+                                <img src="https://mcdavidian.com/7156-large_default/love-hair-clip-pm.jpg"
+                                     alt="Love Hair Clip PM" width="200"
+                                     style="width: 200px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                            </a>
+                        </td></tr></table>
                         <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">
                             Love Hair Clip — PM
                         </p>
@@ -839,11 +841,13 @@
                         </a>
                     </div>
                     <div class="col-6" style="text-align: center; padding-bottom: 16px;">
-                        <a href="https://mcdavidian.com/headbands/ivory-headband-mm" target="_blank" style="display: block; text-decoration: none; text-align: center;">
-                            <img src="https://mcdavidian.com/5123-large_default/ivory-headband-mm.jpg"
-                                 alt="Ivory Headband MM"
-                                 style="display: inline-block; width: auto; max-width: 80%; height: auto; margin: 0 auto 12px auto; border-radius: 4px;" />
-                        </a>
+                        <table align="center" style="border-collapse: collapse; margin: 0 auto 12px auto;"><tr><td align="center">
+                            <a href="https://mcdavidian.com/headbands/ivory-headband-mm" target="_blank">
+                                <img src="https://mcdavidian.com/5123-large_default/ivory-headband-mm.jpg"
+                                     alt="Ivory Headband MM" width="200"
+                                     style="width: 200px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                            </a>
+                        </td></tr></table>
                         <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">
                             Ivory Headband — MM
                         </p>
@@ -866,11 +870,13 @@
             <div class="container s_allow_columns">
                 <div class="row justify-content-center">
                     <div class="col-6" style="text-align: center;">
-                        <a href="https://mcdavidian.com/ponytails/timeless-ponytail-gm" target="_blank" style="display: block; text-decoration: none; text-align: center;">
-                            <img src="https://mcdavidian.com/15363-large_default/timeless-ponytail-gm.jpg"
-                                 alt="Timeless Ponytail GM"
-                                 style="display: inline-block; width: auto; max-width: 80%; height: auto; margin: 0 auto 12px auto; border-radius: 4px;" />
-                        </a>
+                        <table align="center" style="border-collapse: collapse; margin: 0 auto 12px auto;"><tr><td align="center">
+                            <a href="https://mcdavidian.com/ponytails/timeless-ponytail-gm" target="_blank">
+                                <img src="https://mcdavidian.com/15363-large_default/timeless-ponytail-gm.jpg"
+                                     alt="Timeless Ponytail GM" width="200"
+                                     style="width: 200px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                            </a>
+                        </td></tr></table>
                         <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">
                             Timeless Ponytail — GM
                         </p>
