@@ -1412,6 +1412,16 @@
             a { color: #c9a96e !important; }
         </style>
 
+        <!-- FR VERSION NOTICE -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #1a1a1a; padding: 10px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #ffffff !important; letter-spacing: 0.5px;">
+                    🇫🇷 Version française disponible plus bas
+                </p>
+            </div>
+        </div>
+
         <!-- HEADER BLUSH PINK + LOGO -->
         <div class="s_text_block o_mail_snippet_general o_not_editable"
              style="background-color: #f5e1dc; padding: 40px 20px; text-align: center;">
@@ -1480,9 +1490,22 @@
             </div>
         </div>
 
+        <!-- EN — CREDENTIALS -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f8f6f3; padding: 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 6px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 13px; font-style: italic; color: #c9a96e !important; letter-spacing: 1px;">
+                    As seen in Vogue · Elle · Cosmopolitan
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important; letter-spacing: 0.5px;">
+                    2000+ references · 30+ collections · Handmade since 1980
+                </p>
+            </div>
+        </div>
+
         <!-- EN SEPARATOR -->
         <div class="s_hr o_mail_snippet_general"
-             style="background-color: #ffffff; padding: 8px 24px; text-align: center;">
+             style="background-color: #ffffff; padding: 16px 24px; text-align: center;">
             <div class="container s_allow_columns">
                 <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
             </div>
@@ -1565,6 +1588,32 @@
             </div>
         </div>
 
+        <!-- EN CTA BUTTON -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 8px 24px 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.hair"
+                   target="_blank"
+                   class="btn btn-primary"
+                   style="display: inline-block; padding: 14px 40px; background-color: #c9a96e !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #ffffff !important; text-decoration: none; border-radius: 2px; border: none;">
+                    Discover the B2B catalogue
+                </a>
+            </div>
+        </div>
+
+        <!-- EN WHATSAPP BUTTON -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 40px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://wa.me/33651752267"
+                   target="_blank"
+                   class="btn btn-secondary"
+                   style="display: inline-block; padding: 12px 32px; background-color: #ffffff !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #c9a96e !important; text-decoration: none; border-radius: 2px; border: 2px solid #c9a96e !important;">
+                    💬 Write to Marie-Christine
+                </a>
+            </div>
+        </div>
+
         <!-- ======== LANGUAGE DIVIDER ======== -->
         <div class="s_text_block o_mail_snippet_general"
              style="background-color: #f5e1dc; padding: 24px; text-align: center;">
@@ -1617,9 +1666,22 @@
             </div>
         </div>
 
+        <!-- FR — CREDENTIALS -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f8f6f3; padding: 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 6px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 13px; font-style: italic; color: #c9a96e !important; letter-spacing: 1px;">
+                    Vu dans Vogue · Elle · Cosmopolitan
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important; letter-spacing: 0.5px;">
+                    2000+ références · 30+ collections · Fait main depuis 1980
+                </p>
+            </div>
+        </div>
+
         <!-- FR SEPARATEUR -->
         <div class="s_hr o_mail_snippet_general"
-             style="background-color: #ffffff; padding: 8px 24px; text-align: center;">
+             style="background-color: #ffffff; padding: 16px 24px; text-align: center;">
             <div class="container s_allow_columns">
                 <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
             </div>
@@ -1702,9 +1764,7 @@
             </div>
         </div>
 
-        <!-- ======== SHARED CTA + FOOTER ======== -->
-
-        <!-- BOUTON CTA PRINCIPAL — bilingue -->
+        <!-- FR CTA BUTTON -->
         <div class="s_btn o_mail_snippet_general"
              style="background-color: #ffffff; padding: 8px 24px 16px 24px; text-align: center;">
             <div class="container s_allow_columns">
@@ -1712,12 +1772,12 @@
                    target="_blank"
                    class="btn btn-primary"
                    style="display: inline-block; padding: 14px 40px; background-color: #c9a96e !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #ffffff !important; text-decoration: none; border-radius: 2px; border: none;">
-                    Discover / Découvrir le catalogue B2B
+                    Découvrir le catalogue B2B
                 </a>
             </div>
         </div>
 
-        <!-- BOUTON WHATSAPP — bilingue -->
+        <!-- FR WHATSAPP BUTTON -->
         <div class="s_btn o_mail_snippet_general"
              style="background-color: #ffffff; padding: 0 24px 40px 24px; text-align: center;">
             <div class="container s_allow_columns">
@@ -1725,7 +1785,7 @@
                    target="_blank"
                    class="btn btn-secondary"
                    style="display: inline-block; padding: 12px 32px; background-color: #ffffff !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #c9a96e !important; text-decoration: none; border-radius: 2px; border: 2px solid #c9a96e !important;">
-                    Write to / Écrire à Marie-Christine
+                    💬 Écrire à Marie-Christine
                 </a>
             </div>
         </div>
