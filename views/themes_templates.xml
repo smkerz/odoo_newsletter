@@ -1503,6 +1503,19 @@
             </div>
         </div>
 
+        <!-- HERO PRODUCT PHOTO -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <img src="https://gallery.mcdavidian.com/_data/i/galleries/Photo%20Shooting/2020.06%20Photo%20Santa%20Lucia/Compressed/DSC_0506-xl.JPG"
+                     alt="MC Davidian brushes, barrettes and pins collection"
+                     style="display: block; width: 100%; max-width: 560px; height: auto; margin: 0 auto; border-radius: 4px;" />
+                <p style="margin: 12px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 13px; font-style: italic; color: #999999 !important;">
+                    A glimpse of the collection · Un aperçu de la collection
+                </p>
+            </div>
+        </div>
+
         <!-- EN SEPARATOR -->
         <div class="s_hr o_mail_snippet_general"
              style="background-color: #ffffff; padding: 16px 24px; text-align: center;">
