@@ -1564,24 +1564,6 @@
             </div>
         </div>
 
-        <!-- EN · TOOLS FOR YOUR POINT OF SALE -->
-        <div class="s_text_block o_mail_snippet_general"
-             style="background-color: #f8f6f3; padding: 32px 24px;">
-            <div class="container s_allow_columns">
-                <h2 style="margin: 0 0 20px 0; font-size: 18px; color: #1a1a1a !important; text-align: center;">
-                    Our tools for your point of sale
-                </h2>
-                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
-                    <strong style="color: #1a1a1a !important;">Dedicated display stands</strong><br/>
-                    Brushes and headbands. Display stands designed for optimal presentation in your space.
-                </p>
-                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
-                    <strong style="color: #1a1a1a !important;">Premium pouches</strong><br/>
-                    Velvet pouches (classic range) and velour pouches (luxury range). Every sale becomes a gift.
-                </p>
-            </div>
-        </div>
-
         <!-- EN · INVITATION TO DIALOGUE -->
         <div class="s_text_block o_mail_snippet_general"
              style="background-color: #ffffff; padding: 32px 24px 24px 24px;">
@@ -1737,24 +1719,6 @@
              style="background-color: #ffffff; padding: 8px 24px; text-align: center;">
             <div class="container s_allow_columns">
                 <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
-            </div>
-        </div>
-
-        <!-- FR · OUTILS POUR VOS POINTS DE VENTE -->
-        <div class="s_text_block o_mail_snippet_general"
-             style="background-color: #f8f6f3; padding: 32px 24px;">
-            <div class="container s_allow_columns">
-                <h2 style="margin: 0 0 20px 0; font-size: 18px; color: #1a1a1a !important; text-align: center;">
-                    Nos outils pour vos points de vente
-                </h2>
-                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
-                    <strong style="color: #1a1a1a !important;">Présentoirs dédiés</strong><br/>
-                    Brosses et serre-têtes. Des présentoirs conçus pour une mise en valeur optimale dans votre espace.
-                </p>
-                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
-                    <strong style="color: #1a1a1a !important;">Pochettes premium</strong><br/>
-                    Pochettes velours (gamme classique) et velvet (gamme luxe). Chaque vente devient un cadeau.
-                </p>
             </div>
         </div>
 
