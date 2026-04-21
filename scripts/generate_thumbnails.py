@@ -27,10 +27,10 @@ GOLD = (201, 169, 110)
 DARK = (26, 26, 26)
 GRAY = (122, 92, 92)
 
-# Tailles cibles Odoo
+# Tailles cibles Odoo (format portrait, aperçu d'email)
 SIZES = {
-    "small": (220, 124),
-    "large": (640, 360),
+    "small": (240, 340),
+    "large": (480, 680),
 }
 
 def get_font(size, italic=False, bold=False):
@@ -56,64 +56,79 @@ def make_thumbnail(W, H, title, category, is_large):
     img = Image.new("RGB", (W, H), ROSE_BG)
     draw = ImageDraw.Draw(img)
 
-    # Facteurs d'échelle basés sur la hauteur
-    scale = H / 360
+    # Facteurs d'échelle basés sur la largeur (format portrait)
+    scale = W / 240
 
     # Liserés or haut/bas
-    border = max(2, int(4 * scale))
+    border = max(2, int(3 * scale))
     draw.rectangle([0, 0, W, border], fill=GOLD)
     draw.rectangle([0, H - border, W, H], fill=GOLD)
 
-    # "MC DAVIDIAN"
-    brand_size = max(11, int(22 * scale))
+    # "MC DAVIDIAN" en haut (60px du haut)
+    brand_size = max(11, int(16 * scale))
     brand_font = get_font(brand_size, bold=True)
-    draw_centered(draw, "MC DAVIDIAN", brand_font, int(30 * scale), DARK, W)
+    draw_centered(draw, "MC DAVIDIAN", brand_font, int(40 * scale), DARK, W)
 
     # Petit trait sous le nom de marque
-    trait_w = int(30 * scale)
-    trait_y = int(30 * scale) + brand_size + int(10 * scale)
+    trait_w = int(24 * scale)
+    trait_y = int(40 * scale) + brand_size + int(8 * scale)
     draw.rectangle(
         [(W / 2 - trait_w), trait_y, (W / 2 + trait_w), trait_y + max(1, int(2 * scale))],
         fill=GOLD,
     )
 
-    # Titre au centre
-    title_size = max(14, int(32 * scale))
+    # Titre au centre (avec wrapping plus agressif pour portrait)
+    title_size = max(14, int(22 * scale))
     title_font = get_font(title_size, italic=True)
-    if len(title) > 18:
-        words = title.split()
-        mid = max(1, len(words) // 2)
-        line1 = " ".join(words[:mid])
-        line2 = " ".join(words[mid:])
-        draw_centered(draw, line1, title_font, int(135 * scale), DARK, W)
-        draw_centered(draw, line2, title_font, int(135 * scale) + title_size + int(4 * scale), DARK, W)
-    else:
-        draw_centered(draw, title, title_font, int(150 * scale), DARK, W)
 
-    # Badge catégorie
-    cat_size = max(10, int(17 * scale))
+    # Word-wrap pour format étroit
+    words = title.split()
+    lines = []
+    current = []
+    max_line_width = W - int(20 * scale)
+    for word in words:
+        test = " ".join(current + [word])
+        bbox = draw.textbbox((0, 0), test, font=title_font)
+        if bbox[2] - bbox[0] <= max_line_width:
+            current.append(word)
+        else:
+            if current:
+                lines.append(" ".join(current))
+            current = [word]
+    if current:
+        lines.append(" ".join(current))
+
+    # Centrer verticalement le bloc titre
+    line_height = title_size + int(6 * scale)
+    total_h = len(lines) * line_height
+    start_y = (H - total_h) / 2 - int(10 * scale)
+    for i, line in enumerate(lines):
+        draw_centered(draw, line, title_font, int(start_y + i * line_height), DARK, W)
+
+    # Badge catégorie vers le bas
+    cat_size = max(10, int(13 * scale))
     cat_font = get_font(cat_size, bold=True)
     bbox = draw.textbbox((0, 0), category, font=cat_font)
     cw, ch = bbox[2] - bbox[0], bbox[3] - bbox[1]
-    pad = max(6, int(14 * scale))
-    badge_w = cw + 2 * pad
-    badge_h = ch + max(4, int(10 * scale))
+    pad_h = max(6, int(12 * scale))
+    pad_v = max(3, int(6 * scale))
+    badge_w = cw + 2 * pad_h
+    badge_h = ch + 2 * pad_v
     badge_x = (W - badge_w) / 2
     badge_y = H - int(80 * scale)
     draw.rounded_rectangle(
         [badge_x, badge_y, badge_x + badge_w, badge_y + badge_h],
-        radius=max(3, int(6 * scale)),
+        radius=max(3, int(5 * scale)),
         fill=GOLD,
     )
     draw.text(
-        (badge_x + pad, badge_y + max(1, int(3 * scale))),
+        (badge_x + pad_h, badge_y + pad_v - int(1 * scale)),
         category, fill=(255, 255, 255), font=cat_font,
     )
 
-    # Sous-titre discret (seulement en large)
-    if is_large:
-        sub_font = get_font(max(9, int(11 * scale)))
-        draw_centered(draw, "Faits main en France depuis 1980", sub_font, H - int(30 * scale), GRAY, W)
+    # Sous-titre tout en bas
+    sub_font = get_font(max(8, int(10 * scale)))
+    draw_centered(draw, "Fait main en France depuis 1980", sub_font, H - int(35 * scale), GRAY, W)
 
     return img
 
