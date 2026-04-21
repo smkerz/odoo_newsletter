@@ -9,13 +9,13 @@
             <!-- B2C - Newsletters génériques -->
             <div data-name="mcdavidian_b2c_fr"
                  title="MCD B2C FR · Newsletter"
-                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_b2c_fr.png"
+                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_b2c_fr"
                  data-layout-styles="background-color: #f8f6f3 !important;">
                 <t t-call="odoo_newsletter.theme_mcdavidian_template"/>
             </div>
             <div data-name="mcdavidian_b2c_en"
                  title="MCD B2C EN · Newsletter"
-                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_b2c_en.png"
+                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_b2c_en"
                  data-layout-styles="background-color: #f8f6f3 !important;">
                 <t t-call="odoo_newsletter.theme_mcdavidian_en_template"/>
             </div>
@@ -23,13 +23,13 @@
             <!-- B2C - Guides produits -->
             <div data-name="mcdavidian_b2c_guide_tailles_fr"
                  title="MCD B2C FR · Guide des tailles"
-                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_b2c_guide_tailles_fr.png"
+                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_b2c_guide_tailles_fr"
                  data-layout-styles="background-color: #f8f6f3 !important;">
                 <t t-call="odoo_newsletter.theme_mcdavidian_guide_tailles_fr_template"/>
             </div>
             <div data-name="mcdavidian_b2c_guide_tailles_en"
                  title="MCD B2C EN · Size Guide"
-                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_b2c_guide_tailles_en.png"
+                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_b2c_guide_tailles_en"
                  data-layout-styles="background-color: #f8f6f3 !important;">
                 <t t-call="odoo_newsletter.theme_mcdavidian_guide_tailles_en_template"/>
             </div>
@@ -37,13 +37,13 @@
             <!-- B2C - Nouveautés + promo -->
             <div data-name="mcdavidian_b2c_nouveautes_fr"
                  title="MCD B2C FR · Nouveautés + Promo"
-                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_b2c_nouveautes_fr.png"
+                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_b2c_nouveautes_fr"
                  data-layout-styles="background-color: #f8f6f3 !important;">
                 <t t-call="odoo_newsletter.theme_mcdavidian_nouveautes_promo_fr_template"/>
             </div>
             <div data-name="mcdavidian_b2c_nouveautes_en"
                  title="MCD B2C EN · New Creations + Promo"
-                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_b2c_nouveautes_en.png"
+                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_b2c_nouveautes_en"
                  data-layout-styles="background-color: #f8f6f3 !important;">
                 <t t-call="odoo_newsletter.theme_mcdavidian_nouveautes_promo_en_template"/>
             </div>
@@ -51,7 +51,7 @@
             <!-- B2B - Bienvenue -->
             <div data-name="mcdavidian_b2b_bienvenue"
                  title="MCD B2B · Bienvenue / Welcome"
-                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_b2b_bienvenue.png"
+                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_b2b_bienvenue"
                  data-layout-styles="background-color: #f8f6f3 !important;">
                 <t t-call="odoo_newsletter.theme_mcdavidian_b2b_bienvenue_template"/>
             </div>
