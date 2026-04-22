@@ -20,6 +20,12 @@ TEMPLATES = [
     ("mcdavidian_b2c_nouveautes_fr",    "B2C FR", "Nouveautés + Promo"),
     ("mcdavidian_b2c_nouveautes_en",    "B2C EN", "New Creations + Promo"),
     ("mcdavidian_b2b_bienvenue",        "B2B",    "Bienvenue / Welcome"),
+    ("mcd_prospection_fr_fashion",      "PROSPECTION FR", "Fashion & Lifestyle"),
+    ("mcd_prospection_fr_bridal",       "PROSPECTION FR", "Bridal & Cérémonie"),
+    ("mcd_prospection_fr_hair_beauty",  "PROSPECTION FR", "Hair & Beauty"),
+    ("mcd_prospection_fr_wellness",     "PROSPECTION FR", "Wellness & Hospitality"),
+    ("mcd_prospection_fr_pharmacie",    "PROSPECTION FR", "Pharmacie"),
+    ("mcd_prospection_fr_culture",      "PROSPECTION FR", "Culture & Patrimoine"),
 ]
 
 ROSE_BG = (245, 225, 220)

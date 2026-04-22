@@ -56,6 +56,44 @@
                 <t t-call="odoo_newsletter.theme_mcdavidian_b2b_bienvenue_template"/>
             </div>
 
+            <!-- Prospection FR - 6 segments first-touch B2B -->
+            <div data-name="mcd_prospection_fr_fashion"
+                 title="MCD Prospection FR · Fashion &amp; Lifestyle"
+                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcd_prospection_fr_fashion"
+                 data-layout-styles="background-color: #ffffff !important;">
+                <t t-call="odoo_newsletter.theme_mcd_prospection_fr_fashion_template"/>
+            </div>
+            <div data-name="mcd_prospection_fr_bridal"
+                 title="MCD Prospection FR · Bridal &amp; Cérémonie"
+                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcd_prospection_fr_bridal"
+                 data-layout-styles="background-color: #ffffff !important;">
+                <t t-call="odoo_newsletter.theme_mcd_prospection_fr_bridal_template"/>
+            </div>
+            <div data-name="mcd_prospection_fr_hair_beauty"
+                 title="MCD Prospection FR · Hair &amp; Beauty"
+                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcd_prospection_fr_hair_beauty"
+                 data-layout-styles="background-color: #ffffff !important;">
+                <t t-call="odoo_newsletter.theme_mcd_prospection_fr_hair_beauty_template"/>
+            </div>
+            <div data-name="mcd_prospection_fr_wellness"
+                 title="MCD Prospection FR · Wellness &amp; Hospitality"
+                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcd_prospection_fr_wellness"
+                 data-layout-styles="background-color: #ffffff !important;">
+                <t t-call="odoo_newsletter.theme_mcd_prospection_fr_wellness_template"/>
+            </div>
+            <div data-name="mcd_prospection_fr_pharmacie"
+                 title="MCD Prospection FR · Pharmacie"
+                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcd_prospection_fr_pharmacie"
+                 data-layout-styles="background-color: #ffffff !important;">
+                <t t-call="odoo_newsletter.theme_mcd_prospection_fr_pharmacie_template"/>
+            </div>
+            <div data-name="mcd_prospection_fr_culture"
+                 title="MCD Prospection FR · Culture &amp; Patrimoine"
+                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcd_prospection_fr_culture"
+                 data-layout-styles="background-color: #ffffff !important;">
+                <t t-call="odoo_newsletter.theme_mcd_prospection_fr_culture_template"/>
+            </div>
+
         </xpath>
     </template>
 
