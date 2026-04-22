@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="0">
+
+        <!-- ============================================================ -->
+        <!-- MCD Prospection FR - 6 templates B2B first-touch              -->
+        <!-- Variable : {{ object.company_name or object.name or "votre maison" }} -->
+        <!-- ============================================================ -->
+
+        <!-- 01 · Fashion & Lifestyle -->
+        <record id="mail_template_prospection_fr_fashion" model="mail.template">
+            <field name="name">MCD Prospection FR · Fashion &amp; Lifestyle</field>
+            <field name="model_id" ref="mass_mailing.model_mailing_contact"/>
+            <field name="subject">Accessoires cheveux artisanaux, faits main en France depuis 1980</field>
+            <field name="lang">fr_FR</field>
+            <field name="body_html" type="html">
+                <div style="font-family: Arial, sans-serif; font-size: 15px; line-height: 1.6; color: #333; max-width: 640px;">
+                    <p>Bonjour l'équipe de <t t-out="object.company_name or object.name or 'votre maison'"/>,</p>
+
+                    <p>Je me permets de vous écrire car votre sélection de marques et votre univers correspondent parfaitement à ce que nous proposons.</p>
+
+                    <p>Je suis Marie-Christine Davidian, fondatrice de MC Davidian, maison française d'accessoires cheveux faits main depuis 1980. Acétate de cellulose italien, cristaux SWAROVSKI&#174; authentiques, mécanismes matic français.</p>
+
+                    <p><strong>Ce que nous proposons à nos revendeurs :</strong></p>
+                    <ul>
+                        <li>2 000+ références, 30+ collections (du quotidien au soir)</li>
+                        <li>Présentoir compact (30-40 cm) adapté à votre espace</li>
+                        <li>Marges premium et réassort 48-72h depuis la France</li>
+                        <li>Visuels vitrine et réseaux sociaux fournis</li>
+                        <li>Exclusivité territoriale envisageable</li>
+                    </ul>
+
+                    <p>Nous sommes référencés chez Dover Street Market, KaDeWe, Illum Copenhagen, et dans la presse : <em>Vogue</em>, <em>ELLE</em>, <em>The New York Post</em>.</p>
+
+                    <p>Auriez-vous un créneau de 10 minutes cette semaine pour découvrir la collection ensemble ? Je peux également vous envoyer notre lookbook et tarifs wholesale sur simple demande.</p>
+
+                    <p>Bien à vous,<br/>
+                    <strong>Marie-Christine Davidian</strong>, Fondatrice MC Davidian</p>
+
+                    <p style="font-size: 13px; color: #666; margin-top: 24px; border-top: 1px solid #e7e3dc; padding-top: 14px;">
+                        Moodboard : <a href="https://mcdavidian.hair/moodboard/fr/" style="color: #c9a96e;">mcdavidian.hair/moodboard</a><br/>
+                        WhatsApp : <a href="https://wa.me/33651752267" style="color: #c9a96e;">+33 6 51 75 22 67</a><br/>
+                        Site : <a href="https://mcdavidian.com" style="color: #c9a96e;">mcdavidian.com</a>
+                    </p>
+                </div>
+            </field>
+        </record>
+
+        <!-- 02 · Bridal &amp; Cérémonie -->
+        <record id="mail_template_prospection_fr_bridal" model="mail.template">
+            <field name="name">MCD Prospection FR · Bridal &amp; Cérémonie</field>
+            <field name="model_id" ref="mass_mailing.model_mailing_contact"/>
+            <field name="subject">Peignes &amp; barrettes cristal faits main pour vos mariées</field>
+            <field name="lang">fr_FR</field>
+            <field name="body_html" type="html">
+                <div style="font-family: Arial, sans-serif; font-size: 15px; line-height: 1.6; color: #333; max-width: 640px;">
+                    <p>Bonjour l'équipe de <t t-out="object.company_name or object.name or 'votre maison'"/>,</p>
+
+                    <p>Je me permets de vous écrire car nos accessoires s'inscrivent naturellement dans l'univers des boutiques mariage, en complément parfait de vos robes.</p>
+
+                    <p>Je suis Marie-Christine Davidian, fondatrice de MC Davidian. Nous créons des accessoires cheveux de luxe faits main en France depuis 1980 : peignes, barrettes, épingles en acétate de cellulose italien et cristaux SWAROVSKI&#174; authentiques.</p>
+
+                    <p><strong>Pourquoi nos pièces fonctionnent dans les boutiques mariage :</strong></p>
+                    <ul>
+                        <li>Kits mariée/cérémonie prêts à vendre (peignes, épingles, clips), parfaits en add-on lors des essayages</li>
+                        <li>Présentoir compact 30-40 cm qui s'intègre à côté de la caisse ou en cabine</li>
+                        <li>Les mariées adorent repartir avec un accessoire assorti le jour de l'essayage</li>
+                        <li>Marges premium et réassort rapide (48-72h)</li>
+                        <li>Pochettes velours luxe incluses, prêtes à offrir</li>
+                    </ul>
+
+                    <p>Nos pièces accompagnent des mariées en France, Suisse, Danemark, USA, Corée et Japon. Presse : <em>Vogue</em>, <em>ELLE</em>.</p>
+
+                    <p>Je vous envoie avec plaisir notre lookbook mariée et tarifs wholesale, un mot suffit. Ou, si vous préférez, un échange de 10 minutes pour en discuter ensemble.</p>
+
+                    <p>Bien à vous,<br/>
+                    <strong>Marie-Christine Davidian</strong>, Fondatrice MC Davidian</p>
+
+                    <p style="font-size: 13px; color: #666; margin-top: 24px; border-top: 1px solid #e7e3dc; padding-top: 14px;">
+                        Moodboard : <a href="https://mcdavidian.hair/moodboard/fr/" style="color: #c9a96e;">mcdavidian.hair/moodboard</a><br/>
+                        WhatsApp : <a href="https://wa.me/33651752267" style="color: #c9a96e;">+33 6 51 75 22 67</a><br/>
+                        Site : <a href="https://mcdavidian.com" style="color: #c9a96e;">mcdavidian.com</a>
+                    </p>
+                </div>
+            </field>
+        </record>
+
+        <!-- 03 · Hair &amp; Beauty -->
+        <record id="mail_template_prospection_fr_hair_beauty" model="mail.template">
+            <field name="name">MCD Prospection FR · Hair &amp; Beauty</field>
+            <field name="model_id" ref="mass_mailing.model_mailing_contact"/>
+            <field name="subject">Proposez MC Davidian à vos clientes, accessoires cheveux faits main</field>
+            <field name="lang">fr_FR</field>
+            <field name="body_html" type="html">
+                <div style="font-family: Arial, sans-serif; font-size: 15px; line-height: 1.6; color: #333; max-width: 640px;">
+                    <p>Bonjour l'équipe de <t t-out="object.company_name or object.name or 'votre maison'"/>,</p>
+
+                    <p>Je me permets de vous écrire car nos accessoires cheveux, conçus par et pour des professionnels, complètent parfaitement l'offre d'un salon haut de gamme.</p>
+
+                    <p>Je suis Marie-Christine Davidian, fondatrice de MC Davidian, accessoires cheveux de luxe faits main en France depuis 1980. Acétate de cellulose italien, cristaux SWAROVSKI&#174;, mécanismes matic français pensés pour les professionnels.</p>
+
+                    <p><strong>Pourquoi ça marche en salon :</strong></p>
+                    <ul>
+                        <li>Vos clientes essaient les accessoires pendant leur coiffure, l'achat se fait naturellement</li>
+                        <li>Petit présentoir (30-40 cm) à la caisse ou au bac</li>
+                        <li>Mécanismes matic français : tenue parfaite, ouverture/fermeture douce, vos coiffeuses les adorent</li>
+                        <li>Marge premium sur chaque vente, un complément de revenu sans effort</li>
+                        <li>Réassort 48-72h depuis la France</li>
+                    </ul>
+
+                    <p>Le K2 Palace (Courchevel), les salons Aldo Coppola (Milan) et Rossano Ferretti proposent déjà nos pièces. Presse : <em>Vogue</em>, <em>ELLE</em>.</p>
+
+                    <p>Auriez-vous 10 minutes cette semaine pour un échange rapide ? Je pourrais vous présenter les mécanismes conçus spécifiquement pour les professionnels et vous envoyer tarifs et marges.</p>
+
+                    <p>Bien à vous,<br/>
+                    <strong>Marie-Christine Davidian</strong>, Fondatrice MC Davidian</p>
+
+                    <p style="font-size: 13px; color: #666; margin-top: 24px; border-top: 1px solid #e7e3dc; padding-top: 14px;">
+                        Moodboard : <a href="https://mcdavidian.hair/moodboard/fr/" style="color: #c9a96e;">mcdavidian.hair/moodboard</a><br/>
+                        WhatsApp : <a href="https://wa.me/33651752267" style="color: #c9a96e;">+33 6 51 75 22 67</a><br/>
+                        Site : <a href="https://mcdavidian.com" style="color: #c9a96e;">mcdavidian.com</a>
+                    </p>
+                </div>
+            </field>
+        </record>
+
+        <!-- 04 · Wellness &amp; Hospitality -->
+        <record id="mail_template_prospection_fr_wellness" model="mail.template">
+            <field name="name">MCD Prospection FR · Wellness &amp; Hospitality</field>
+            <field name="model_id" ref="mass_mailing.model_mailing_contact"/>
+            <field name="subject">Accessoires cheveux luxe français pour votre boutique/spa</field>
+            <field name="lang">fr_FR</field>
+            <field name="body_html" type="html">
+                <div style="font-family: Arial, sans-serif; font-size: 15px; line-height: 1.6; color: #333; max-width: 640px;">
+                    <p>Bonjour l'équipe de <t t-out="object.company_name or object.name or 'votre maison'"/>,</p>
+
+                    <p>Je me permets de vous écrire car nos accessoires cheveux faits main correspondent parfaitement à l'univers d'une clientèle exigeante en hôtellerie de luxe.</p>
+
+                    <p>Je suis Marie-Christine Davidian, fondatrice de MC Davidian, maison française d'accessoires cheveux faits main depuis 1980. Acétate de cellulose italien, cristaux SWAROVSKI&#174; authentiques, mécanismes matic français.</p>
+
+                    <p><strong>Pourquoi ça fonctionne en hôtellerie de luxe :</strong></p>
+                    <ul>
+                        <li>Format "cadeau-souvenir" idéal après un soin, en amenity VIP, ou en boutique gift shop</li>
+                        <li>Pochettes velours luxe incluses, prêtes à offrir</li>
+                        <li>Présentoir compact 30-40 cm qui s'intègre en spa, réception ou boutique</li>
+                        <li>Marque "Made in France" qui raconte une histoire (savoir-faire 1980, presse, Vogue)</li>
+                        <li>Réassort 48-72h depuis la France</li>
+                        <li>Exclusivité territoriale envisageable</li>
+                    </ul>
+
+                    <p>Les palaces comme Le K2 Palace, Cheval Blanc Courchevel, Airelles Courchevel, Château Saint-Martin et Cures Marines Trouville référencent déjà nos pièces. Presse : <em>Vogue</em>, <em>ELLE</em>, <em>The New York Post</em>.</p>
+
+                    <p>Je peux vous faire parvenir notre dossier hospitality (visuels + tarifs) sur simple demande. Si cela vous intéresse, je serais également ravie de vous envoyer une pièce d'entrée de gamme pour apprécier la qualité en main.</p>
+
+                    <p>Bien à vous,<br/>
+                    <strong>Marie-Christine Davidian</strong>, Fondatrice MC Davidian</p>
+
+                    <p style="font-size: 13px; color: #666; margin-top: 24px; border-top: 1px solid #e7e3dc; padding-top: 14px;">
+                        Moodboard : <a href="https://mcdavidian.hair/moodboard/fr/" style="color: #c9a96e;">mcdavidian.hair/moodboard</a><br/>
+                        WhatsApp : <a href="https://wa.me/33651752267" style="color: #c9a96e;">+33 6 51 75 22 67</a><br/>
+                        Site : <a href="https://mcdavidian.com" style="color: #c9a96e;">mcdavidian.com</a>
+                    </p>
+                </div>
+            </field>
+        </record>
+
+        <!-- 05 · Pharmacie -->
+        <record id="mail_template_prospection_fr_pharmacie" model="mail.template">
+            <field name="name">MCD Prospection FR · Pharmacie</field>
+            <field name="model_id" ref="mass_mailing.model_mailing_contact"/>
+            <field name="subject">Accessoires cheveux artisanaux : un rayon premium pour votre pharmacie</field>
+            <field name="lang">fr_FR</field>
+            <field name="body_html" type="html">
+                <div style="font-family: Arial, sans-serif; font-size: 15px; line-height: 1.6; color: #333; max-width: 640px;">
+                    <p>Bonjour l'équipe de <t t-out="object.company_name or object.name or 'votre maison'"/>,</p>
+
+                    <p>Je me permets de vous écrire car nos accessoires cheveux Made in France complètent parfaitement l'offre d'une parapharmacie orientée premium.</p>
+
+                    <p>Je suis Marie-Christine Davidian, fondatrice de MC Davidian, accessoires cheveux de luxe faits main en France depuis 1980. Acétate de cellulose italien, cristaux SWAROVSKI&#174; authentiques.</p>
+
+                    <p><strong>Pourquoi ça marche en pharmacie/parapharmacie :</strong></p>
+                    <ul>
+                        <li>Petit présentoir compact (30-40 cm) qui se place à la caisse ou au rayon cheveux</li>
+                        <li>Achat impulsion parfait : la cliente voit, essaie, achète</li>
+                        <li>Prix public accessible (30-90€), complément naturel aux soins capillaires</li>
+                        <li>Marges premium, meilleures qu'un produit capillaire classique</li>
+                        <li>Pas de gestion de stock complexe : 48-72h de réassort depuis la France</li>
+                        <li>Made in France qui rassure la clientèle pharma</li>
+                    </ul>
+
+                    <p>Nos pièces sont déjà référencées dans plusieurs pharmacies haut de gamme en France, Belgique et Allemagne. Presse : <em>Vogue</em>, <em>ELLE</em>.</p>
+
+                    <p>Puis-je vous envoyer notre sélection parapharma avec tarifs et marges ? Un échange de 10 minutes pour en discuter est également possible.</p>
+
+                    <p>Bien à vous,<br/>
+                    <strong>Marie-Christine Davidian</strong>, Fondatrice MC Davidian</p>
+
+                    <p style="font-size: 13px; color: #666; margin-top: 24px; border-top: 1px solid #e7e3dc; padding-top: 14px;">
+                        Moodboard : <a href="https://mcdavidian.hair/moodboard/fr/" style="color: #c9a96e;">mcdavidian.hair/moodboard</a><br/>
+                        WhatsApp : <a href="https://wa.me/33651752267" style="color: #c9a96e;">+33 6 51 75 22 67</a><br/>
+                        Site : <a href="https://mcdavidian.com" style="color: #c9a96e;">mcdavidian.com</a>
+                    </p>
+                </div>
+            </field>
+        </record>
+
+        <!-- 06 · Culture &amp; Patrimoine -->
+        <record id="mail_template_prospection_fr_culture" model="mail.template">
+            <field name="name">MCD Prospection FR · Culture &amp; Patrimoine</field>
+            <field name="model_id" ref="mass_mailing.model_mailing_contact"/>
+            <field name="subject">Artisanat français depuis 1980 pour votre boutique musée</field>
+            <field name="lang">fr_FR</field>
+            <field name="body_html" type="html">
+                <div style="font-family: Arial, sans-serif; font-size: 15px; line-height: 1.6; color: #333; max-width: 640px;">
+                    <p>Bonjour l'équipe de <t t-out="object.company_name or object.name or 'votre maison'"/>,</p>
+
+                    <p>Je me permets de vous écrire car nos accessoires s'inscrivent dans la lignée du savoir-faire français que célèbre votre institution.</p>
+
+                    <p>Je suis Marie-Christine Davidian, fondatrice de MC Davidian, maison française d'accessoires cheveux faits main depuis 1980. Chaque pièce est taillée, polie, assemblée à la main dans notre atelier : acétate de cellulose italien, cristaux SWAROVSKI&#174; authentiques, mécanismes matic français.</p>
+
+                    <p><strong>Pourquoi nos pièces s'intègrent aux boutiques musées :</strong></p>
+                    <ul>
+                        <li>Héritage artisanal français documenté (1980, méthodes traditionnelles préservées)</li>
+                        <li>2 000+ références, du quotidien intemporel aux pièces "collector"</li>
+                        <li>Fabrication non sous-traitée, 100% Made in France</li>
+                        <li>Pochettes velours luxe incluses, packaging digne d'une boutique d'institution</li>
+                        <li>Prix publics accessibles (30-90€), achat-souvenir culturel parfait</li>
+                        <li>Fourniture disponible avec documentation sur le savoir-faire</li>
+                    </ul>
+
+                    <p>Notre marque est citée dans <em>Vogue</em>, <em>ELLE</em>, <em>The New York Post</em>, visibilité qui justifie le référencement.</p>
+
+                    <p>Je peux vous adresser notre dossier savoir-faire complet (historique + sélection adaptée à votre institution) sur simple demande. Un rendez-vous en atelier ou en visio est également envisageable.</p>
+
+                    <p>Bien à vous,<br/>
+                    <strong>Marie-Christine Davidian</strong>, Fondatrice MC Davidian</p>
+
+                    <p style="font-size: 13px; color: #666; margin-top: 24px; border-top: 1px solid #e7e3dc; padding-top: 14px;">
+                        Moodboard : <a href="https://mcdavidian.hair/moodboard/fr/" style="color: #c9a96e;">mcdavidian.hair/moodboard</a><br/>
+                        Dossier presse : <a href="https://mcdavidian.com/content/press" style="color: #c9a96e;">mcdavidian.com/content/press</a><br/>
+                        WhatsApp : <a href="https://wa.me/33651752267" style="color: #c9a96e;">+33 6 51 75 22 67</a><br/>
+                        Site : <a href="https://mcdavidian.com" style="color: #c9a96e;">mcdavidian.com</a>
+                    </p>
+                </div>
+            </field>
+        </record>
+
+    </data>
+</odoo>
