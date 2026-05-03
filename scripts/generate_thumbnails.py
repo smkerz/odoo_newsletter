@@ -19,6 +19,8 @@ TEMPLATES = [
     ("mcdavidian_b2c_guide_tailles_en", "B2C EN", "Size Guide"),
     ("mcdavidian_b2c_nouveautes_fr",    "B2C FR", "Nouveautés + Promo"),
     ("mcdavidian_b2c_nouveautes_en",    "B2C EN", "New Creations + Promo"),
+    ("mcdavidian_b2c_matic_fr",         "B2C FR", "Le matic"),
+    ("mcdavidian_b2c_matic_en",         "B2C EN", "The matic"),
     ("mcdavidian_b2b_bienvenue",        "B2B",    "Bienvenue / Welcome"),
     ("mcd_prospection_fr_fashion",      "PROSPECTION FR", "Fashion & Lifestyle"),
     ("mcd_prospection_fr_bridal",       "PROSPECTION FR", "Bridal & Cérémonie"),
