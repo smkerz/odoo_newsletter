@@ -34,18 +34,32 @@
                 <t t-call="odoo_newsletter.theme_mcdavidian_guide_tailles_en_template"/>
             </div>
 
-            <!-- B2C - Nouveautés + promo -->
+            <!-- B2C - Coups de cœur + promo -->
             <div data-name="mcdavidian_b2c_nouveautes_fr"
-                 title="MCD B2C FR · Nouveautés + Promo"
+                 title="MCD B2C FR · Coups de cœur + Promo"
                  data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_b2c_nouveautes_fr"
                  data-layout-styles="background-color: #f8f6f3 !important;">
                 <t t-call="odoo_newsletter.theme_mcdavidian_nouveautes_promo_fr_template"/>
             </div>
             <div data-name="mcdavidian_b2c_nouveautes_en"
-                 title="MCD B2C EN · New Creations + Promo"
+                 title="MCD B2C EN · Spring Favourites + Promo"
                  data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_b2c_nouveautes_en"
                  data-layout-styles="background-color: #f8f6f3 !important;">
                 <t t-call="odoo_newsletter.theme_mcdavidian_nouveautes_promo_en_template"/>
+            </div>
+
+            <!-- B2C - Le matic / FGS -->
+            <div data-name="mcdavidian_b2c_matic_fr"
+                 title="MCD B2C FR · Le matic"
+                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_b2c_matic_fr"
+                 data-layout-styles="background-color: #f8f6f3 !important;">
+                <t t-call="odoo_newsletter.theme_mcdavidian_matic_fr_template"/>
+            </div>
+            <div data-name="mcdavidian_b2c_matic_en"
+                 title="MCD B2C EN · The matic"
+                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_b2c_matic_en"
+                 data-layout-styles="background-color: #f8f6f3 !important;">
+                <t t-call="odoo_newsletter.theme_mcdavidian_matic_en_template"/>
             </div>
 
             <!-- B2B - Bienvenue -->
