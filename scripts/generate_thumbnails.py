@@ -22,6 +22,7 @@ TEMPLATES = [
     ("mcdavidian_b2c_matic_fr",         "B2C FR", "Le matic"),
     ("mcdavidian_b2c_matic_en",         "B2C EN", "The matic"),
     ("mcdavidian_b2b_bienvenue",        "B2B",    "Bienvenue / Welcome"),
+    ("mcdavidian_b2b_reassort_ete",     "B2B",    "Réassort été / Summer reorder"),
     ("mcd_prospection_fr_fashion",      "PROSPECTION FR", "Fashion & Lifestyle"),
     ("mcd_prospection_fr_bridal",       "PROSPECTION FR", "Bridal & Cérémonie"),
     ("mcd_prospection_fr_hair_beauty",  "PROSPECTION FR", "Hair & Beauty"),

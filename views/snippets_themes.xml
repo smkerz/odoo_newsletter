@@ -70,6 +70,14 @@
                 <t t-call="odoo_newsletter.theme_mcdavidian_b2b_bienvenue_template"/>
             </div>
 
+            <!-- B2B - Réassort été -->
+            <div data-name="mcdavidian_b2b_reassort_ete"
+                 title="MCD B2B · Réassort été / Summer reorder"
+                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_b2b_reassort_ete"
+                 data-layout-styles="background-color: #f8f6f3 !important;">
+                <t t-call="odoo_newsletter.theme_mcdavidian_b2b_reassort_ete_template"/>
+            </div>
+
             <!-- Prospection FR - 6 segments first-touch B2B -->
             <div data-name="mcd_prospection_fr_fashion"
                  title="MCD Prospection FR · Fashion &amp; Lifestyle"

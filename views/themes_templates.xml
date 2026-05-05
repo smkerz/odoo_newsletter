@@ -2411,4 +2411,837 @@
 
     </template>
 
+    <!-- ============================================================ -->
+    <!-- MC Davidian B2B · Bilingual EN/FR · Réassort été             -->
+    <!-- ============================================================ -->
+    <template id="theme_mcdavidian_b2b_reassort_ete_template">
+
+        <style id="design-element-b2b-reassort">
+            h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; color: #1a1a1a !important; }
+            p, p > *, li, li > * { color: #444444 !important; }
+            a { color: #c9a96e !important; }
+        </style>
+
+        <!-- FR VERSION NOTICE -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #1a1a1a; padding: 10px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #ffffff !important; letter-spacing: 0.5px;">
+                    🇫🇷 Version française disponible plus bas
+                </p>
+            </div>
+        </div>
+
+        <!-- HEADER BLUSH PINK + LOGO -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #f5e1dc; padding: 40px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.hair" target="_blank" style="text-decoration: none;">
+                    <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg"
+                         alt="MC Davidian"
+                         width="200"
+                         style="display: inline-block; max-width: 200px; height: auto;" />
+                </a>
+                <p style="margin: 16px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 12px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
+                    Reseller Partners · Partenaires revendeurs · Since 1980
+                </p>
+            </div>
+        </div>
+
+        <!-- PHOTO MARIE-CHRISTINE WITH BRUSH DISPLAY -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px 0 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <img src="https://gallery.mcdavidian.com/galleries/Points%20de%20Ventes/Salons/Who_s%20Next/Compressed/IMG_3175.JPG"
+                     alt="Marie-Christine with the brush counter display"
+                     style="display: block; width: 100%; max-width: 400px; height: auto; margin: 0 auto; border-radius: 4px;" />
+                <p style="margin: 12px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 13px; font-style: italic; color: #999999 !important;">
+                    Marie-Christine and the brush display · Marie-Christine et le présentoir brosses
+                </p>
+            </div>
+        </div>
+
+        <!-- ======== ENGLISH SECTION ======== -->
+
+        <!-- EN TITLE + SUBTITLE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h1 style="margin: 0 0 12px 0; font-size: 28px; line-height: 1.3; color: #1a1a1a !important;">
+                    Still here. For summer.
+                </h1>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important; letter-spacing: 1px;">
+                    Four Classical lines, still ready when you are.
+                </p>
+            </div>
+        </div>
+
+        <!-- EN SEPARATOR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- EN INTRODUCTION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Dear partner,
+                </p>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Many of you have not reordered in a long time. I understand.
+                </p>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    I am writing to say the workshop in Saint-Raphaël is still open. The four Classical lines below are still made the same way, by the same hands, still in stock.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    When you are ready to start again, even with a small first order, I am here.
+                </p>
+            </div>
+        </div>
+
+        <!-- EN · HERO OFFER BANNER -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f5e1dc; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 8px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important; line-height: 1.4;">
+                    Order 30 brushes,<br/>receive a free counter display.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #7a5c5c !important; line-height: 1.6;">
+                    Compatible with Nana and Baby brushes. Branded MC Davidian. One per partner.
+                </p>
+            </div>
+        </div>
+
+        <!-- EN · SECTION 1 · BRUSHES (header) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 40px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 11px; letter-spacing: 3px; color: #c9a96e !important; text-transform: uppercase;">
+                    Line 1
+                </p>
+                <h2 style="margin: 0 0 12px 0; font-size: 22px; color: #1a1a1a !important;">
+                    Brushes
+                </h2>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important;">
+                    Two pocket brushes that travel.
+                </p>
+            </div>
+        </div>
+
+        <!-- EN · SECTION 1 · BRUSHES (image grid 2-col) -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 16px 12px 8px 12px; text-align: center;">
+            <div class="container s_allow_columns">
+                <div class="row">
+                    <div class="col-6" style="text-align: center;">
+                        <a href="https://mcdavidian.hair/en/brush/1976-3537-brush-nana-pluie-de-strass.html" target="_blank" style="display: block; text-decoration: none; text-align: center;">
+                            <img src="https://mcdavidian.hair/6453-thickbox_default/brush-nana-pluie-de-strass.jpg" alt="Nana brush" width="240" style="display: inline-block; width: auto; max-width: 80%; height: auto; margin: 0 auto; border-radius: 4px;" />
+                        </a>
+                    </div>
+                    <div class="col-6" style="text-align: center;">
+                        <a href="https://mcdavidian.hair/en/brush/1971-3336-brush-baby-pluie-de-strass.html" target="_blank" style="display: block; text-decoration: none; text-align: center;">
+                            <img src="https://mcdavidian.hair/6255-thickbox_default/brush-baby-pluie-de-strass.jpg" alt="Baby brush" width="240" style="display: inline-block; width: auto; max-width: 80%; height: auto; margin: 0 auto; border-radius: 4px;" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- EN · SECTION 1 · BRUSHES (description + list) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important;">
+                    The Nana and the Baby. Mother of pearl finish, Swarovski rain of strass, handmade in France. Your bestsellers in pharmacies and hotel boutiques year after year.
+                </p>
+                <p style="margin: 0; padding: 8px 0; border-bottom: 1px solid #eeeeee; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <a href="https://mcdavidian.hair/en/brush/1976-3537-brush-nana-pluie-de-strass.html" style="color: #1a1a1a !important; text-decoration: none;">
+                        <strong style="color: #1a1a1a !important;">Nana brush MM</strong> · ref. 96149 · travel size, 13.5 cm
+                    </a>
+                </p>
+                <p style="margin: 0; padding: 8px 0; border-bottom: 1px solid #eeeeee; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <a href="https://mcdavidian.hair/en/brush/1971-3336-brush-baby-pluie-de-strass.html" style="color: #1a1a1a !important; text-decoration: none;">
+                        <strong style="color: #1a1a1a !important;">Baby brush MM</strong> · ref. 96142 · mini size, 14 cm
+                    </a>
+                </p>
+            </div>
+        </div>
+
+        <!-- EN · SECTION 2 · VENTRUE CLIPS (header) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 24px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 11px; letter-spacing: 3px; color: #c9a96e !important; text-transform: uppercase;">
+                    Line 2
+                </p>
+                <h2 style="margin: 0 0 12px 0; font-size: 22px; color: #1a1a1a !important;">
+                    Hand-made hair clips Ventrue
+                </h2>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important;">
+                    Three sizes, one shape, every hair type.
+                </p>
+            </div>
+        </div>
+
+        <!-- EN · SECTION 2 · VENTRUE (description) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px 8px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important;">
+                    The Ventrue is the clip your customers come back for. From thick hair to fine, from a half-bun to a full chignon. Handmade in our Saint-Raphaël atelier.
+                </p>
+            </div>
+        </div>
+
+        <!-- EN · SECTION 2 · VENTRUE (image grid 3-col) -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 8px 12px 8px 12px; text-align: center;">
+            <div class="container s_allow_columns">
+                <div class="row">
+                    <div class="col-4" style="text-align: center;">
+                        <a href="https://mcdavidian.hair/en/handmade-hair-clip/1586-11161-handmade-hair-clip-ventrue-simple.html" target="_blank" style="display: block; text-decoration: none; text-align: center;">
+                            <img src="https://mcdavidian.hair/13423-thickbox_default/handmade-hair-clip-ventrue-simple.jpg" alt="Ventrue GM" width="180" style="display: inline-block; width: auto; max-width: 90%; height: auto; margin: 0 auto; border-radius: 4px;" />
+                        </a>
+                    </div>
+                    <div class="col-4" style="text-align: center;">
+                        <a href="https://mcdavidian.hair/en/handmade-hair-clip/1590-11288-handmade-hair-clip-ventrue-simple.html" target="_blank" style="display: block; text-decoration: none; text-align: center;">
+                            <img src="https://mcdavidian.hair/13543-thickbox_default/handmade-hair-clip-ventrue-simple.jpg" alt="Ventrue MM" width="180" style="display: inline-block; width: auto; max-width: 90%; height: auto; margin: 0 auto; border-radius: 4px;" />
+                        </a>
+                    </div>
+                    <div class="col-4" style="text-align: center;">
+                        <a href="https://mcdavidian.hair/en/handmade-hair-clip/1596-11459-handmade-hair-clip-ventrue-simple.html" target="_blank" style="display: block; text-decoration: none; text-align: center;">
+                            <img src="https://mcdavidian.hair/13705-thickbox_default/handmade-hair-clip-ventrue-simple.jpg" alt="Ventrue TPM" width="180" style="display: inline-block; width: auto; max-width: 90%; height: auto; margin: 0 auto; border-radius: 4px;" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- EN · SECTION 2 · VENTRUE (list) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 8px 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; padding: 8px 0; border-bottom: 1px solid #eeeeee; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <a href="https://mcdavidian.hair/en/handmade-hair-clip/1586-11161-handmade-hair-clip-ventrue-simple.html" style="color: #1a1a1a !important; text-decoration: none;">
+                        <strong style="color: #1a1a1a !important;">Ventrue GM</strong> · ref. 95139 · thick hair
+                    </a>
+                </p>
+                <p style="margin: 0; padding: 8px 0; border-bottom: 1px solid #eeeeee; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <a href="https://mcdavidian.hair/en/handmade-hair-clip/1590-11288-handmade-hair-clip-ventrue-simple.html" style="color: #1a1a1a !important; text-decoration: none;">
+                        <strong style="color: #1a1a1a !important;">Ventrue MM</strong> · ref. 95139I · medium hair
+                    </a>
+                </p>
+                <p style="margin: 0; padding: 8px 0; border-bottom: 1px solid #eeeeee; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <a href="https://mcdavidian.hair/en/handmade-hair-clip/1596-11459-handmade-hair-clip-ventrue-simple.html" style="color: #1a1a1a !important; text-decoration: none;">
+                        <strong style="color: #1a1a1a !important;">Ventrue TPM</strong> · ref. 95140 · fine hair, 4 cm
+                    </a>
+                </p>
+            </div>
+        </div>
+
+        <!-- EN · SECTION 3 · BARRETTES RECTANGLE (header) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 24px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 11px; letter-spacing: 3px; color: #c9a96e !important; text-transform: uppercase;">
+                    Line 3
+                </p>
+                <h2 style="margin: 0 0 12px 0; font-size: 22px; color: #1a1a1a !important;">
+                    Classical rectangle barrettes
+                </h2>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important;">
+                    The everyday ponytail.
+                </p>
+            </div>
+        </div>
+
+        <!-- EN · SECTION 3 · BARRETTES (description) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px 8px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important;">
+                    Three sizes of the same rectangle that has held ponytails since the eighties. Simple, French, indestructible.
+                </p>
+            </div>
+        </div>
+
+        <!-- EN · SECTION 3 · BARRETTES (image grid 3-col) -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 8px 12px 8px 12px; text-align: center;">
+            <div class="container s_allow_columns">
+                <div class="row">
+                    <div class="col-4" style="text-align: center;">
+                        <a href="https://mcdavidian.hair/en/ponytail-barrette-hair-clip/15-8994-ponytail-barrette-hair-clip-rectangle-simple.html" target="_blank" style="display: block; text-decoration: none; text-align: center;">
+                            <img src="https://mcdavidian.hair/11270-thickbox_default/ponytail-barrette-hair-clip-rectangle-simple.jpg" alt="Barrette TGM" width="180" style="display: inline-block; width: auto; max-width: 90%; height: auto; margin: 0 auto; border-radius: 4px;" />
+                        </a>
+                    </div>
+                    <div class="col-4" style="text-align: center;">
+                        <a href="https://mcdavidian.hair/en/ponytail-barrette-hair-clip/16-9044-ponytail-barrette-hair-clip-rectangle-simple.html" target="_blank" style="display: block; text-decoration: none; text-align: center;">
+                            <img src="https://mcdavidian.hair/11319-thickbox_default/ponytail-barrette-hair-clip-rectangle-simple.jpg" alt="Barrette GM" width="180" style="display: inline-block; width: auto; max-width: 90%; height: auto; margin: 0 auto; border-radius: 4px;" />
+                        </a>
+                    </div>
+                    <div class="col-4" style="text-align: center;">
+                        <a href="https://mcdavidian.hair/en/7cm-barrette-hair-clip/1725-2968-barrette-hair-clip-rectangle-simple.html" target="_blank" style="display: block; text-decoration: none; text-align: center;">
+                            <img src="https://mcdavidian.hair/5918-thickbox_default/barrette-hair-clip-rectangle-simple.jpg" alt="Barrette MM 7cm" width="180" style="display: inline-block; width: auto; max-width: 90%; height: auto; margin: 0 auto; border-radius: 4px;" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- EN · SECTION 3 · BARRETTES (list) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 8px 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; padding: 8px 0; border-bottom: 1px solid #eeeeee; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <a href="https://mcdavidian.hair/en/ponytail-barrette-hair-clip/15-8994-ponytail-barrette-hair-clip-rectangle-simple.html" style="color: #1a1a1a !important; text-decoration: none;">
+                        <strong style="color: #1a1a1a !important;">8cm TGM</strong> · ref. 93070
+                    </a>
+                </p>
+                <p style="margin: 0; padding: 8px 0; border-bottom: 1px solid #eeeeee; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <a href="https://mcdavidian.hair/en/ponytail-barrette-hair-clip/16-9044-ponytail-barrette-hair-clip-rectangle-simple.html" style="color: #1a1a1a !important; text-decoration: none;">
+                        <strong style="color: #1a1a1a !important;">8cm GM</strong> · ref. 93071
+                    </a>
+                </p>
+                <p style="margin: 0; padding: 8px 0; border-bottom: 1px solid #eeeeee; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <a href="https://mcdavidian.hair/en/7cm-barrette-hair-clip/1725-2968-barrette-hair-clip-rectangle-simple.html" style="color: #1a1a1a !important; text-decoration: none;">
+                        <strong style="color: #1a1a1a !important;">7cm MM</strong> · ref. 93072
+                    </a>
+                </p>
+            </div>
+        </div>
+
+        <!-- EN · SECTION 4 · ROCK'N ROLL COMB (header) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 24px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 11px; letter-spacing: 3px; color: #c9a96e !important; text-transform: uppercase;">
+                    Line 4
+                </p>
+                <h2 style="margin: 0 0 12px 0; font-size: 22px; color: #1a1a1a !important;">
+                    Rock'n Roll comb
+                </h2>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important;">
+                    Two finishes of our signature comb.
+                </p>
+            </div>
+        </div>
+
+        <!-- EN · SECTION 4 · COMB (description) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px 8px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important;">
+                    The Classical Rock'n Roll, in its original simple version and the rail strass evening version. 7 cm, handmade.
+                </p>
+            </div>
+        </div>
+
+        <!-- EN · SECTION 4 · COMB (image grid 2-col) -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 8px 12px 8px 12px; text-align: center;">
+            <div class="container s_allow_columns">
+                <div class="row">
+                    <div class="col-6" style="text-align: center;">
+                        <a href="https://mcdavidian.hair/en/rock-n-roll-metal-comb/2226-10498-rock-n-roll-metal-comb-classical-simple.html" target="_blank" style="display: block; text-decoration: none; text-align: center;">
+                            <img src="https://mcdavidian.hair/12763-thickbox_default/rock-n-roll-metal-comb-classical-simple.jpg" alt="Rock'n Roll comb Simple" width="240" style="display: inline-block; width: auto; max-width: 80%; height: auto; margin: 0 auto; border-radius: 4px;" />
+                        </a>
+                    </div>
+                    <div class="col-6" style="text-align: center;">
+                        <a href="https://mcdavidian.hair/en/rock-n-roll-metal-comb/2238-11422-rock-n-roll-metal-comb-classical-rail.html" target="_blank" style="display: block; text-decoration: none; text-align: center;">
+                            <img src="https://mcdavidian.hair/13672-thickbox_default/rock-n-roll-metal-comb-classical-rail.jpg" alt="Rock'n Roll comb Rail strass" width="240" style="display: inline-block; width: auto; max-width: 80%; height: auto; margin: 0 auto; border-radius: 4px;" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- EN · SECTION 4 · COMB (list) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 8px 24px 32px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; padding: 8px 0; border-bottom: 1px solid #eeeeee; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <a href="https://mcdavidian.hair/en/rock-n-roll-metal-comb/2226-10498-rock-n-roll-metal-comb-classical-simple.html" style="color: #1a1a1a !important; text-decoration: none;">
+                        <strong style="color: #1a1a1a !important;">Classical Simple</strong> · ref. 93095
+                    </a>
+                </p>
+                <p style="margin: 0; padding: 8px 0; border-bottom: 1px solid #eeeeee; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <a href="https://mcdavidian.hair/en/rock-n-roll-metal-comb/2238-11422-rock-n-roll-metal-comb-classical-rail.html" style="color: #1a1a1a !important; text-decoration: none;">
+                        <strong style="color: #1a1a1a !important;">Classical Rail strass</strong> · ref. 93095bis
+                    </a>
+                </p>
+            </div>
+        </div>
+
+        <!-- EN · SECONDARY INFO · SHIPPING -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f8f6f3; padding: 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 13px; font-style: italic; color: #7a5c5c !important; line-height: 1.6;">
+                    Free shipping from €2000 within the EU, €3000 worldwide.
+                </p>
+            </div>
+        </div>
+
+        <!-- EN · SIGN-OFF -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px 16px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Whether you want to test a small first pack or a full reorder, write to me. I prepare each one by hand, with the volumes that match your shelves and your pace.
+                </p>
+                <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Talk soon,
+                </p>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-style: italic; color: #1a1a1a !important; text-align: left;">
+                    Marie-Christine
+                </p>
+            </div>
+        </div>
+
+        <!-- EN CTA BUTTON -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 8px 24px 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.hair"
+                   target="_blank"
+                   class="btn btn-primary"
+                   style="display: inline-block; padding: 14px 40px; background-color: #c9a96e !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #ffffff !important; text-decoration: none; border-radius: 2px; border: none;">
+                    See prices on mcdavidian.hair
+                </a>
+            </div>
+        </div>
+
+        <!-- EN WHATSAPP BUTTON -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 40px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://wa.me/33651752267"
+                   target="_blank"
+                   class="btn btn-secondary"
+                   style="display: inline-block; padding: 12px 32px; background-color: #ffffff !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #c9a96e !important; text-decoration: none; border-radius: 2px; border: 2px solid #c9a96e !important;">
+                    💬 Write to Marie-Christine
+                </a>
+            </div>
+        </div>
+
+        <!-- ======== LANGUAGE DIVIDER ======== -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f5e1dc; padding: 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 8px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 14px; color: #7a5c5c !important; letter-spacing: 3px;">
+                    ── ✦ ──
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #7a5c5c !important; font-style: italic;">
+                    Version française · French version
+                </p>
+            </div>
+        </div>
+
+        <!-- ======== FRENCH SECTION ======== -->
+
+        <!-- FR TITRE + SOUS-TITRE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h1 style="margin: 0 0 12px 0; font-size: 28px; line-height: 1.3; color: #1a1a1a !important;">
+                    Toujours là. Pour l'été.
+                </h1>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important; letter-spacing: 1px;">
+                    Quatre lignes Classique, toujours prêtes quand vous l'êtes.
+                </p>
+            </div>
+        </div>
+
+        <!-- FR SEPARATEUR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- FR INTRODUCTION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Chère partenaire,
+                </p>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Beaucoup d'entre vous n'ont pas commandé depuis longtemps. Je comprends.
+                </p>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Je vous écris pour vous dire que l'atelier de Saint-Raphaël est toujours ouvert. Les quatre lignes Classique ci-dessous sont toujours fabriquées de la même façon, par les mêmes mains, toujours en stock.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Quand vous serez prête à recommencer, même avec une petite commande, je suis là.
+                </p>
+            </div>
+        </div>
+
+        <!-- FR · HERO OFFER BANNER -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f5e1dc; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 8px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important; line-height: 1.4;">
+                    Pour 30 brosses commandées,<br/>un présentoir comptoir offert.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #7a5c5c !important; line-height: 1.6;">
+                    Compatible Nana et Baby. Gravé MC Davidian. Un par partenaire.
+                </p>
+            </div>
+        </div>
+
+        <!-- FR · SECTION 1 · BROSSES (header) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 40px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 11px; letter-spacing: 3px; color: #c9a96e !important; text-transform: uppercase;">
+                    Ligne 1
+                </p>
+                <h2 style="margin: 0 0 12px 0; font-size: 22px; color: #1a1a1a !important;">
+                    Brosses
+                </h2>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important;">
+                    Deux brosses de sac, qui voyagent.
+                </p>
+            </div>
+        </div>
+
+        <!-- FR · SECTION 1 · BROSSES (image grid 2-col) -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 16px 12px 8px 12px; text-align: center;">
+            <div class="container s_allow_columns">
+                <div class="row">
+                    <div class="col-6" style="text-align: center;">
+                        <a href="https://mcdavidian.hair/en/brush/1976-3537-brush-nana-pluie-de-strass.html" target="_blank" style="display: block; text-decoration: none; text-align: center;">
+                            <img src="https://mcdavidian.hair/6453-thickbox_default/brush-nana-pluie-de-strass.jpg" alt="Brosse Nana" width="240" style="display: inline-block; width: auto; max-width: 80%; height: auto; margin: 0 auto; border-radius: 4px;" />
+                        </a>
+                    </div>
+                    <div class="col-6" style="text-align: center;">
+                        <a href="https://mcdavidian.hair/en/brush/1971-3336-brush-baby-pluie-de-strass.html" target="_blank" style="display: block; text-decoration: none; text-align: center;">
+                            <img src="https://mcdavidian.hair/6255-thickbox_default/brush-baby-pluie-de-strass.jpg" alt="Brosse Baby" width="240" style="display: inline-block; width: auto; max-width: 80%; height: auto; margin: 0 auto; border-radius: 4px;" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- FR · SECTION 1 · BROSSES (description + list) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important;">
+                    La Nana et la Baby. Finition nacre, pluie de strass Swarovski, fabrication française. Vos best-sellers en pharmacie et en boutique d'hôtel, année après année.
+                </p>
+                <p style="margin: 0; padding: 8px 0; border-bottom: 1px solid #eeeeee; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <a href="https://mcdavidian.hair/en/brush/1976-3537-brush-nana-pluie-de-strass.html" style="color: #1a1a1a !important; text-decoration: none;">
+                        <strong style="color: #1a1a1a !important;">Brosse Nana MM</strong> · réf. 96149 · format voyage, 13,5 cm
+                    </a>
+                </p>
+                <p style="margin: 0; padding: 8px 0; border-bottom: 1px solid #eeeeee; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <a href="https://mcdavidian.hair/en/brush/1971-3336-brush-baby-pluie-de-strass.html" style="color: #1a1a1a !important; text-decoration: none;">
+                        <strong style="color: #1a1a1a !important;">Brosse Baby MM</strong> · réf. 96142 · format mini, 14 cm
+                    </a>
+                </p>
+            </div>
+        </div>
+
+        <!-- FR · SECTION 2 · PINCES VENTRUE (header) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 24px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 11px; letter-spacing: 3px; color: #c9a96e !important; text-transform: uppercase;">
+                    Ligne 2
+                </p>
+                <h2 style="margin: 0 0 12px 0; font-size: 22px; color: #1a1a1a !important;">
+                    Pinces fait-main Ventrue
+                </h2>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important;">
+                    Trois tailles, une forme, tous les cheveux.
+                </p>
+            </div>
+        </div>
+
+        <!-- FR · SECTION 2 · VENTRUE (description) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px 8px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important;">
+                    La Ventrue, c'est la pince que vos clientes redemandent. Du cheveu épais au cheveu fin, du demi-chignon au chignon complet. Fabriquée dans notre atelier de Saint-Raphaël.
+                </p>
+            </div>
+        </div>
+
+        <!-- FR · SECTION 2 · VENTRUE (image grid 3-col) -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 8px 12px 8px 12px; text-align: center;">
+            <div class="container s_allow_columns">
+                <div class="row">
+                    <div class="col-4" style="text-align: center;">
+                        <a href="https://mcdavidian.hair/en/handmade-hair-clip/1586-11161-handmade-hair-clip-ventrue-simple.html" target="_blank" style="display: block; text-decoration: none; text-align: center;">
+                            <img src="https://mcdavidian.hair/13423-thickbox_default/handmade-hair-clip-ventrue-simple.jpg" alt="Ventrue GM" width="180" style="display: inline-block; width: auto; max-width: 90%; height: auto; margin: 0 auto; border-radius: 4px;" />
+                        </a>
+                    </div>
+                    <div class="col-4" style="text-align: center;">
+                        <a href="https://mcdavidian.hair/en/handmade-hair-clip/1590-11288-handmade-hair-clip-ventrue-simple.html" target="_blank" style="display: block; text-decoration: none; text-align: center;">
+                            <img src="https://mcdavidian.hair/13543-thickbox_default/handmade-hair-clip-ventrue-simple.jpg" alt="Ventrue MM" width="180" style="display: inline-block; width: auto; max-width: 90%; height: auto; margin: 0 auto; border-radius: 4px;" />
+                        </a>
+                    </div>
+                    <div class="col-4" style="text-align: center;">
+                        <a href="https://mcdavidian.hair/en/handmade-hair-clip/1596-11459-handmade-hair-clip-ventrue-simple.html" target="_blank" style="display: block; text-decoration: none; text-align: center;">
+                            <img src="https://mcdavidian.hair/13705-thickbox_default/handmade-hair-clip-ventrue-simple.jpg" alt="Ventrue TPM" width="180" style="display: inline-block; width: auto; max-width: 90%; height: auto; margin: 0 auto; border-radius: 4px;" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- FR · SECTION 2 · VENTRUE (list) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 8px 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; padding: 8px 0; border-bottom: 1px solid #eeeeee; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <a href="https://mcdavidian.hair/en/handmade-hair-clip/1586-11161-handmade-hair-clip-ventrue-simple.html" style="color: #1a1a1a !important; text-decoration: none;">
+                        <strong style="color: #1a1a1a !important;">Ventrue GM</strong> · réf. 95139 · cheveux épais
+                    </a>
+                </p>
+                <p style="margin: 0; padding: 8px 0; border-bottom: 1px solid #eeeeee; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <a href="https://mcdavidian.hair/en/handmade-hair-clip/1590-11288-handmade-hair-clip-ventrue-simple.html" style="color: #1a1a1a !important; text-decoration: none;">
+                        <strong style="color: #1a1a1a !important;">Ventrue MM</strong> · réf. 95139I · cheveux moyens
+                    </a>
+                </p>
+                <p style="margin: 0; padding: 8px 0; border-bottom: 1px solid #eeeeee; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <a href="https://mcdavidian.hair/en/handmade-hair-clip/1596-11459-handmade-hair-clip-ventrue-simple.html" style="color: #1a1a1a !important; text-decoration: none;">
+                        <strong style="color: #1a1a1a !important;">Ventrue TPM</strong> · réf. 95140 · cheveux fins, 4 cm
+                    </a>
+                </p>
+            </div>
+        </div>
+
+        <!-- FR · SECTION 3 · BARRETTES RECTANGLE (header) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 24px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 11px; letter-spacing: 3px; color: #c9a96e !important; text-transform: uppercase;">
+                    Ligne 3
+                </p>
+                <h2 style="margin: 0 0 12px 0; font-size: 22px; color: #1a1a1a !important;">
+                    Barrettes Classique rectangle
+                </h2>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important;">
+                    La queue-de-cheval du quotidien.
+                </p>
+            </div>
+        </div>
+
+        <!-- FR · SECTION 3 · BARRETTES (description) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px 8px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important;">
+                    Trois tailles d'un même rectangle qui tient les queues-de-cheval depuis les années quatre-vingt. Simple, français, indestructible.
+                </p>
+            </div>
+        </div>
+
+        <!-- FR · SECTION 3 · BARRETTES (image grid 3-col) -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 8px 12px 8px 12px; text-align: center;">
+            <div class="container s_allow_columns">
+                <div class="row">
+                    <div class="col-4" style="text-align: center;">
+                        <a href="https://mcdavidian.hair/en/ponytail-barrette-hair-clip/15-8994-ponytail-barrette-hair-clip-rectangle-simple.html" target="_blank" style="display: block; text-decoration: none; text-align: center;">
+                            <img src="https://mcdavidian.hair/11270-thickbox_default/ponytail-barrette-hair-clip-rectangle-simple.jpg" alt="Barrette TGM" width="180" style="display: inline-block; width: auto; max-width: 90%; height: auto; margin: 0 auto; border-radius: 4px;" />
+                        </a>
+                    </div>
+                    <div class="col-4" style="text-align: center;">
+                        <a href="https://mcdavidian.hair/en/ponytail-barrette-hair-clip/16-9044-ponytail-barrette-hair-clip-rectangle-simple.html" target="_blank" style="display: block; text-decoration: none; text-align: center;">
+                            <img src="https://mcdavidian.hair/11319-thickbox_default/ponytail-barrette-hair-clip-rectangle-simple.jpg" alt="Barrette GM" width="180" style="display: inline-block; width: auto; max-width: 90%; height: auto; margin: 0 auto; border-radius: 4px;" />
+                        </a>
+                    </div>
+                    <div class="col-4" style="text-align: center;">
+                        <a href="https://mcdavidian.hair/en/7cm-barrette-hair-clip/1725-2968-barrette-hair-clip-rectangle-simple.html" target="_blank" style="display: block; text-decoration: none; text-align: center;">
+                            <img src="https://mcdavidian.hair/5918-thickbox_default/barrette-hair-clip-rectangle-simple.jpg" alt="Barrette MM 7cm" width="180" style="display: inline-block; width: auto; max-width: 90%; height: auto; margin: 0 auto; border-radius: 4px;" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- FR · SECTION 3 · BARRETTES (list) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 8px 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; padding: 8px 0; border-bottom: 1px solid #eeeeee; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <a href="https://mcdavidian.hair/en/ponytail-barrette-hair-clip/15-8994-ponytail-barrette-hair-clip-rectangle-simple.html" style="color: #1a1a1a !important; text-decoration: none;">
+                        <strong style="color: #1a1a1a !important;">8cm TGM</strong> · réf. 93070
+                    </a>
+                </p>
+                <p style="margin: 0; padding: 8px 0; border-bottom: 1px solid #eeeeee; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <a href="https://mcdavidian.hair/en/ponytail-barrette-hair-clip/16-9044-ponytail-barrette-hair-clip-rectangle-simple.html" style="color: #1a1a1a !important; text-decoration: none;">
+                        <strong style="color: #1a1a1a !important;">8cm GM</strong> · réf. 93071
+                    </a>
+                </p>
+                <p style="margin: 0; padding: 8px 0; border-bottom: 1px solid #eeeeee; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <a href="https://mcdavidian.hair/en/7cm-barrette-hair-clip/1725-2968-barrette-hair-clip-rectangle-simple.html" style="color: #1a1a1a !important; text-decoration: none;">
+                        <strong style="color: #1a1a1a !important;">7cm MM</strong> · réf. 93072
+                    </a>
+                </p>
+            </div>
+        </div>
+
+        <!-- FR · SECTION 4 · PEIGNE ROCK'N ROLL (header) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 24px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 11px; letter-spacing: 3px; color: #c9a96e !important; text-transform: uppercase;">
+                    Ligne 4
+                </p>
+                <h2 style="margin: 0 0 12px 0; font-size: 22px; color: #1a1a1a !important;">
+                    Peigne Rock'n Roll
+                </h2>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important;">
+                    Deux finitions de notre peigne signature.
+                </p>
+            </div>
+        </div>
+
+        <!-- FR · SECTION 4 · PEIGNE (description) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px 8px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important;">
+                    Le Rock'n Roll Classique, en version simple originale et en version rail de strass pour le soir. 7 cm, fait main.
+                </p>
+            </div>
+        </div>
+
+        <!-- FR · SECTION 4 · PEIGNE (image grid 2-col) -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 8px 12px 8px 12px; text-align: center;">
+            <div class="container s_allow_columns">
+                <div class="row">
+                    <div class="col-6" style="text-align: center;">
+                        <a href="https://mcdavidian.hair/en/rock-n-roll-metal-comb/2226-10498-rock-n-roll-metal-comb-classical-simple.html" target="_blank" style="display: block; text-decoration: none; text-align: center;">
+                            <img src="https://mcdavidian.hair/12763-thickbox_default/rock-n-roll-metal-comb-classical-simple.jpg" alt="Peigne Rock'n Roll Simple" width="240" style="display: inline-block; width: auto; max-width: 80%; height: auto; margin: 0 auto; border-radius: 4px;" />
+                        </a>
+                    </div>
+                    <div class="col-6" style="text-align: center;">
+                        <a href="https://mcdavidian.hair/en/rock-n-roll-metal-comb/2238-11422-rock-n-roll-metal-comb-classical-rail.html" target="_blank" style="display: block; text-decoration: none; text-align: center;">
+                            <img src="https://mcdavidian.hair/13672-thickbox_default/rock-n-roll-metal-comb-classical-rail.jpg" alt="Peigne Rock'n Roll Rail strass" width="240" style="display: inline-block; width: auto; max-width: 80%; height: auto; margin: 0 auto; border-radius: 4px;" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- FR · SECTION 4 · PEIGNE (list) -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 8px 24px 32px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; padding: 8px 0; border-bottom: 1px solid #eeeeee; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <a href="https://mcdavidian.hair/en/rock-n-roll-metal-comb/2226-10498-rock-n-roll-metal-comb-classical-simple.html" style="color: #1a1a1a !important; text-decoration: none;">
+                        <strong style="color: #1a1a1a !important;">Classique Simple</strong> · réf. 93095
+                    </a>
+                </p>
+                <p style="margin: 0; padding: 8px 0; border-bottom: 1px solid #eeeeee; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    <a href="https://mcdavidian.hair/en/rock-n-roll-metal-comb/2238-11422-rock-n-roll-metal-comb-classical-rail.html" style="color: #1a1a1a !important; text-decoration: none;">
+                        <strong style="color: #1a1a1a !important;">Classique Rail strass</strong> · réf. 93095bis
+                    </a>
+                </p>
+            </div>
+        </div>
+
+        <!-- FR · SECONDARY INFO · LIVRAISON -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f8f6f3; padding: 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 13px; font-style: italic; color: #7a5c5c !important; line-height: 1.6;">
+                    Frais de port offerts dès 2000€ HT en UE, 3000€ HT hors UE.
+                </p>
+            </div>
+        </div>
+
+        <!-- FR · SIGN-OFF -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px 16px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Que vous vouliez tester une première petite commande ou un réassort complet, écrivez-moi. Je prépare chaque paquet à la main, avec les volumes qui collent à vos rayons et à votre rythme.
+                </p>
+                <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    À très bientôt,
+                </p>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-style: italic; color: #1a1a1a !important; text-align: left;">
+                    Marie-Christine
+                </p>
+            </div>
+        </div>
+
+        <!-- FR CTA BUTTON -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 8px 24px 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.hair"
+                   target="_blank"
+                   class="btn btn-primary"
+                   style="display: inline-block; padding: 14px 40px; background-color: #c9a96e !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #ffffff !important; text-decoration: none; border-radius: 2px; border: none;">
+                    Voir les prix sur mcdavidian.hair
+                </a>
+            </div>
+        </div>
+
+        <!-- FR WHATSAPP BUTTON -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 40px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://wa.me/33651752267"
+                   target="_blank"
+                   class="btn btn-secondary"
+                   style="display: inline-block; padding: 12px 32px; background-color: #ffffff !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #c9a96e !important; text-decoration: none; border-radius: 2px; border: 2px solid #c9a96e !important;">
+                    💬 Écrire à Marie-Christine
+                </a>
+            </div>
+        </div>
+
+        <!-- CITATION BANDEAU · bilingue -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f5e1dc; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 8px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 17px; font-style: italic; line-height: 1.6; color: #7a5c5c !important;">
+                    "Still here, when you are."
+                </p>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; line-height: 1.6; color: #7a5c5c !important;">
+                    « Toujours là, quand vous l'êtes. »
+                </p>
+            </div>
+        </div>
+
+        <!-- FOOTER CONTACT — bilingue -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; color: #1a1a1a !important; text-transform: uppercase; letter-spacing: 1px;">
+                    MC Davidian
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important; line-height: 1.6;">
+                    Reseller Partners · Partenaires Revendeurs · Handmade in France<br/>
+                    <a href="mailto:marie@news.mcdavidian.com" style="color: #c9a96e !important; text-decoration: none;">marie@news.mcdavidian.com</a>
+                    &#160;•&#160;
+                    <a href="https://mcdavidian.hair" target="_blank" style="color: #c9a96e !important; text-decoration: none;">mcdavidian.hair</a>
+                </p>
+            </div>
+        </div>
+
+        <!-- UNSUBSCRIBE -->
+        <t t-call="mass_mailing.s_mail_block_footer_social"/>
+
+    </template>
+
 </odoo>
