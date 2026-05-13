@@ -62,6 +62,20 @@
                 <t t-call="odoo_newsletter.theme_mcdavidian_matic_en_template"/>
             </div>
 
+            <!-- B2C - Idées coiffures été -->
+            <div data-name="mcdavidian_b2c_coiffures_ete_fr"
+                 title="MCD B2C FR · Idées coiffures été"
+                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_b2c_coiffures_ete_fr"
+                 data-layout-styles="background-color: #f8f6f3 !important;">
+                <t t-call="odoo_newsletter.theme_mcdavidian_coiffures_ete_fr_template"/>
+            </div>
+            <div data-name="mcdavidian_b2c_coiffures_ete_en"
+                 title="MCD B2C EN · Summer hairstyle ideas"
+                 data-img="/odoo_newsletter/static/src/img/theme_imgs/mcdavidian_b2c_coiffures_ete_en"
+                 data-layout-styles="background-color: #f8f6f3 !important;">
+                <t t-call="odoo_newsletter.theme_mcdavidian_coiffures_ete_en_template"/>
+            </div>
+
             <!-- B2B - Bienvenue -->
             <div data-name="mcdavidian_b2b_bienvenue"
                  title="MCD B2B · Bienvenue / Welcome"

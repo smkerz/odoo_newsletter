@@ -2012,6 +2012,560 @@
     </template>
 
     <!-- ============================================================ -->
+    <!-- MC Davidian Newsletter #5 · Idées coiffures été (FR)         -->
+    <!-- ============================================================ -->
+    <template id="theme_mcdavidian_coiffures_ete_fr_template">
+
+        <style id="design-element-coiffures-ete-fr">
+            h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; color: #1a1a1a !important; }
+            p, p &gt; *, li, li &gt; * { color: #444444 !important; }
+            a { color: #c9a96e !important; }
+        </style>
+
+        <!-- HEADER ROSE POUDRE + LOGO -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #f5e1dc; padding: 40px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.fr" target="_blank" style="text-decoration: none;">
+                    <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg"
+                         alt="MC Davidian"
+                         width="200"
+                         style="display: inline-block; max-width: 200px; height: auto;" />
+                </a>
+                <p style="margin: 16px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 12px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
+                    Accessoires cheveux de luxe · Faits main en France depuis 1980
+                </p>
+            </div>
+        </div>
+
+        <!-- TITRE + SOUS-TITRE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 40px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h1 style="margin: 0 0 16px 0; font-size: 28px; line-height: 1.3; color: #1a1a1a !important;">
+                    Quatre coiffures, quatre humeurs d'été.
+                </h1>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important; letter-spacing: 1px; line-height: 1.5;">
+                    Inspirations légères avec vos pièces préférées.
+                </p>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR DORE -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 24px 24px 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- INTRODUCTION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    L'été approche. Avec lui, l'envie de coiffures qui dégagent la nuque, attrapent la lumière, se font et se défont au gré des journées.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Voici quatre idées simples, chacune mise en scène avec une pièce de nos collections.
+                </p>
+            </div>
+        </div>
+
+        <!-- COIFFURE 1 · LA BARRETTE PLATE · PHOTO -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <table align="center" style="border-collapse: collapse; margin: 0 auto;"><tr><td align="center">
+                    <a href="https://mcdavidian.fr/barrettes-a-cheveux/barrette-a-cheveux-queue-de-cheval-rectangle-simple-tgm" target="_blank">
+                        <img src="https://gallery.mcdavidian.com/_data/i/galleries/Photo%20Shooting/2022.07%20Photoshooting%20R%C3%A9va%20%28Photo%20Mod%C3%A8le%29/93070/93070-me.jpg"
+                             alt="Demi-attache avec grande barrette plate"
+                             width="500"
+                             style="display: block; width: 500px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                    </a>
+                </td></tr></table>
+            </div>
+        </div>
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 20px 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 12px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important;">
+                    La barrette plate
+                </h2>
+                <p style="margin: 0 auto 16px auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left; max-width: 480px;">
+                    Une grande barrette horizontale qui rassemble la demi-chevelure dans le dos. Sobre, élégant, structurant. C'est la pièce qui fait toute la différence sans en faire trop.
+                </p>
+                <a href="https://mcdavidian.fr/barrettes-a-cheveux/barrette-a-cheveux-queue-de-cheval-rectangle-simple-tgm"
+                   target="_blank"
+                   style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline; letter-spacing: 0.5px;">
+                    Voir la Barrette Rectangle Simple TGM →
+                </a>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR DORE -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- COIFFURE 2 · LA DEMI-ATTACHE CLASSIQUE -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <table align="center" style="border-collapse: collapse; margin: 0 auto;"><tr><td align="center">
+                    <a href="https://mcdavidian.fr/nouvelles-collections/pince-a-cheveux-fait-main-metal-little-jaw-simple-gm" target="_blank">
+                        <img src="https://gallery.mcdavidian.com/_data/i/galleries/Photo%20Shooting/2022.07%20Photoshooting%20R%C3%A9va%20%28Photo%20Mod%C3%A8le%29/93000/93000-me.jpg"
+                             alt="Demi-attache classique avec pince"
+                             width="500"
+                             style="display: block; width: 500px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                    </a>
+                </td></tr></table>
+            </div>
+        </div>
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 20px 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 12px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important;">
+                    La demi-attache classique
+                </h2>
+                <p style="margin: 0 auto 16px auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left; max-width: 480px;">
+                    L'option qui marche toujours. On attrape une mèche de chaque côté, on les croise au sommet, on ferme avec une pince. Trois secondes, prête à sortir.
+                </p>
+                <a href="https://mcdavidian.fr/nouvelles-collections/pince-a-cheveux-fait-main-metal-little-jaw-simple-gm"
+                   target="_blank"
+                   style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline; letter-spacing: 0.5px;">
+                    Voir la Pince Little Jaw Métal GM →
+                </a>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR DORE -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- COIFFURE 3 · LE CHIGNON IMPROVISE -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <table align="center" style="border-collapse: collapse; margin: 0 auto;"><tr><td align="center">
+                    <a href="https://mcdavidian.fr/peignes-a-cheveux/peigne-metal-rockn-roll-classique-simple-mm" target="_blank">
+                        <img src="https://gallery.mcdavidian.com/_data/i/galleries/Photo%20Shooting/2022.09%20Photoshooting%20R%C3%A9va/Photo%20Mod%C3%A8le/93095bis-me.jpg"
+                             alt="Chignon improvisé avec peigne Rock'n Roll"
+                             width="500"
+                             style="display: block; width: 500px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                    </a>
+                </td></tr></table>
+            </div>
+        </div>
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 20px 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 12px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important;">
+                    Le chignon improvisé
+                </h2>
+                <p style="margin: 0 auto 16px auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left; max-width: 480px;">
+                    Un twist, un tour, et hop : le peigne maintient tout en place. Idéal pour les après-midi de chaleur, ou les soirées qui se prolongent.
+                </p>
+                <a href="https://mcdavidian.fr/peignes-a-cheveux/peigne-metal-rockn-roll-classique-simple-mm"
+                   target="_blank"
+                   style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline; letter-spacing: 0.5px;">
+                    Voir le Peigne Métal Rock'n Roll MM →
+                </a>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR DORE -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- COIFFURE 4 · LE SERRE-TETE -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <table align="center" style="border-collapse: collapse; margin: 0 auto;"><tr><td align="center">
+                    <a href="https://mcdavidian.fr/serre-tete/serre-tete-fait-main-double-entrelacement-simple-mm" target="_blank">
+                        <img src="https://gallery.mcdavidian.com/_data/i/galleries/Photo%20Shooting/2022.07%20Photoshooting%20R%C3%A9va%20%28Photo%20Mod%C3%A8le%29/93217/93217-me.jpg"
+                             alt="Profil cheveux libres avec serre-tête"
+                             width="500"
+                             style="display: block; width: 500px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                    </a>
+                </td></tr></table>
+            </div>
+        </div>
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 20px 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 12px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important;">
+                    Le serre-tête
+                </h2>
+                <p style="margin: 0 auto 16px auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left; max-width: 480px;">
+                    Pour celles qui aiment garder les cheveux lâchés, le serre-tête fait toute la différence. On l'enfile, on oublie qu'il est là, et il rend la coiffure parfaite toute la journée.
+                </p>
+                <a href="https://mcdavidian.fr/serre-tete/serre-tete-fait-main-double-entrelacement-simple-mm"
+                   target="_blank"
+                   style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline; letter-spacing: 0.5px;">
+                    Voir le Serre-Tête Double Entrelacement MM →
+                </a>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR DORE -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- CONCLUSION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Quatre coiffures, quatre humeurs. Vous nous direz laquelle vous tente le plus.
+                </p>
+                <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    À bientôt,
+                </p>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-style: italic; color: #1a1a1a !important; text-align: left;">
+                    Marie-Christine
+                </p>
+            </div>
+        </div>
+
+        <!-- BOUTON CTA -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px 40px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.fr"
+                   target="_blank"
+                   class="btn btn-primary"
+                   style="display: inline-block; padding: 14px 40px; background-color: #c9a96e !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #ffffff !important; text-decoration: none; border-radius: 2px; border: none;">
+                    Découvrir nos accessoires
+                </a>
+            </div>
+        </div>
+
+        <!-- CITATION BANDEAU ROSE POUDRE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f5e1dc; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 17px; font-style: italic; line-height: 1.6; color: #7a5c5c !important;">
+                    « Les plus belles coiffures sont celles qu'on improvise. »
+                </p>
+            </div>
+        </div>
+
+        <!-- FOOTER CONTACT -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; color: #1a1a1a !important; text-transform: uppercase; letter-spacing: 1px;">
+                    MC Davidian
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important; line-height: 1.6;">
+                    Accessoires Cheveux · Faits Main en France<br/>
+                    <a href="mailto:marie@news.mcdavidian.com" style="color: #c9a96e !important; text-decoration: none;">marie@news.mcdavidian.com</a>
+                    &#160;•&#160;
+                    <a href="https://mcdavidian.fr" target="_blank" style="color: #c9a96e !important; text-decoration: none;">mcdavidian.fr</a>
+                </p>
+            </div>
+        </div>
+
+        <!-- UNSUBSCRIBE -->
+        <t t-call="mass_mailing.s_mail_block_footer_social"/>
+
+    </template>
+
+    <!-- ============================================================ -->
+    <!-- MC Davidian Newsletter #5 · Summer hairstyle ideas (EN)      -->
+    <!-- ============================================================ -->
+    <template id="theme_mcdavidian_coiffures_ete_en_template">
+
+        <style id="design-element-coiffures-ete-en">
+            h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; color: #1a1a1a !important; }
+            p, p &gt; *, li, li &gt; * { color: #444444 !important; }
+            a { color: #c9a96e !important; }
+        </style>
+
+        <!-- HEADER BLUSH PINK + LOGO -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #f5e1dc; padding: 40px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.com" target="_blank" style="text-decoration: none;">
+                    <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg"
+                         alt="MC Davidian"
+                         width="200"
+                         style="display: inline-block; max-width: 200px; height: auto;" />
+                </a>
+                <p style="margin: 16px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 12px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
+                    Luxury hair accessories · Handmade in France since 1980
+                </p>
+            </div>
+        </div>
+
+        <!-- TITLE + SUBTITLE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 40px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h1 style="margin: 0 0 16px 0; font-size: 28px; line-height: 1.3; color: #1a1a1a !important;">
+                    Four hairstyles, four summer moods.
+                </h1>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important; letter-spacing: 1px; line-height: 1.5;">
+                    Light inspirations with your favorite pieces.
+                </p>
+            </div>
+        </div>
+
+        <!-- SEPARATOR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 24px 24px 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- INTRODUCTION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Summer is coming. With it, the desire for hairstyles that bare the neck, catch the light, that come together and undo themselves across the day.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Here are four simple ideas, each styled with a piece from our collections.
+                </p>
+            </div>
+        </div>
+
+        <!-- LOOK 1 · THE FLAT BARRETTE · PHOTO -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <table align="center" style="border-collapse: collapse; margin: 0 auto;"><tr><td align="center">
+                    <a href="https://mcdavidian.com/barrettes/timeless-ponytail-tgm" target="_blank">
+                        <img src="https://gallery.mcdavidian.com/_data/i/galleries/Photo%20Shooting/2022.07%20Photoshooting%20R%C3%A9va%20%28Photo%20Mod%C3%A8le%29/93070/93070-me.jpg"
+                             alt="Half-up with large flat barrette"
+                             width="500"
+                             style="display: block; width: 500px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                    </a>
+                </td></tr></table>
+            </div>
+        </div>
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 20px 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 12px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important;">
+                    The flat barrette
+                </h2>
+                <p style="margin: 0 auto 16px auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left; max-width: 480px;">
+                    A large horizontal barrette that gathers the half-back hair. Simple, elegant, structured. The piece that makes all the difference without trying too hard.
+                </p>
+                <a href="https://mcdavidian.com/barrettes/timeless-ponytail-tgm"
+                   target="_blank"
+                   style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline; letter-spacing: 0.5px;">
+                    See the Timeless Ponytail TGM →
+                </a>
+            </div>
+        </div>
+
+        <!-- SEPARATOR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- LOOK 2 · THE CLASSIC HALF-UP -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <table align="center" style="border-collapse: collapse; margin: 0 auto;"><tr><td align="center">
+                    <a href="https://mcdavidian.com/hair-accessories/jaw-hair-clip-gm" target="_blank">
+                        <img src="https://gallery.mcdavidian.com/_data/i/galleries/Photo%20Shooting/2022.07%20Photoshooting%20R%C3%A9va%20%28Photo%20Mod%C3%A8le%29/93000/93000-me.jpg"
+                             alt="Classic half-up with clip"
+                             width="500"
+                             style="display: block; width: 500px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                    </a>
+                </td></tr></table>
+            </div>
+        </div>
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 20px 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 12px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important;">
+                    The classic half-up
+                </h2>
+                <p style="margin: 0 auto 16px auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left; max-width: 480px;">
+                    The option that always works. Grab a strand on each side, cross them at the top, close with a clip. Three seconds, ready to go.
+                </p>
+                <a href="https://mcdavidian.com/hair-accessories/jaw-hair-clip-gm"
+                   target="_blank"
+                   style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline; letter-spacing: 0.5px;">
+                    See the Jaw Hair Clip GM →
+                </a>
+            </div>
+        </div>
+
+        <!-- SEPARATOR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- LOOK 3 · THE IMPROVISED BUN -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <table align="center" style="border-collapse: collapse; margin: 0 auto;"><tr><td align="center">
+                    <a href="https://mcdavidian.com/hair-combs/rockn-roll-metal-comb-mm" target="_blank">
+                        <img src="https://gallery.mcdavidian.com/_data/i/galleries/Photo%20Shooting/2022.09%20Photoshooting%20R%C3%A9va/Photo%20Mod%C3%A8le/93095bis-me.jpg"
+                             alt="Improvised bun with Rock'n Roll metal comb"
+                             width="500"
+                             style="display: block; width: 500px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                    </a>
+                </td></tr></table>
+            </div>
+        </div>
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 20px 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 12px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important;">
+                    The improvised bun
+                </h2>
+                <p style="margin: 0 auto 16px auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left; max-width: 480px;">
+                    A twist, a turn, and there: the comb holds it all in place. Perfect for hot afternoons, or evenings that linger.
+                </p>
+                <a href="https://mcdavidian.com/hair-combs/rockn-roll-metal-comb-mm"
+                   target="_blank"
+                   style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline; letter-spacing: 0.5px;">
+                    See the Rock'n Roll Metal Comb MM →
+                </a>
+            </div>
+        </div>
+
+        <!-- SEPARATOR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- LOOK 4 · THE HEADBAND -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <table align="center" style="border-collapse: collapse; margin: 0 auto;"><tr><td align="center">
+                    <a href="https://mcdavidian.com/headbands/ivory-headband-mm" target="_blank">
+                        <img src="https://gallery.mcdavidian.com/_data/i/galleries/Photo%20Shooting/2022.07%20Photoshooting%20R%C3%A9va%20%28Photo%20Mod%C3%A8le%29/93217/93217-me.jpg"
+                             alt="Profile with headband"
+                             width="500"
+                             style="display: block; width: 500px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                    </a>
+                </td></tr></table>
+            </div>
+        </div>
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 20px 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 12px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important;">
+                    The headband
+                </h2>
+                <p style="margin: 0 auto 16px auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left; max-width: 480px;">
+                    For those who prefer hair down, the headband makes all the difference. You slide it on, forget it's there, and it keeps the hairstyle perfect all day.
+                </p>
+                <a href="https://mcdavidian.com/headbands/ivory-headband-mm"
+                   target="_blank"
+                   style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline; letter-spacing: 0.5px;">
+                    See the Ivory Headband MM →
+                </a>
+            </div>
+        </div>
+
+        <!-- SEPARATOR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- CONCLUSION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Four hairstyles, four moods. Let us know which one tempts you most.
+                </p>
+                <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    See you soon,
+                </p>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-style: italic; color: #1a1a1a !important; text-align: left;">
+                    Marie-Christine
+                </p>
+            </div>
+        </div>
+
+        <!-- CTA BUTTON -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px 40px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.com"
+                   target="_blank"
+                   class="btn btn-primary"
+                   style="display: inline-block; padding: 14px 40px; background-color: #c9a96e !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #ffffff !important; text-decoration: none; border-radius: 2px; border: none;">
+                    Discover our accessories
+                </a>
+            </div>
+        </div>
+
+        <!-- QUOTE BANNER BLUSH PINK -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f5e1dc; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 17px; font-style: italic; line-height: 1.6; color: #7a5c5c !important;">
+                    "The most beautiful hairstyles are the ones we improvise."
+                </p>
+            </div>
+        </div>
+
+        <!-- FOOTER CONTACT -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; color: #1a1a1a !important; text-transform: uppercase; letter-spacing: 1px;">
+                    MC Davidian
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important; line-height: 1.6;">
+                    Luxury Hair Accessories · Handmade in France<br/>
+                    <a href="mailto:marie@news.mcdavidian.com" style="color: #c9a96e !important; text-decoration: none;">marie@news.mcdavidian.com</a>
+                    &#160;•&#160;
+                    <a href="https://mcdavidian.com" target="_blank" style="color: #c9a96e !important; text-decoration: none;">mcdavidian.com</a>
+                </p>
+            </div>
+        </div>
+
+        <!-- UNSUBSCRIBE -->
+        <t t-call="mass_mailing.s_mail_block_footer_social"/>
+
+    </template>
+
+    <!-- ============================================================ -->
     <!-- MC Davidian B2B · Bilingual EN/FR · Bienvenue revendeurs     -->
     <!-- ============================================================ -->
     <template id="theme_mcdavidian_b2b_bienvenue_template">
