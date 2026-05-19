@@ -15,7 +15,7 @@
             <field name="lang">fr_FR</field>
             <field name="body_html" type="html">
                 <div style="font-family: Arial, sans-serif; font-size: 15px; line-height: 1.6; color: #333; max-width: 640px;">
-                    <p>Bonjour l'équipe de <t t-out="object.company_name or object.name or 'votre maison'"/>,</p>
+                    <p>Bonjour,</p>
 
                     <p>Je me permets de vous écrire car votre sélection de marques et votre univers correspondent parfaitement à ce que nous proposons.</p>
 
@@ -30,7 +30,7 @@
                         <li>Exclusivité territoriale envisageable</li>
                     </ul>
 
-                    <p>Nous sommes référencés chez Dover Street Market, KaDeWe, Illum Copenhagen, et dans la presse : <em>Vogue</em>, <em>ELLE</em>, <em>The New York Post</em>.</p>
+                    <p>Nous sommes référencés notamment chez Lot #29 (Copenhague), Marissa Collections (Floride), Parfumerie Castelli (Rome) et DGB Profumeria (Milan). Presse : <em>Vogue</em>, <em>ELLE</em>, <em>Cosmopolitan</em>, <em>The New York Post</em>.</p>
 
                     <p>Auriez-vous un créneau de 10 minutes cette semaine pour découvrir la collection ensemble ? Je peux également vous envoyer notre lookbook et tarifs wholesale sur simple demande.</p>
 
@@ -54,7 +54,7 @@
             <field name="lang">fr_FR</field>
             <field name="body_html" type="html">
                 <div style="font-family: Arial, sans-serif; font-size: 15px; line-height: 1.6; color: #333; max-width: 640px;">
-                    <p>Bonjour l'équipe de <t t-out="object.company_name or object.name or 'votre maison'"/>,</p>
+                    <p>Bonjour,</p>
 
                     <p>Je me permets de vous écrire car nos accessoires s'inscrivent naturellement dans l'univers des boutiques mariage, en complément parfait de vos robes.</p>
 
@@ -69,7 +69,7 @@
                         <li>Pochettes velours luxe incluses, prêtes à offrir</li>
                     </ul>
 
-                    <p>Nos pièces accompagnent des mariées en France, Suisse, Danemark, USA, Corée et Japon. Presse : <em>Vogue</em>, <em>ELLE</em>.</p>
+                    <p>Nos pièces accompagnent des mariées en France, Suisse, Danemark, USA, Corée et Japon. Presse : <em>Vogue</em>, <em>ELLE</em>, <em>Cosmopolitan</em>, <em>The New York Post</em>.</p>
 
                     <p>Je vous envoie avec plaisir notre lookbook mariée et tarifs wholesale, un mot suffit. Ou, si vous préférez, un échange de 10 minutes pour en discuter ensemble.</p>
 
@@ -93,7 +93,7 @@
             <field name="lang">fr_FR</field>
             <field name="body_html" type="html">
                 <div style="font-family: Arial, sans-serif; font-size: 15px; line-height: 1.6; color: #333; max-width: 640px;">
-                    <p>Bonjour l'équipe de <t t-out="object.company_name or object.name or 'votre maison'"/>,</p>
+                    <p>Bonjour,</p>
 
                     <p>Je me permets de vous écrire car nos accessoires cheveux, conçus par et pour des professionnels, complètent parfaitement l'offre d'un salon haut de gamme.</p>
 
@@ -108,7 +108,7 @@
                         <li>Réassort 48-72h depuis la France</li>
                     </ul>
 
-                    <p>Le K2 Palace (Courchevel), les salons Aldo Coppola (Milan) et Rossano Ferretti proposent déjà nos pièces. Presse : <em>Vogue</em>, <em>ELLE</em>.</p>
+                    <p>Nos pièces sont proposées notamment chez Jacques Dessange (Cannes, Antibes), Carita Nice, Salon Roger Hamouï (Paris), Brune Blonde (Hong Kong) et Studio ACCA (Tokyo). Presse : <em>Vogue</em>, <em>ELLE</em>, <em>Cosmopolitan</em>.</p>
 
                     <p>Auriez-vous 10 minutes cette semaine pour un échange rapide ? Je pourrais vous présenter les mécanismes conçus spécifiquement pour les professionnels et vous envoyer tarifs et marges.</p>
 
@@ -132,7 +132,7 @@
             <field name="lang">fr_FR</field>
             <field name="body_html" type="html">
                 <div style="font-family: Arial, sans-serif; font-size: 15px; line-height: 1.6; color: #333; max-width: 640px;">
-                    <p>Bonjour l'équipe de <t t-out="object.company_name or object.name or 'votre maison'"/>,</p>
+                    <p>Bonjour,</p>
 
                     <p>Je me permets de vous écrire car nos accessoires cheveux faits main correspondent parfaitement à l'univers d'une clientèle exigeante en hôtellerie de luxe.</p>
 
@@ -148,7 +148,7 @@
                         <li>Exclusivité territoriale envisageable</li>
                     </ul>
 
-                    <p>Les palaces comme Le K2 Palace, Cheval Blanc Courchevel, Airelles Courchevel, Château Saint-Martin et Cures Marines Trouville référencent déjà nos pièces. Presse : <em>Vogue</em>, <em>ELLE</em>, <em>The New York Post</em>.</p>
+                    <p>Notre clientèle hôtelière inclut l'Hôtel Chambiges (Paris), les spas Cinq Mondes / Deep Nature à l'InterContinental Genève, ainsi que le Royal Palm Mauritius. Presse : <em>Vogue</em>, <em>ELLE</em>, <em>Cosmopolitan</em>, <em>The New York Post</em>.</p>
 
                     <p>Je peux vous faire parvenir notre dossier hospitality (visuels + tarifs) sur simple demande. Si cela vous intéresse, je serais également ravie de vous envoyer une pièce d'entrée de gamme pour apprécier la qualité en main.</p>
 
@@ -172,7 +172,7 @@
             <field name="lang">fr_FR</field>
             <field name="body_html" type="html">
                 <div style="font-family: Arial, sans-serif; font-size: 15px; line-height: 1.6; color: #333; max-width: 640px;">
-                    <p>Bonjour l'équipe de <t t-out="object.company_name or object.name or 'votre maison'"/>,</p>
+                    <p>Bonjour,</p>
 
                     <p>Je me permets de vous écrire car nos accessoires cheveux Made in France complètent parfaitement l'offre d'une parapharmacie orientée premium.</p>
 
@@ -188,7 +188,7 @@
                         <li>Made in France qui rassure la clientèle pharma</li>
                     </ul>
 
-                    <p>Nos pièces sont déjà référencées dans plusieurs pharmacies haut de gamme en France, Belgique et Allemagne. Presse : <em>Vogue</em>, <em>ELLE</em>.</p>
+                    <p>Nos accessoires sont référencés à la Pharmacie Matignon (Paris), Pharmacie Rogé Cavaillès (Paris), Pharmacie de Monte Carlo, Pharmacie Bourdeleix (Saint-Tropez), Pharmacie Fiandino (Aéroport de Nice), Magus Apothicaire de Beauté, ainsi qu'à la chaîne Amavita en Suisse. Presse : <em>Vogue</em>, <em>ELLE</em>, <em>Cosmopolitan</em>.</p>
 
                     <p>Puis-je vous envoyer notre sélection parapharma avec tarifs et marges ? Un échange de 10 minutes pour en discuter est également possible.</p>
 
@@ -212,7 +212,7 @@
             <field name="lang">fr_FR</field>
             <field name="body_html" type="html">
                 <div style="font-family: Arial, sans-serif; font-size: 15px; line-height: 1.6; color: #333; max-width: 640px;">
-                    <p>Bonjour l'équipe de <t t-out="object.company_name or object.name or 'votre maison'"/>,</p>
+                    <p>Bonjour,</p>
 
                     <p>Je me permets de vous écrire car nos accessoires s'inscrivent dans la lignée du savoir-faire français que célèbre votre institution.</p>
 
@@ -228,7 +228,7 @@
                         <li>Fourniture disponible avec documentation sur le savoir-faire</li>
                     </ul>
 
-                    <p>Notre marque est citée dans <em>Vogue</em>, <em>ELLE</em>, <em>The New York Post</em>, visibilité qui justifie le référencement.</p>
+                    <p>Notre marque est citée dans <em>Vogue</em>, <em>ELLE</em>, <em>Cosmopolitan</em>, <em>The New York Post</em>, visibilité qui justifie le référencement.</p>
 
                     <p>Je peux vous adresser notre dossier savoir-faire complet (historique + sélection adaptée à votre institution) sur simple demande. Un rendez-vous en atelier ou en visio est également envisageable.</p>
 
