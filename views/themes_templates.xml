@@ -2566,6 +2566,502 @@
     </template>
 
     <!-- ============================================================ -->
+    <!-- MC Davidian Newsletter #6 · Nouveautés Tige Boule (FR)       -->
+    <!-- ============================================================ -->
+    <template id="theme_mcdavidian_tige_boule_fr_template">
+
+        <style id="design-element-tige-boule-fr">
+            h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; color: #1a1a1a !important; }
+            p, p &gt; *, li, li &gt; * { color: #444444 !important; }
+            a { color: #c9a96e !important; }
+        </style>
+
+        <!-- HEADER ROSE POUDRE + LOGO -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #f5e1dc; padding: 40px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.fr" target="_blank" style="text-decoration: none;">
+                    <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg"
+                         alt="MC Davidian"
+                         width="200"
+                         style="display: inline-block; max-width: 200px; height: auto;" />
+                </a>
+                <p style="margin: 16px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 12px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
+                    Accessoires cheveux de luxe · Faits main en France depuis 1980
+                </p>
+            </div>
+        </div>
+
+        <!-- TITRE + SOUS-TITRE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 40px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 8px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 13px; font-style: italic; color: #c9a96e !important; letter-spacing: 4px; text-transform: uppercase;">
+                    Nouveau
+                </p>
+                <h1 style="margin: 0 0 16px 0; font-size: 28px; line-height: 1.3; color: #1a1a1a !important;">
+                    La barrette ajourée.
+                </h1>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important; letter-spacing: 1px; line-height: 1.5;">
+                    Deux silhouettes, six coloris, une seule envie : tout essayer.
+                </p>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR DORE -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 24px 24px 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- INTRODUCTION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    L'atelier vient de finaliser sa nouvelle collection : deux modèles de barrettes ajourées, faits main en France, déclinés en six coloris assortis.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    C'est l'occasion idéale pour rafraîchir votre boîte à barrettes avant l'été.
+                </p>
+            </div>
+        </div>
+
+        <!-- PHOTO HERO IMG1039 -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <table align="center" style="border-collapse: collapse; margin: 0 auto;"><tr><td align="center">
+                    <a href="https://mcdavidian.fr/barrettes-a-cheveux" target="_blank">
+                        <img src="https://gallery.mcdavidian.com/i.php?/galleries/!%20Newsletters/NL-B2B-6/_IMG1039-me.jpg"
+                             alt="La nouvelle collection de barrettes ajourées MC Davidian"
+                             width="500"
+                             style="display: block; width: 500px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                    </a>
+                </td></tr></table>
+            </div>
+        </div>
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.7; color: #666666 !important; text-align: left; max-width: 480px; font-style: italic;">
+                    Deux nouvelles silhouettes, à fermeture <strong>tige boule</strong> flashée or. L'ouverture centrale laisse passer la mèche, la tige verrouille la coiffure d'un geste. En acétate de coton, faites main dans l'Ain.
+                </p>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR DORE -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- MODELE 1 OVALE -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <table align="center" style="border-collapse: collapse; margin: 0 auto;"><tr><td align="center">
+                    <a href="https://mcdavidian.fr/barrettes-a-cheveux/barrette-ovale-ajouree" target="_blank">
+                        <img src="https://gallery.mcdavidian.com/i.php?/galleries/!%20Newsletters/NL-B2B-6/_IMG0972-me.jpg"
+                             alt="Barrette Ovale Ajourée, 6 coloris"
+                             width="500"
+                             style="display: block; width: 500px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                    </a>
+                </td></tr></table>
+            </div>
+        </div>
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 20px 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 6px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important;">
+                    Barrette Ovale Ajourée
+                </h2>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; color: #c9a96e !important; font-weight: 600;">
+                    9 €
+                </p>
+                <p style="margin: 0 auto 12px auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left; max-width: 480px;">
+                    L'ovale, doux et organique. Trois centimètres d'acétate de coton, un cabochon central qui laisse passer la lumière. Parfaite pour fixer une mèche, une demi-attache, ou simplement décorer un chignon.
+                </p>
+                <p style="margin: 0 auto 20px auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.6; color: #888888 !important; text-align: center; max-width: 480px;">
+                    Noir · Écaille · Alba · Bleu marine · Tortue · Blanc
+                </p>
+                <a href="https://mcdavidian.fr/barrettes-a-cheveux/barrette-ovale-ajouree"
+                   target="_blank"
+                   style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline; letter-spacing: 0.5px;">
+                    Voir la Barrette Ovale Ajourée →
+                </a>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR DORE -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- MODELE 2 RECTANGLE -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <table align="center" style="border-collapse: collapse; margin: 0 auto;"><tr><td align="center">
+                    <a href="https://mcdavidian.fr/barrettes-a-cheveux/barrette-rectangle-ajouree" target="_blank">
+                        <img src="https://gallery.mcdavidian.com/i.php?/galleries/!%20Newsletters/NL-B2B-6/_IMG1012-me.jpg"
+                             alt="Barrette Rectangle Ajourée, 6 coloris"
+                             width="500"
+                             style="display: block; width: 500px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                    </a>
+                </td></tr></table>
+            </div>
+        </div>
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 20px 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 6px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important;">
+                    Barrette Rectangle Ajourée
+                </h2>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; color: #c9a96e !important; font-weight: 600;">
+                    9 €
+                </p>
+                <p style="margin: 0 auto 12px auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left; max-width: 480px;">
+                    Le rectangle, plus net, plus structuré. Quatre à cinq centimètres d'acétate de coton, une fente centrale franche. Pour celles qui préfèrent les lignes droites.
+                </p>
+                <p style="margin: 0 auto 20px auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.6; color: #888888 !important; text-align: center; max-width: 480px;">
+                    Mêmes six coloris, pour composer avec l'ovale.
+                </p>
+                <a href="https://mcdavidian.fr/barrettes-a-cheveux/barrette-rectangle-ajouree"
+                   target="_blank"
+                   style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline; letter-spacing: 0.5px;">
+                    Voir la Barrette Rectangle Ajourée →
+                </a>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR DORE -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- CONCLUSION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Chaque pièce est façonnée une par une dans notre atelier de l'Ain, polie à la main et estampillée « Hand Made in France ». L'édition 2026 inaugure ce poinçon discret, gage de notre savoir-faire 100% français.
+                </p>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    À vous de choisir votre silhouette préférée. Ou les deux.
+                </p>
+                <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    À bientôt,
+                </p>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-style: italic; color: #1a1a1a !important; text-align: left;">
+                    Marie-Christine
+                </p>
+            </div>
+        </div>
+
+        <!-- BOUTON CTA -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px 40px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.fr/barrettes-a-cheveux"
+                   target="_blank"
+                   class="btn btn-primary"
+                   style="display: inline-block; padding: 14px 40px; background-color: #c9a96e !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #ffffff !important; text-decoration: none; border-radius: 2px; border: none;">
+                    Découvrir la collection
+                </a>
+            </div>
+        </div>
+
+        <!-- CITATION BANDEAU ROSE POUDRE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f5e1dc; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 17px; font-style: italic; line-height: 1.6; color: #7a5c5c !important;">
+                    « Le plus difficile, c'est de choisir. »
+                </p>
+            </div>
+        </div>
+
+        <!-- FOOTER CONTACT -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; color: #1a1a1a !important; text-transform: uppercase; letter-spacing: 1px;">
+                    MC Davidian
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important; line-height: 1.6;">
+                    Accessoires Cheveux · Faits Main en France<br/>
+                    <a href="mailto:marie@news.mcdavidian.com" style="color: #c9a96e !important; text-decoration: none;">marie@news.mcdavidian.com</a>
+                    &#160;•&#160;
+                    <a href="https://mcdavidian.fr" target="_blank" style="color: #c9a96e !important; text-decoration: none;">mcdavidian.fr</a>
+                </p>
+            </div>
+        </div>
+
+        <!-- UNSUBSCRIBE -->
+        <t t-call="mass_mailing.s_mail_block_footer_social"/>
+
+    </template>
+
+    <!-- ============================================================ -->
+    <!-- MC Davidian Newsletter #6 · New Openwork Hair Clips (EN)     -->
+    <!-- ============================================================ -->
+    <template id="theme_mcdavidian_tige_boule_en_template">
+
+        <style id="design-element-tige-boule-en">
+            h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; color: #1a1a1a !important; }
+            p, p &gt; *, li, li &gt; * { color: #444444 !important; }
+            a { color: #c9a96e !important; }
+        </style>
+
+        <!-- HEADER BLUSH PINK + LOGO -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #f5e1dc; padding: 40px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.com" target="_blank" style="text-decoration: none;">
+                    <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg"
+                         alt="MC Davidian"
+                         width="200"
+                         style="display: inline-block; max-width: 200px; height: auto;" />
+                </a>
+                <p style="margin: 16px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 12px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
+                    Luxury hair accessories · Handmade in France since 1980
+                </p>
+            </div>
+        </div>
+
+        <!-- TITLE + SUBTITLE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 40px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 8px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 13px; font-style: italic; color: #c9a96e !important; letter-spacing: 4px; text-transform: uppercase;">
+                    New
+                </p>
+                <h1 style="margin: 0 0 16px 0; font-size: 28px; line-height: 1.3; color: #1a1a1a !important;">
+                    The openwork hair clip.
+                </h1>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important; letter-spacing: 1px; line-height: 1.5;">
+                    Two silhouettes, six colors, one single urge: try them all.
+                </p>
+            </div>
+        </div>
+
+        <!-- SEPARATOR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 24px 24px 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- INTRODUCTION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    The atelier has just finished its new collection: two openwork hair clip designs, handmade in France, available in six matching colors.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    A perfect moment to refresh your hair clip box before summer.
+                </p>
+            </div>
+        </div>
+
+        <!-- HERO PHOTO IMG1039 -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <table align="center" style="border-collapse: collapse; margin: 0 auto;"><tr><td align="center">
+                    <a href="https://mcdavidian.com/tige-boule" target="_blank">
+                        <img src="https://gallery.mcdavidian.com/i.php?/galleries/!%20Newsletters/NL-B2B-6/_IMG1039-me.jpg"
+                             alt="The new MC Davidian openwork hair clip collection"
+                             width="500"
+                             style="display: block; width: 500px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                    </a>
+                </td></tr></table>
+            </div>
+        </div>
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.7; color: #666666 !important; text-align: left; max-width: 480px; font-style: italic;">
+                    Two new silhouettes with a <strong>tige boule</strong> closure (a fine flash gold-plated rod). The central opening lets the strand pass through, and the rod locks the hairstyle in one motion. In cotton acetate, handmade in the Ain region of France.
+                </p>
+            </div>
+        </div>
+
+        <!-- SEPARATOR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- MODEL 1 OVAL -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <table align="center" style="border-collapse: collapse; margin: 0 auto;"><tr><td align="center">
+                    <a href="https://mcdavidian.com/tige-boule/openwork-oval-hair-clip" target="_blank">
+                        <img src="https://gallery.mcdavidian.com/i.php?/galleries/!%20Newsletters/NL-B2B-6/_IMG0972-me.jpg"
+                             alt="Openwork Oval Hair Clip, 6 colors"
+                             width="500"
+                             style="display: block; width: 500px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                    </a>
+                </td></tr></table>
+            </div>
+        </div>
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 20px 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 6px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important;">
+                    Openwork Oval Hair Clip
+                </h2>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; color: #c9a96e !important; font-weight: 600;">
+                    $10
+                </p>
+                <p style="margin: 0 auto 12px auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left; max-width: 480px;">
+                    The oval, soft and organic. Three centimeters of cotton acetate, a central cabochon that lets the light pass through. Perfect to hold a strand, a half-up, or simply to decorate a bun.
+                </p>
+                <p style="margin: 0 auto 20px auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.6; color: #888888 !important; text-align: center; max-width: 480px;">
+                    Black · Tortoiseshell · Alba · Navy blue · Tortoise · White
+                </p>
+                <a href="https://mcdavidian.com/tige-boule/openwork-oval-hair-clip"
+                   target="_blank"
+                   style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline; letter-spacing: 0.5px;">
+                    See the Openwork Oval Hair Clip →
+                </a>
+            </div>
+        </div>
+
+        <!-- SEPARATOR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- MODEL 2 RECTANGLE -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <table align="center" style="border-collapse: collapse; margin: 0 auto;"><tr><td align="center">
+                    <a href="https://mcdavidian.com/tige-boule/openwork-rectangle-hair-clip" target="_blank">
+                        <img src="https://gallery.mcdavidian.com/i.php?/galleries/!%20Newsletters/NL-B2B-6/_IMG1012-me.jpg"
+                             alt="Openwork Rectangle Hair Clip, 6 colors"
+                             width="500"
+                             style="display: block; width: 500px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                    </a>
+                </td></tr></table>
+            </div>
+        </div>
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 20px 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 6px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important;">
+                    Openwork Rectangle Hair Clip
+                </h2>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; color: #c9a96e !important; font-weight: 600;">
+                    $10
+                </p>
+                <p style="margin: 0 auto 12px auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left; max-width: 480px;">
+                    The rectangle, crisper and more structured. Four to five centimeters of cotton acetate, a clean central slit. For those who prefer straight lines.
+                </p>
+                <p style="margin: 0 auto 20px auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.6; color: #888888 !important; text-align: center; max-width: 480px;">
+                    Same six colors, to pair with the oval.
+                </p>
+                <a href="https://mcdavidian.com/tige-boule/openwork-rectangle-hair-clip"
+                   target="_blank"
+                   style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline; letter-spacing: 0.5px;">
+                    See the Openwork Rectangle Hair Clip →
+                </a>
+            </div>
+        </div>
+
+        <!-- SEPARATOR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- CONCLUSION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Each piece is shaped one by one in our atelier in the Ain region of France, hand-polished and stamped "Hand Made in France". The 2026 edition introduces this discreet hallmark, a mark of our 100% French savoir-faire.
+                </p>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    It's up to you to choose your favorite silhouette. Or both.
+                </p>
+                <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    See you soon,
+                </p>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-style: italic; color: #1a1a1a !important; text-align: left;">
+                    Marie-Christine
+                </p>
+            </div>
+        </div>
+
+        <!-- CTA BUTTON -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px 40px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.com/tige-boule"
+                   target="_blank"
+                   class="btn btn-primary"
+                   style="display: inline-block; padding: 14px 40px; background-color: #c9a96e !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #ffffff !important; text-decoration: none; border-radius: 2px; border: none;">
+                    Discover the collection
+                </a>
+            </div>
+        </div>
+
+        <!-- QUOTE BANNER BLUSH PINK -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f5e1dc; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 17px; font-style: italic; line-height: 1.6; color: #7a5c5c !important;">
+                    "The hardest part is choosing."
+                </p>
+            </div>
+        </div>
+
+        <!-- FOOTER CONTACT -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; color: #1a1a1a !important; text-transform: uppercase; letter-spacing: 1px;">
+                    MC Davidian
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important; line-height: 1.6;">
+                    Luxury Hair Accessories · Handmade in France<br/>
+                    <a href="mailto:marie@news.mcdavidian.com" style="color: #c9a96e !important; text-decoration: none;">marie@news.mcdavidian.com</a>
+                    &#160;•&#160;
+                    <a href="https://mcdavidian.com" target="_blank" style="color: #c9a96e !important; text-decoration: none;">mcdavidian.com</a>
+                </p>
+            </div>
+        </div>
+
+        <!-- UNSUBSCRIBE -->
+        <t t-call="mass_mailing.s_mail_block_footer_social"/>
+
+    </template>
+
+    <!-- ============================================================ -->
     <!-- MC Davidian B2B · Bilingual EN/FR · Bienvenue revendeurs     -->
     <!-- ============================================================ -->
     <template id="theme_mcdavidian_b2b_bienvenue_template">

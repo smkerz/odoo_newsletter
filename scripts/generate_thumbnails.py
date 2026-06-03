@@ -23,6 +23,8 @@ TEMPLATES = [
     ("mcdavidian_b2c_matic_en",         "B2C EN", "The matic"),
     ("mcdavidian_b2c_coiffures_ete_fr", "B2C FR", "Idées coiffures été"),
     ("mcdavidian_b2c_coiffures_ete_en", "B2C EN", "Summer hairstyle ideas"),
+    ("mcdavidian_b2c_tige_boule_fr",    "B2C FR", "Nouveautés Tige Boule"),
+    ("mcdavidian_b2c_tige_boule_en",    "B2C EN", "New Openwork Clips"),
     ("mcdavidian_b2b_bienvenue",        "B2B",    "Bienvenue / Welcome"),
     ("mcdavidian_b2b_reassort_ete",     "B2B",    "Réassort été / Summer reorder"),
     ("mcdavidian_b2b_trois_partenaires", "B2B",   "Trois partenaires / Three partners"),
