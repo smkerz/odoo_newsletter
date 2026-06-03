@@ -31,6 +31,12 @@ TEMPLATES = [
     ("mcd_prospection_fr_wellness",     "PROSPECTION FR", "Wellness & Hospitality"),
     ("mcd_prospection_fr_pharmacie",    "PROSPECTION FR", "Pharmacie"),
     ("mcd_prospection_fr_culture",      "PROSPECTION FR", "Culture & Patrimoine"),
+    ("mcd_prospection_en_fashion",      "PROSPECTION EN", "Fashion & Lifestyle"),
+    ("mcd_prospection_en_bridal",       "PROSPECTION EN", "Bridal & Ceremony"),
+    ("mcd_prospection_en_hair_beauty",  "PROSPECTION EN", "Hair & Beauty"),
+    ("mcd_prospection_en_wellness",     "PROSPECTION EN", "Wellness & Hospitality"),
+    ("mcd_prospection_en_pharmacy",     "PROSPECTION EN", "Pharmacy"),
+    ("mcd_prospection_en_culture",      "PROSPECTION EN", "Culture & Heritage"),
 ]
 
 ROSE_BG = (245, 225, 220)

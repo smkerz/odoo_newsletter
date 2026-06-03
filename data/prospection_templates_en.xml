@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="0">
+
+        <!-- ============================================================ -->
+        <!-- MCD Prospection EN - 6 templates B2B first-touch              -->
+        <!-- ============================================================ -->
+
+        <!-- 01 · Fashion & Lifestyle -->
+        <record id="mail_template_prospection_en_fashion" model="mail.template">
+            <field name="name">MCD Prospection EN · Fashion &amp; Lifestyle</field>
+            <field name="model_id" ref="mass_mailing.model_mailing_contact"/>
+            <field name="subject">Handmade French hair accessories for your concept store</field>
+            <field name="lang">en_US</field>
+            <field name="body_html" type="html">
+                <div style="font-family: Arial, sans-serif; font-size: 15px; line-height: 1.6; color: #333; max-width: 640px;">
+                    <p>Hello,</p>
+
+                    <p>I am writing to you because your curated brand selection and editorial universe align beautifully with what we create.</p>
+
+                    <p>I am Marie-Christine Davidian, founder of MC Davidian, a French maison crafting hair accessories by hand since 1980. Italian cellulose acetate, authentic SWAROVSKI&#174; crystals, French matic mechanisms.</p>
+
+                    <p><strong>What we offer wholesale partners:</strong></p>
+                    <ul>
+                        <li>2,000+ references, 30+ collections (everyday to evening)</li>
+                        <li>Compact display unit (30-40 cm) adaptable to your space</li>
+                        <li>Premium margins and 48-72h restock from France</li>
+                        <li>Window display and social media assets provided</li>
+                        <li>Territorial exclusivity available on request</li>
+                    </ul>
+
+                    <p>Our pieces are stocked notably at Lot #29 (Copenhagen), Marissa Collections (Florida), Parfumerie Castelli (Rome) and DGB Profumeria (Milan). Press: <em>Vogue</em>, <em>ELLE</em>, <em>Cosmopolitan</em>, <em>The New York Post</em>.</p>
+
+                    <p>Would you have 10 minutes this week or next to discover the collection together? I can also send you our wholesale lookbook and pricing on request.</p>
+
+                    <p>Warm regards,<br/>
+                    <strong>Marie-Christine Davidian</strong>, Founder MC Davidian</p>
+
+                    <p style="font-size: 13px; color: #666; margin-top: 24px; border-top: 1px solid #e7e3dc; padding-top: 14px;">
+                        Moodboard: <a href="https://mcdavidian.hair/moodboard/en/" style="color: #c9a96e;">mcdavidian.hair/moodboard</a><br/>
+                        WhatsApp: <a href="https://wa.me/33651752267" style="color: #c9a96e;">+33 6 51 75 22 67</a><br/>
+                        Website: <a href="https://mcdavidian.com" style="color: #c9a96e;">mcdavidian.com</a>
+                    </p>
+                </div>
+            </field>
+        </record>
+
+        <!-- 02 · Bridal &amp; Ceremony -->
+        <record id="mail_template_prospection_en_bridal" model="mail.template">
+            <field name="name">MCD Prospection EN · Bridal &amp; Ceremony</field>
+            <field name="model_id" ref="mass_mailing.model_mailing_contact"/>
+            <field name="subject">Crystal combs and hairpins, handmade for your brides</field>
+            <field name="lang">en_US</field>
+            <field name="body_html" type="html">
+                <div style="font-family: Arial, sans-serif; font-size: 15px; line-height: 1.6; color: #333; max-width: 640px;">
+                    <p>Hello,</p>
+
+                    <p>I am writing to you because our accessories sit naturally in the world of bridal boutiques, as the perfect complement to your gowns.</p>
+
+                    <p>I am Marie-Christine Davidian, founder of MC Davidian. We create luxury hair accessories by hand in France since 1980: combs, barrettes, hairpins in Italian cellulose acetate and authentic SWAROVSKI&#174; crystals.</p>
+
+                    <p><strong>Why our pieces work in bridal boutiques:</strong></p>
+                    <ul>
+                        <li>Ready-to-sell bridal kits (combs, hairpins, clips) perfect as add-on during fittings</li>
+                        <li>Compact 30-40 cm display unit that fits beside the till or in fitting rooms</li>
+                        <li>Brides love leaving with a matching accessory on fitting day</li>
+                        <li>Premium margins and 48-72h restock</li>
+                        <li>Luxury velvet pouches included, ready to gift</li>
+                    </ul>
+
+                    <p>Our pieces accompany brides across France, Switzerland, Denmark, USA, Korea and Japan. Press: <em>Vogue</em>, <em>ELLE</em>, <em>Cosmopolitan</em>, <em>The New York Post</em>.</p>
+
+                    <p>I would be delighted to send you our bridal lookbook and wholesale pricing, just a word will do. Or, if you prefer, a 10-minute call to discuss together.</p>
+
+                    <p>Warm regards,<br/>
+                    <strong>Marie-Christine Davidian</strong>, Founder MC Davidian</p>
+
+                    <p style="font-size: 13px; color: #666; margin-top: 24px; border-top: 1px solid #e7e3dc; padding-top: 14px;">
+                        Moodboard: <a href="https://mcdavidian.hair/moodboard/en/" style="color: #c9a96e;">mcdavidian.hair/moodboard</a><br/>
+                        WhatsApp: <a href="https://wa.me/33651752267" style="color: #c9a96e;">+33 6 51 75 22 67</a><br/>
+                        Website: <a href="https://mcdavidian.com" style="color: #c9a96e;">mcdavidian.com</a>
+                    </p>
+                </div>
+            </field>
+        </record>
+
+        <!-- 03 · Hair &amp; Beauty -->
+        <record id="mail_template_prospection_en_hair_beauty" model="mail.template">
+            <field name="name">MCD Prospection EN · Hair &amp; Beauty</field>
+            <field name="model_id" ref="mass_mailing.model_mailing_contact"/>
+            <field name="subject">Offer your clients MC Davidian, handmade French hair accessories</field>
+            <field name="lang">en_US</field>
+            <field name="body_html" type="html">
+                <div style="font-family: Arial, sans-serif; font-size: 15px; line-height: 1.6; color: #333; max-width: 640px;">
+                    <p>Hello,</p>
+
+                    <p>I am writing to you because our hair accessories, designed by and for professionals, beautifully complement a high-end salon offer.</p>
+
+                    <p>I am Marie-Christine Davidian, founder of MC Davidian, luxury hair accessories handmade in France since 1980. Italian cellulose acetate, SWAROVSKI&#174; crystals, French matic mechanisms designed for professionals.</p>
+
+                    <p><strong>Why it works in salons:</strong></p>
+                    <ul>
+                        <li>Your clients try the accessories during their styling, the purchase happens naturally</li>
+                        <li>Small display unit (30-40 cm) at the till or near the washing area</li>
+                        <li>French matic mechanisms: perfect hold, smooth opening and closing, loved by your stylists</li>
+                        <li>Premium margin on every sale, effortless additional revenue</li>
+                        <li>48-72h restock from France</li>
+                    </ul>
+
+                    <p>Our pieces are notably offered at Jacques Dessange (Cannes, Antibes), Carita Nice, Salon Roger Hamouï (Paris), Brune Blonde (Hong Kong) and Studio ACCA (Tokyo). Press: <em>Vogue</em>, <em>ELLE</em>, <em>Cosmopolitan</em>.</p>
+
+                    <p>Would you have 10 minutes this week for a quick chat? I could walk you through the mechanisms designed specifically for professionals and send you pricing and margins.</p>
+
+                    <p>Warm regards,<br/>
+                    <strong>Marie-Christine Davidian</strong>, Founder MC Davidian</p>
+
+                    <p style="font-size: 13px; color: #666; margin-top: 24px; border-top: 1px solid #e7e3dc; padding-top: 14px;">
+                        Moodboard: <a href="https://mcdavidian.hair/moodboard/en/" style="color: #c9a96e;">mcdavidian.hair/moodboard</a><br/>
+                        WhatsApp: <a href="https://wa.me/33651752267" style="color: #c9a96e;">+33 6 51 75 22 67</a><br/>
+                        Website: <a href="https://mcdavidian.com" style="color: #c9a96e;">mcdavidian.com</a>
+                    </p>
+                </div>
+            </field>
+        </record>
+
+        <!-- 04 · Wellness &amp; Hospitality -->
+        <record id="mail_template_prospection_en_wellness" model="mail.template">
+            <field name="name">MCD Prospection EN · Wellness &amp; Hospitality</field>
+            <field name="model_id" ref="mass_mailing.model_mailing_contact"/>
+            <field name="subject">French luxury hair accessories for your boutique or spa</field>
+            <field name="lang">en_US</field>
+            <field name="body_html" type="html">
+                <div style="font-family: Arial, sans-serif; font-size: 15px; line-height: 1.6; color: #333; max-width: 640px;">
+                    <p>Hello,</p>
+
+                    <p>I am writing to you because our handmade hair accessories suit beautifully the world of a discerning clientele in luxury hospitality.</p>
+
+                    <p>I am Marie-Christine Davidian, founder of MC Davidian, a French maison crafting hair accessories by hand since 1980. Italian cellulose acetate, authentic SWAROVSKI&#174; crystals, French matic mechanisms.</p>
+
+                    <p><strong>Why it works in luxury hospitality:</strong></p>
+                    <ul>
+                        <li>Perfect "keepsake" format after a treatment, as a VIP amenity, or in your gift shop</li>
+                        <li>Luxury velvet pouches included, ready to gift</li>
+                        <li>Compact 30-40 cm display that fits in spa, reception or boutique</li>
+                        <li>"Made in France" with a story (artisanal know-how since 1980, press, Vogue)</li>
+                        <li>48-72h restock from France</li>
+                        <li>Territorial exclusivity available on request</li>
+                    </ul>
+
+                    <p>Our hospitality clientele includes Hôtel Chambiges (Paris), Cinq Mondes / Deep Nature spas at the InterContinental Geneva, and Royal Palm Mauritius. Press: <em>Vogue</em>, <em>ELLE</em>, <em>Cosmopolitan</em>, <em>The New York Post</em>.</p>
+
+                    <p>I would be delighted to send you our hospitality dossier (visuals plus pricing) on request. If of interest, I would also be happy to send you an entry-level piece so you can appreciate the quality in hand.</p>
+
+                    <p>Warm regards,<br/>
+                    <strong>Marie-Christine Davidian</strong>, Founder MC Davidian</p>
+
+                    <p style="font-size: 13px; color: #666; margin-top: 24px; border-top: 1px solid #e7e3dc; padding-top: 14px;">
+                        Moodboard: <a href="https://mcdavidian.hair/moodboard/en/" style="color: #c9a96e;">mcdavidian.hair/moodboard</a><br/>
+                        WhatsApp: <a href="https://wa.me/33651752267" style="color: #c9a96e;">+33 6 51 75 22 67</a><br/>
+                        Website: <a href="https://mcdavidian.com" style="color: #c9a96e;">mcdavidian.com</a>
+                    </p>
+                </div>
+            </field>
+        </record>
+
+        <!-- 05 · Pharmacy -->
+        <record id="mail_template_prospection_en_pharmacy" model="mail.template">
+            <field name="name">MCD Prospection EN · Pharmacy</field>
+            <field name="model_id" ref="mass_mailing.model_mailing_contact"/>
+            <field name="subject">A premium category for your pharmacy: handmade French accessories</field>
+            <field name="lang">en_US</field>
+            <field name="body_html" type="html">
+                <div style="font-family: Arial, sans-serif; font-size: 15px; line-height: 1.6; color: #333; max-width: 640px;">
+                    <p>Hello,</p>
+
+                    <p>I am writing to you because our Made in France hair accessories beautifully complement a premium-oriented pharmacy offer.</p>
+
+                    <p>I am Marie-Christine Davidian, founder of MC Davidian, luxury hair accessories handmade in France since 1980. Italian cellulose acetate, authentic SWAROVSKI&#174; crystals.</p>
+
+                    <p><strong>Why it works in a pharmacy:</strong></p>
+                    <ul>
+                        <li>Small compact display (30-40 cm) at the till or near the hair-care section</li>
+                        <li>Perfect impulse purchase: the customer sees, tries, buys</li>
+                        <li>Accessible retail price (30 to 90 EUR), natural complement to hair-care products</li>
+                        <li>Premium margins, better than a typical hair-care product</li>
+                        <li>No complex stock management: 48-72h restock from France</li>
+                        <li>Made in France reassures the pharma clientele</li>
+                    </ul>
+
+                    <p>Our accessories are stocked at Pharmacie Matignon (Paris), Pharmacie Rogé Cavaillès (Paris), Pharmacie de Monte Carlo, Pharmacie Bourdeleix (Saint-Tropez), Pharmacie Fiandino (Nice Airport), Magus Apothicaire de Beauté, and the Amavita chain in Switzerland. Press: <em>Vogue</em>, <em>ELLE</em>, <em>Cosmopolitan</em>.</p>
+
+                    <p>May I send you our pharmacy selection with pricing and margins? A 10-minute call to discuss is also possible.</p>
+
+                    <p>Warm regards,<br/>
+                    <strong>Marie-Christine Davidian</strong>, Founder MC Davidian</p>
+
+                    <p style="font-size: 13px; color: #666; margin-top: 24px; border-top: 1px solid #e7e3dc; padding-top: 14px;">
+                        Moodboard: <a href="https://mcdavidian.hair/moodboard/en/" style="color: #c9a96e;">mcdavidian.hair/moodboard</a><br/>
+                        WhatsApp: <a href="https://wa.me/33651752267" style="color: #c9a96e;">+33 6 51 75 22 67</a><br/>
+                        Website: <a href="https://mcdavidian.com" style="color: #c9a96e;">mcdavidian.com</a>
+                    </p>
+                </div>
+            </field>
+        </record>
+
+        <!-- 06 · Culture &amp; Heritage -->
+        <record id="mail_template_prospection_en_culture" model="mail.template">
+            <field name="name">MCD Prospection EN · Culture &amp; Heritage</field>
+            <field name="model_id" ref="mass_mailing.model_mailing_contact"/>
+            <field name="subject">French artisanal heritage since 1980 for your museum boutique</field>
+            <field name="lang">en_US</field>
+            <field name="body_html" type="html">
+                <div style="font-family: Arial, sans-serif; font-size: 15px; line-height: 1.6; color: #333; max-width: 640px;">
+                    <p>Hello,</p>
+
+                    <p>I am writing to you because our accessories belong to the lineage of French craft your institution celebrates.</p>
+
+                    <p>I am Marie-Christine Davidian, founder of MC Davidian, a French maison crafting hair accessories by hand since 1980. Every piece is cut, polished and assembled by hand in our atelier: Italian cellulose acetate, authentic SWAROVSKI&#174; crystals, French matic mechanisms.</p>
+
+                    <p><strong>Why our pieces fit museum boutiques:</strong></p>
+                    <ul>
+                        <li>Documented French artisanal heritage (1980, traditional methods preserved)</li>
+                        <li>2,000+ references, from timeless everyday to collector pieces</li>
+                        <li>No outsourced production, 100% Made in France</li>
+                        <li>Luxury velvet pouches included, packaging worthy of an institution</li>
+                        <li>Accessible retail prices (30 to 90 EUR), perfect cultural keepsake</li>
+                        <li>Heritage dossier available on request</li>
+                    </ul>
+
+                    <p>Our maison is cited in <em>Vogue</em>, <em>ELLE</em>, <em>Cosmopolitan</em>, <em>The New York Post</em>, visibility that supports the listing.</p>
+
+                    <p>I would be delighted to send you our complete heritage dossier (history plus a selection adapted to your institution) on request. An atelier visit or video call is also possible.</p>
+
+                    <p>Warm regards,<br/>
+                    <strong>Marie-Christine Davidian</strong>, Founder MC Davidian</p>
+
+                    <p style="font-size: 13px; color: #666; margin-top: 24px; border-top: 1px solid #e7e3dc; padding-top: 14px;">
+                        Moodboard: <a href="https://mcdavidian.hair/moodboard/en/" style="color: #c9a96e;">mcdavidian.hair/moodboard</a><br/>
+                        Press: <a href="https://mcdavidian.com/content/press" style="color: #c9a96e;">mcdavidian.com/content/press</a><br/>
+                        WhatsApp: <a href="https://wa.me/33651752267" style="color: #c9a96e;">+33 6 51 75 22 67</a><br/>
+                        Website: <a href="https://mcdavidian.com" style="color: #c9a96e;">mcdavidian.com</a>
+                    </p>
+                </div>
+            </field>
+        </record>
+
+    </data>
+</odoo>

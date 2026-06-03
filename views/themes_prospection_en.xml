@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <!-- ============================================================ -->
+    <!-- MCD Prospection EN · Fashion & Lifestyle                     -->
+    <!-- ============================================================ -->
+    <template id="theme_mcd_prospection_en_fashion_template">
+
+        <style id="design-element-prospection-en-fashion">
+            h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; color: #1a1a1a !important; }
+            p, p &gt; *, li, li &gt; * { color: #444444 !important; }
+            a { color: #c9a96e !important; }
+        </style>
+
+        <!-- HEADER -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #f5e1dc; padding: 28px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.hair/moodboard/en/" target="_blank" style="text-decoration: none;">
+                    <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg"
+                         alt="MC Davidian"
+                         width="160"
+                         style="display: inline-block; max-width: 160px; height: auto;" />
+                </a>
+                <p style="margin: 12px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 11px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
+                    Luxury hair accessories · Handmade in France since 1980
+                </p>
+            </div>
+        </div>
+
+        <!-- BODY -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 28px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 18px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.6; color: #444 !important;">
+                    Hello,
+                </p>
+
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    I am writing to you because your curated brand selection and editorial universe align beautifully with what we create.
+                </p>
+
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    I am Marie-Christine Davidian, founder of MC Davidian, a French maison crafting hair accessories by hand since 1980. Italian cellulose acetate, authentic SWAROVSKI&#174; crystals, French matic mechanisms.
+                </p>
+
+                <p style="margin: 18px 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #1a1a1a !important;">
+                    <strong>What we offer wholesale partners:</strong>
+                </p>
+                <ul style="margin: 0 0 18px 0; padding-left: 22px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    <li>2,000+ references, 30+ collections (everyday to evening)</li>
+                    <li>Compact display unit (30-40 cm) adaptable to your space</li>
+                    <li>Premium margins and 48-72h restock from France</li>
+                    <li>Window display and social media assets provided</li>
+                    <li>Territorial exclusivity available on request</li>
+                </ul>
+
+                <p style="margin: 0 0 18px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    Our pieces are stocked notably at Lot #29 (Copenhagen), Marissa Collections (Florida), Parfumerie Castelli (Rome) and DGB Profumeria (Milan). Press: <em>Vogue</em>, <em>ELLE</em>, <em>Cosmopolitan</em>, <em>The New York Post</em>.
+                </p>
+
+                <p style="margin: 0 0 18px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    Would you have 10 minutes this week or next to discover the collection together? I can also send you our wholesale lookbook and pricing on request.
+                </p>
+
+                <p style="margin: 24px 0 0 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    Warm regards,<br/>
+                    <strong style="color: #1a1a1a !important;">Marie-Christine Davidian</strong>, Founder MC Davidian
+                </p>
+            </div>
+        </div>
+
+        <!-- FOOTER -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #f8f6f3; padding: 22px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.8; color: #7a5c5c !important;">
+                    <a href="https://mcdavidian.hair/moodboard/en/" style="color: #c9a96e !important;">Moodboard</a>
+                    &#183;
+                    <a href="https://wa.me/33651752267" style="color: #c9a96e !important;">WhatsApp</a>
+                    &#183;
+                    <a href="https://mcdavidian.com" style="color: #c9a96e !important;">mcdavidian.com</a>
+                </p>
+            </div>
+        </div>
+
+    </template>
+
+
+    <!-- ============================================================ -->
+    <!-- MCD Prospection EN · Bridal & Ceremony                       -->
+    <!-- ============================================================ -->
+    <template id="theme_mcd_prospection_en_bridal_template">
+
+        <style id="design-element-prospection-en-bridal">
+            h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; color: #1a1a1a !important; }
+            p, p &gt; *, li, li &gt; * { color: #444444 !important; }
+            a { color: #c9a96e !important; }
+        </style>
+
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #f5e1dc; padding: 28px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.hair/moodboard/en/" target="_blank" style="text-decoration: none;">
+                    <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg" alt="MC Davidian" width="160" style="display: inline-block; max-width: 160px; height: auto;" />
+                </a>
+                <p style="margin: 12px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 11px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
+                    Combs, hairpins &amp; barrettes · SWAROVSKI® crystals · Handmade in France
+                </p>
+            </div>
+        </div>
+
+        <div class="s_text_block o_mail_snippet_general" style="background-color: #ffffff; padding: 32px 28px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 18px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.6; color: #444 !important;">
+                    Hello,
+                </p>
+
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    I am writing to you because our accessories sit naturally in the world of bridal boutiques, as the perfect complement to your gowns.
+                </p>
+
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    I am Marie-Christine Davidian, founder of MC Davidian. We create luxury hair accessories by hand in France since 1980: combs, barrettes, hairpins in Italian cellulose acetate and authentic SWAROVSKI&#174; crystals.
+                </p>
+
+                <p style="margin: 18px 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #1a1a1a !important;">
+                    <strong>Why our pieces work in bridal boutiques:</strong>
+                </p>
+                <ul style="margin: 0 0 18px 0; padding-left: 22px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    <li>Ready-to-sell bridal kits (combs, hairpins, clips) perfect as add-on during fittings</li>
+                    <li>Compact 30-40 cm display unit that fits beside the till or in fitting rooms</li>
+                    <li>Brides love leaving with a matching accessory on fitting day</li>
+                    <li>Premium margins and 48-72h restock</li>
+                    <li>Luxury velvet pouches included, ready to gift</li>
+                </ul>
+
+                <p style="margin: 0 0 18px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    Our pieces accompany brides across France, Switzerland, Denmark, USA, Korea and Japan. Press: <em>Vogue</em>, <em>ELLE</em>, <em>Cosmopolitan</em>, <em>The New York Post</em>.
+                </p>
+
+                <p style="margin: 0 0 18px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    I would be delighted to send you our bridal lookbook and wholesale pricing, just a word will do. Or, if you prefer, a 10-minute call to discuss together.
+                </p>
+
+                <p style="margin: 24px 0 0 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    Warm regards,<br/>
+                    <strong style="color: #1a1a1a !important;">Marie-Christine Davidian</strong>, Founder MC Davidian
+                </p>
+            </div>
+        </div>
+
+        <div class="s_text_block o_mail_snippet_general o_not_editable" style="background-color: #f8f6f3; padding: 22px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.8; color: #7a5c5c !important;">
+                    <a href="https://mcdavidian.hair/moodboard/en/" style="color: #c9a96e !important;">Moodboard</a>
+                    &#183;
+                    <a href="https://wa.me/33651752267" style="color: #c9a96e !important;">WhatsApp</a>
+                    &#183;
+                    <a href="https://mcdavidian.com" style="color: #c9a96e !important;">mcdavidian.com</a>
+                </p>
+            </div>
+        </div>
+
+    </template>
+
+
+    <!-- ============================================================ -->
+    <!-- MCD Prospection EN · Hair & Beauty                           -->
+    <!-- ============================================================ -->
+    <template id="theme_mcd_prospection_en_hair_beauty_template">
+
+        <style id="design-element-prospection-en-hair">
+            h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; color: #1a1a1a !important; }
+            p, p &gt; *, li, li &gt; * { color: #444444 !important; }
+            a { color: #c9a96e !important; }
+        </style>
+
+        <div class="s_text_block o_mail_snippet_general o_not_editable" style="background-color: #f5e1dc; padding: 28px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.hair/moodboard/en/" target="_blank" style="text-decoration: none;">
+                    <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg" alt="MC Davidian" width="160" style="display: inline-block; max-width: 160px; height: auto;" />
+                </a>
+                <p style="margin: 12px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 11px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
+                    Hair accessories for professionals · French matic mechanisms
+                </p>
+            </div>
+        </div>
+
+        <div class="s_text_block o_mail_snippet_general" style="background-color: #ffffff; padding: 32px 28px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 18px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.6; color: #444 !important;">
+                    Hello,
+                </p>
+
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    I am writing to you because our hair accessories, designed by and for professionals, beautifully complement a high-end salon offer.
+                </p>
+
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    I am Marie-Christine Davidian, founder of MC Davidian, luxury hair accessories handmade in France since 1980. Italian cellulose acetate, SWAROVSKI&#174; crystals, French matic mechanisms designed for professionals.
+                </p>
+
+                <p style="margin: 18px 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #1a1a1a !important;">
+                    <strong>Why it works in salons:</strong>
+                </p>
+                <ul style="margin: 0 0 18px 0; padding-left: 22px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    <li>Your clients try the accessories during their styling, the purchase happens naturally</li>
+                    <li>Small display unit (30-40 cm) at the till or near the washing area</li>
+                    <li>French matic mechanisms: perfect hold, smooth opening and closing</li>
+                    <li>Premium margin on every sale, effortless additional revenue</li>
+                    <li>48-72h restock from France</li>
+                </ul>
+
+                <p style="margin: 0 0 18px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    Our pieces are notably offered at Jacques Dessange (Cannes, Antibes), Carita Nice, Salon Roger Hamouï (Paris), Brune Blonde (Hong Kong) and Studio ACCA (Tokyo). Press: <em>Vogue</em>, <em>ELLE</em>, <em>Cosmopolitan</em>.
+                </p>
+
+                <p style="margin: 0 0 18px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    Would you have 10 minutes this week for a quick chat? I could walk you through the mechanisms designed specifically for professionals and send you pricing and margins.
+                </p>
+
+                <p style="margin: 24px 0 0 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    Warm regards,<br/>
+                    <strong style="color: #1a1a1a !important;">Marie-Christine Davidian</strong>, Founder MC Davidian
+                </p>
+            </div>
+        </div>
+
+        <div class="s_text_block o_mail_snippet_general o_not_editable" style="background-color: #f8f6f3; padding: 22px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.8; color: #7a5c5c !important;">
+                    <a href="https://mcdavidian.hair/moodboard/en/" style="color: #c9a96e !important;">Moodboard</a>
+                    &#183;
+                    <a href="https://wa.me/33651752267" style="color: #c9a96e !important;">WhatsApp</a>
+                    &#183;
+                    <a href="https://mcdavidian.com" style="color: #c9a96e !important;">mcdavidian.com</a>
+                </p>
+            </div>
+        </div>
+
+    </template>
+
+
+    <!-- ============================================================ -->
+    <!-- MCD Prospection EN · Wellness & Hospitality                  -->
+    <!-- ============================================================ -->
+    <template id="theme_mcd_prospection_en_wellness_template">
+
+        <style id="design-element-prospection-en-wellness">
+            h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; color: #1a1a1a !important; }
+            p, p &gt; *, li, li &gt; * { color: #444444 !important; }
+            a { color: #c9a96e !important; }
+        </style>
+
+        <div class="s_text_block o_mail_snippet_general o_not_editable" style="background-color: #f5e1dc; padding: 28px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.hair/moodboard/en/" target="_blank" style="text-decoration: none;">
+                    <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg" alt="MC Davidian" width="160" style="display: inline-block; max-width: 160px; height: auto;" />
+                </a>
+                <p style="margin: 12px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 11px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
+                    For your gift shop, spa or amenity · Made in France
+                </p>
+            </div>
+        </div>
+
+        <div class="s_text_block o_mail_snippet_general" style="background-color: #ffffff; padding: 32px 28px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 18px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.6; color: #444 !important;">
+                    Hello,
+                </p>
+
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    I am writing to you because our handmade hair accessories suit beautifully the world of a discerning clientele in luxury hospitality.
+                </p>
+
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    I am Marie-Christine Davidian, founder of MC Davidian, a French maison crafting hair accessories by hand since 1980. Italian cellulose acetate, authentic SWAROVSKI&#174; crystals, French matic mechanisms.
+                </p>
+
+                <p style="margin: 18px 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #1a1a1a !important;">
+                    <strong>Why it works in luxury hospitality:</strong>
+                </p>
+                <ul style="margin: 0 0 18px 0; padding-left: 22px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    <li>Perfect "keepsake" format after a treatment, as a VIP amenity or in your gift shop</li>
+                    <li>Luxury velvet pouches included, ready to gift</li>
+                    <li>Compact 30-40 cm display for spa, reception or boutique</li>
+                    <li>"Made in France" with a story (artisanal know-how since 1980, press, Vogue)</li>
+                    <li>48-72h restock · Territorial exclusivity available</li>
+                </ul>
+
+                <p style="margin: 0 0 18px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    Our hospitality clientele includes Hôtel Chambiges (Paris), Cinq Mondes / Deep Nature spas at the InterContinental Geneva, and Royal Palm Mauritius. Press: <em>Vogue</em>, <em>ELLE</em>, <em>Cosmopolitan</em>, <em>The New York Post</em>.
+                </p>
+
+                <p style="margin: 0 0 18px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    I would be delighted to send you our hospitality dossier (visuals plus pricing) on request. If of interest, I would also be happy to send you an entry-level piece so you can appreciate the quality in hand.
+                </p>
+
+                <p style="margin: 24px 0 0 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    Warm regards,<br/>
+                    <strong style="color: #1a1a1a !important;">Marie-Christine Davidian</strong>, Founder MC Davidian
+                </p>
+            </div>
+        </div>
+
+        <div class="s_text_block o_mail_snippet_general o_not_editable" style="background-color: #f8f6f3; padding: 22px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.8; color: #7a5c5c !important;">
+                    <a href="https://mcdavidian.hair/moodboard/en/" style="color: #c9a96e !important;">Moodboard</a>
+                    &#183;
+                    <a href="https://wa.me/33651752267" style="color: #c9a96e !important;">WhatsApp</a>
+                    &#183;
+                    <a href="https://mcdavidian.com" style="color: #c9a96e !important;">mcdavidian.com</a>
+                </p>
+            </div>
+        </div>
+
+    </template>
+
+
+    <!-- ============================================================ -->
+    <!-- MCD Prospection EN · Pharmacy                                -->
+    <!-- ============================================================ -->
+    <template id="theme_mcd_prospection_en_pharmacy_template">
+
+        <style id="design-element-prospection-en-pharmacy">
+            h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; color: #1a1a1a !important; }
+            p, p &gt; *, li, li &gt; * { color: #444444 !important; }
+            a { color: #c9a96e !important; }
+        </style>
+
+        <div class="s_text_block o_mail_snippet_general o_not_editable" style="background-color: #f5e1dc; padding: 28px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.hair/moodboard/en/" target="_blank" style="text-decoration: none;">
+                    <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg" alt="MC Davidian" width="160" style="display: inline-block; max-width: 160px; height: auto;" />
+                </a>
+                <p style="margin: 12px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 11px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
+                    A premium category for your pharmacy · Made in France
+                </p>
+            </div>
+        </div>
+
+        <div class="s_text_block o_mail_snippet_general" style="background-color: #ffffff; padding: 32px 28px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 18px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.6; color: #444 !important;">
+                    Hello,
+                </p>
+
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    I am writing to you because our Made in France hair accessories beautifully complement a premium-oriented pharmacy offer.
+                </p>
+
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    I am Marie-Christine Davidian, founder of MC Davidian, luxury hair accessories handmade in France since 1980. Italian cellulose acetate, authentic SWAROVSKI&#174; crystals.
+                </p>
+
+                <p style="margin: 18px 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #1a1a1a !important;">
+                    <strong>Why it works in a pharmacy:</strong>
+                </p>
+                <ul style="margin: 0 0 18px 0; padding-left: 22px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    <li>Small display unit (30-40 cm) at the till or near the hair-care section</li>
+                    <li>Perfect impulse purchase: the customer sees, tries, buys</li>
+                    <li>Accessible retail price (30 to 90 EUR), natural complement to hair-care products</li>
+                    <li>Premium margins, better than a typical hair-care product</li>
+                    <li>No complex stock management: 48-72h restock from France</li>
+                    <li>Made in France reassures the pharma clientele</li>
+                </ul>
+
+                <p style="margin: 0 0 18px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    Our accessories are stocked at Pharmacie Matignon (Paris), Pharmacie Rogé Cavaillès (Paris), Pharmacie de Monte Carlo, Pharmacie Bourdeleix (Saint-Tropez), Pharmacie Fiandino (Nice Airport), Magus Apothicaire de Beauté, and the Amavita chain in Switzerland. Press: <em>Vogue</em>, <em>ELLE</em>, <em>Cosmopolitan</em>.
+                </p>
+
+                <p style="margin: 0 0 18px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    May I send you our pharmacy selection with pricing and margins? A 10-minute call to discuss is also possible.
+                </p>
+
+                <p style="margin: 24px 0 0 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    Warm regards,<br/>
+                    <strong style="color: #1a1a1a !important;">Marie-Christine Davidian</strong>, Founder MC Davidian
+                </p>
+            </div>
+        </div>
+
+        <div class="s_text_block o_mail_snippet_general o_not_editable" style="background-color: #f8f6f3; padding: 22px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.8; color: #7a5c5c !important;">
+                    <a href="https://mcdavidian.hair/moodboard/en/" style="color: #c9a96e !important;">Moodboard</a>
+                    &#183;
+                    <a href="https://wa.me/33651752267" style="color: #c9a96e !important;">WhatsApp</a>
+                    &#183;
+                    <a href="https://mcdavidian.com" style="color: #c9a96e !important;">mcdavidian.com</a>
+                </p>
+            </div>
+        </div>
+
+    </template>
+
+
+    <!-- ============================================================ -->
+    <!-- MCD Prospection EN · Culture & Heritage                      -->
+    <!-- ============================================================ -->
+    <template id="theme_mcd_prospection_en_culture_template">
+
+        <style id="design-element-prospection-en-culture">
+            h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; color: #1a1a1a !important; }
+            p, p &gt; *, li, li &gt; * { color: #444444 !important; }
+            a { color: #c9a96e !important; }
+        </style>
+
+        <div class="s_text_block o_mail_snippet_general o_not_editable" style="background-color: #f5e1dc; padding: 28px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.hair/moodboard/en/" target="_blank" style="text-decoration: none;">
+                    <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg" alt="MC Davidian" width="160" style="display: inline-block; max-width: 160px; height: auto;" />
+                </a>
+                <p style="margin: 12px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 11px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
+                    French artisanal know-how · Since 1980
+                </p>
+            </div>
+        </div>
+
+        <div class="s_text_block o_mail_snippet_general" style="background-color: #ffffff; padding: 32px 28px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 18px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.6; color: #444 !important;">
+                    Hello,
+                </p>
+
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    I am writing to you because our accessories belong to the lineage of French craft your institution celebrates.
+                </p>
+
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    I am Marie-Christine Davidian, founder of MC Davidian, a French maison crafting hair accessories by hand since 1980. Every piece is cut, polished and assembled by hand in our atelier: Italian cellulose acetate, authentic SWAROVSKI&#174; crystals, French matic mechanisms.
+                </p>
+
+                <p style="margin: 18px 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #1a1a1a !important;">
+                    <strong>Why our pieces fit museum boutiques:</strong>
+                </p>
+                <ul style="margin: 0 0 18px 0; padding-left: 22px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    <li>Documented French artisanal heritage (traditional methods preserved)</li>
+                    <li>2,000+ references, from timeless everyday to collector pieces</li>
+                    <li>No outsourced production, 100% Made in France</li>
+                    <li>Luxury velvet pouches included, packaging worthy of an institution</li>
+                    <li>Accessible retail prices (30 to 90 EUR), perfect cultural keepsake</li>
+                    <li>Know-how dossier available on request</li>
+                </ul>
+
+                <p style="margin: 0 0 18px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    Our maison is cited in <em>Vogue</em>, <em>ELLE</em>, <em>Cosmopolitan</em>, <em>The New York Post</em>, visibility that supports the listing.
+                </p>
+
+                <p style="margin: 0 0 18px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    I would be delighted to send you our complete heritage dossier (history plus a selection adapted to your institution) on request. An atelier visit or video call is also possible.
+                </p>
+
+                <p style="margin: 24px 0 0 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444 !important;">
+                    Warm regards,<br/>
+                    <strong style="color: #1a1a1a !important;">Marie-Christine Davidian</strong>, Founder MC Davidian
+                </p>
+            </div>
+        </div>
+
+        <div class="s_text_block o_mail_snippet_general o_not_editable" style="background-color: #f8f6f3; padding: 22px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.8; color: #7a5c5c !important;">
+                    <a href="https://mcdavidian.hair/moodboard/en/" style="color: #c9a96e !important;">Moodboard</a>
+                    &#183;
+                    <a href="https://mcdavidian.com/content/press" style="color: #c9a96e !important;">Press</a>
+                    &#183;
+                    <a href="https://wa.me/33651752267" style="color: #c9a96e !important;">WhatsApp</a>
+                </p>
+            </div>
+        </div>
+
+    </template>
+
+</odoo>
