@@ -3062,6 +3062,500 @@
     </template>
 
     <!-- ============================================================ -->
+    <!-- MC Davidian Newsletter #7 · Vente Privée Été 48h (FR)        -->
+    <!-- ============================================================ -->
+    <template id="theme_mcdavidian_vente_privee_fr_template">
+
+        <style id="design-element-vente-privee-fr">
+            h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; color: #1a1a1a !important; }
+            p, p &gt; *, li, li &gt; * { color: #444444 !important; }
+            a { color: #c9a96e !important; }
+        </style>
+
+        <!-- HEADER ROSE POUDRE + LOGO -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #f5e1dc; padding: 40px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.fr" target="_blank" style="text-decoration: none;">
+                    <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg"
+                         alt="MC Davidian"
+                         width="200"
+                         style="display: inline-block; max-width: 200px; height: auto;" />
+                </a>
+                <p style="margin: 16px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 12px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
+                    Accessoires cheveux de luxe · Faits main en France depuis 1980
+                </p>
+            </div>
+        </div>
+
+        <!-- BANDEAU URGENCE DORE -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #c9a96e; padding: 14px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 700; letter-spacing: 3px; color: #ffffff !important; text-transform: uppercase;">
+                    Votre vente privée · 48h seulement
+                </p>
+            </div>
+        </div>
+
+        <!-- TITRE + SOUS-TITRE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 40px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h1 style="margin: 0 0 16px 0; font-size: 30px; line-height: 1.3; color: #1a1a1a !important;">
+                    13 coups de cœur, à -20%.
+                </h1>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important; letter-spacing: 1px; line-height: 1.5;">
+                    Une sélection personnelle de Marie-Christine.
+                </p>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 24px 24px 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- INTRODUCTION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Voici 13 pièces que j'aime particulièrement. Du classique signature aux coups de cœur saisonniers, j'ai choisi celles qui me semblent les plus belles à porter cet été.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Pendant 48h, elles sont à <strong>-20%</strong> avec votre code privé.
+                </p>
+            </div>
+        </div>
+
+        <!-- CODE PROMO -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 8px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important;">
+                    -20% sur la sélection
+                </p>
+                <p style="margin: 0 0 20px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #888888 !important; letter-spacing: 1px;">
+                    VOTRE CODE PRIVÉ
+                </p>
+                <div style="display: inline-block; padding: 20px 48px; border: 2px dashed #c9a96e; border-radius: 4px; margin: 0 auto 20px auto;">
+                    <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 32px; font-weight: 700; letter-spacing: 4px; color: #c9a96e !important;">
+                        ETE48
+                    </p>
+                </div>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #666666 !important;">
+                    Valable jusqu'au <strong>jeudi 2 juillet 9h30</strong>
+                </p>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- 4 PHOTOS HERO 2x2 -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <table width="100%" style="border-collapse: collapse;">
+                    <tr>
+                        <td width="50%" align="center" style="padding: 0 6px 12px 0;">
+                            <a href="https://mcdavidian.fr/nouvelles-collections/pince-a-cheveux-new-fleur-light-gm" target="_blank">
+                                <img src="https://mcdavidian.fr/49634-large_default/pince-a-cheveux-new-fleur-light-gm.jpg"
+                                     alt="Pince Marguerite Light GM"
+                                     width="260"
+                                     style="display: block; width: 260px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 8px 0 0 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #888888 !important;">
+                                Marguerite Light GM
+                            </p>
+                        </td>
+                        <td width="50%" align="center" style="padding: 0 0 12px 6px;">
+                            <a href="https://mcdavidian.fr/pince-a-cheveux/pince-a-cheveux-love-ajouree-light-gm" target="_blank">
+                                <img src="https://mcdavidian.fr/49555-large_default/pince-a-cheveux-love-ajouree-light-gm.jpg"
+                                     alt="Pince Love Ajourée Light GM"
+                                     width="260"
+                                     style="display: block; width: 260px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 8px 0 0 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #888888 !important;">
+                                Love Ajourée GM
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="50%" align="center" style="padding: 0 6px 0 0;">
+                            <a href="https://mcdavidian.fr/barrettes-a-cheveux/barrette-a-cheveux-queue-de-cheval-rectangle-simple-tgm" target="_blank">
+                                <img src="https://mcdavidian.fr/51126-large_default/barrette-a-cheveux-queue-de-cheval-rectangle-simple-tgm.jpg"
+                                     alt="Barrette Rectangle Simple TGM"
+                                     width="260"
+                                     style="display: block; width: 260px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 8px 0 0 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #888888 !important;">
+                                Rectangle Simple TGM
+                            </p>
+                        </td>
+                        <td width="50%" align="center" style="padding: 0 0 0 6px;">
+                            <a href="https://mcdavidian.fr/nouvelles-collections/pince-a-cheveux-assemblage-brillant-simple-mm" target="_blank">
+                                <img src="https://mcdavidian.fr/49658-large_default/pince-a-cheveux-assemblage-brillant-simple-mm.jpg"
+                                     alt="Pince Assemblage Brillant MM"
+                                     width="260"
+                                     style="display: block; width: 260px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 8px 0 0 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #888888 !important;">
+                                Assemblage Brillant MM
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 12px 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- LISTE DES 13 PIECES -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 20px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important; text-align: center;">
+                    La sélection complète
+                </h2>
+                <table width="100%" style="border-collapse: collapse;">
+                    <tr style="background-color: #fafafa;"><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.fr/barrettes-a-cheveux/barrette-a-cheveux-queue-de-cheval-rectangle-simple-tgm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Barrette Rectangle Simple TGM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">33 €</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">26 €</td></tr>
+                    <tr><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.fr/barrettes-a-cheveux/barrette-a-cheveux-chat-qui-dort-gm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Barrette Chat Qui Dort GM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">39 €</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">31 €</td></tr>
+                    <tr style="background-color: #fafafa;"><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.fr/promotions/barrette-a-cheveux-dauphins-simple-gm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Barrette Dauphins Simple GM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">28 €</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">22 €</td></tr>
+                    <tr><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.fr/barrettes-a-cheveux/barrette-a-cheveux-boucles-simple" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Barrette matic 11cm Boucles TGM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">29 €</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">23 €</td></tr>
+                    <tr style="background-color: #fafafa;"><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.fr/pince-a-cheveux/pince-a-cheveux-love-ajouree-light-pm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Pince Love Ajourée Light PM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">68 €</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">54 €</td></tr>
+                    <tr><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.fr/pince-a-cheveux/pince-a-cheveux-love-ajouree-light-gm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Pince Love Ajourée Light GM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">95 €</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">76 €</td></tr>
+                    <tr style="background-color: #fafafa;"><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.fr/nouvelles-collections/pince-a-cheveux-new-fleur-light-gm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Pince Marguerite Light GM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">76 €</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">61 €</td></tr>
+                    <tr><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.fr/pince-a-cheveux/pince-a-cheveux-assemblage-brillant-simple-pm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Pince Assemblage Brillant PM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">14 €</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">11 €</td></tr>
+                    <tr style="background-color: #fafafa;"><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.fr/nouvelles-collections/pince-a-cheveux-assemblage-brillant-simple-mm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Pince Assemblage Brillant MM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">18 €</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">14 €</td></tr>
+                    <tr><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.fr/peignes-a-cheveux/peigne-a-cheveux-espagnol-9-dents-pluie-de-strass" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Peigne Flamenco MM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">26 €</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">21 €</td></tr>
+                    <tr style="background-color: #fafafa;"><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.fr/peignes-a-cheveux/peigne-metal-rockn-roll-classique-simple-mm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Peigne Rock'n Roll Classique MM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">41 €</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">33 €</td></tr>
+                    <tr><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.fr/serre-tete/serre-tete-fait-main-double-entrelacement-simple-mm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Serre-Tête Double Entrelacement MM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">47 €</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">38 €</td></tr>
+                    <tr style="background-color: #fafafa;"><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.fr/nouvelles-collections/serre-tete-fait-main-renaissance-rail-tgm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Serre-Tête Renaissance Rail TGM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">167 €</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">134 €</td></tr>
+                </table>
+            </div>
+        </div>
+
+        <!-- BOUTON CTA -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.fr/vente-privee"
+                   target="_blank"
+                   class="btn btn-primary"
+                   style="display: inline-block; padding: 16px 56px; background-color: #c9a96e !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: #ffffff !important; text-decoration: none; border-radius: 2px; border: none;">
+                    En profiter
+                </a>
+            </div>
+        </div>
+
+        <!-- RAPPEL URGENCE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; color: #7a5c5c !important; text-align: center; max-width: 460px;">
+                    ⏱ Jusqu'au <strong>jeudi 2 juillet 9h30 seulement</strong>. Au-delà, les prix reviennent à la normale.
+                </p>
+            </div>
+        </div>
+
+        <!-- CONCLUSION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    À très vite,
+                </p>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-style: italic; color: #1a1a1a !important; text-align: left;">
+                    Marie-Christine
+                </p>
+            </div>
+        </div>
+
+        <!-- FOOTER CONTACT -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; color: #1a1a1a !important; text-transform: uppercase; letter-spacing: 1px;">
+                    MC Davidian
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important; line-height: 1.6;">
+                    Accessoires Cheveux · Faits Main en France<br/>
+                    <a href="mailto:marie@news.mcdavidian.com" style="color: #c9a96e !important; text-decoration: none;">marie@news.mcdavidian.com</a>
+                    &#160;•&#160;
+                    <a href="https://mcdavidian.fr" target="_blank" style="color: #c9a96e !important; text-decoration: none;">mcdavidian.fr</a>
+                </p>
+            </div>
+        </div>
+
+        <!-- UNSUBSCRIBE -->
+        <t t-call="mass_mailing.s_mail_block_footer_social"/>
+
+    </template>
+
+    <!-- ============================================================ -->
+    <!-- MC Davidian Newsletter #7 · Summer Private Sale 48h (EN)     -->
+    <!-- ============================================================ -->
+    <template id="theme_mcdavidian_vente_privee_en_template">
+
+        <style id="design-element-vente-privee-en">
+            h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; color: #1a1a1a !important; }
+            p, p &gt; *, li, li &gt; * { color: #444444 !important; }
+            a { color: #c9a96e !important; }
+        </style>
+
+        <!-- HEADER BLUSH PINK + LOGO -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #f5e1dc; padding: 40px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.com" target="_blank" style="text-decoration: none;">
+                    <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg"
+                         alt="MC Davidian"
+                         width="200"
+                         style="display: inline-block; max-width: 200px; height: auto;" />
+                </a>
+                <p style="margin: 16px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 12px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
+                    Luxury hair accessories · Handmade in France since 1980
+                </p>
+            </div>
+        </div>
+
+        <!-- URGENCY BAR GOLD -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #c9a96e; padding: 14px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 700; letter-spacing: 3px; color: #ffffff !important; text-transform: uppercase;">
+                    Your private sale · 48h only
+                </p>
+            </div>
+        </div>
+
+        <!-- TITLE + SUBTITLE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 40px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h1 style="margin: 0 0 16px 0; font-size: 30px; line-height: 1.3; color: #1a1a1a !important;">
+                    13 favorites, 20% off.
+                </h1>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important; letter-spacing: 1px; line-height: 1.5;">
+                    A personal selection by Marie-Christine.
+                </p>
+            </div>
+        </div>
+
+        <!-- SEPARATOR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 24px 24px 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- INTRODUCTION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Here are 13 pieces I particularly love. From signature classics to seasonal favorites, I've chosen the ones I find most beautiful to wear this summer.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    For 48 hours, they are <strong>20% off</strong> with your private code.
+                </p>
+            </div>
+        </div>
+
+        <!-- PROMO CODE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 8px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important;">
+                    20% off the selection
+                </p>
+                <p style="margin: 0 0 20px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #888888 !important; letter-spacing: 1px;">
+                    YOUR PRIVATE CODE
+                </p>
+                <div style="display: inline-block; padding: 20px 48px; border: 2px dashed #c9a96e; border-radius: 4px; margin: 0 auto 20px auto;">
+                    <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 32px; font-weight: 700; letter-spacing: 4px; color: #c9a96e !important;">
+                        SUMMER48
+                    </p>
+                </div>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #666666 !important;">
+                    Valid until <strong>Saturday July 4, 6:00 PM Paris</strong>
+                </p>
+            </div>
+        </div>
+
+        <!-- SEPARATOR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- 4 HERO PHOTOS 2x2 -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <table width="100%" style="border-collapse: collapse;">
+                    <tr>
+                        <td width="50%" align="center" style="padding: 0 6px 12px 0;">
+                            <a href="https://mcdavidian.com/hairclips/daisy-hair-clip-gm" target="_blank">
+                                <img src="https://mcdavidian.com/10138-home_default/daisy-hair-clip-gm.jpg"
+                                     alt="Daisy Hair Clip GM"
+                                     width="260"
+                                     style="display: block; width: 260px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 8px 0 0 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #888888 !important;">
+                                Daisy Hair Clip GM
+                            </p>
+                        </td>
+                        <td width="50%" align="center" style="padding: 0 0 12px 6px;">
+                            <a href="https://mcdavidian.com/hairclips/love-hair-clip-gm" target="_blank">
+                                <img src="https://mcdavidian.com/6873-large_default/love-hair-clip-gm.jpg"
+                                     alt="LOVE Hair Clip GM"
+                                     width="260"
+                                     style="display: block; width: 260px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 8px 0 0 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #888888 !important;">
+                                LOVE Hair Clip GM
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="50%" align="center" style="padding: 0 6px 0 0;">
+                            <a href="https://mcdavidian.com/barrettes/timeless-ponytail-tgm" target="_blank">
+                                <img src="https://mcdavidian.com/8099-large_default/timeless-ponytail-tgm.jpg"
+                                     alt="Timeless Ponytail TGM"
+                                     width="260"
+                                     style="display: block; width: 260px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 8px 0 0 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #888888 !important;">
+                                Timeless Ponytail TGM
+                            </p>
+                        </td>
+                        <td width="50%" align="center" style="padding: 0 0 0 6px;">
+                            <a href="https://mcdavidian.com/hairclips/sorbet-hair-clip-mm" target="_blank">
+                                <img src="https://mcdavidian.com/6980-large_default/sorbet-hair-clip-mm.jpg"
+                                     alt="Sorbet Hair Clip MM"
+                                     width="260"
+                                     style="display: block; width: 260px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 8px 0 0 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #888888 !important;">
+                                Sorbet Hair Clip MM
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <!-- SEPARATOR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 12px 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- 13 PIECES LIST -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 20px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important; text-align: center;">
+                    The full selection
+                </h2>
+                <table width="100%" style="border-collapse: collapse;">
+                    <tr style="background-color: #fafafa;"><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.com/barrettes/timeless-ponytail-tgm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Timeless Ponytail TGM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">$40</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">$32</td></tr>
+                    <tr><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.com/barrettes/sleepy-cat-ponytail-gm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Sleepy Cat Ponytail GM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">$50</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">$40</td></tr>
+                    <tr style="background-color: #fafafa;"><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.com/barrettes/dolphin-ponytail-gm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Dolphin Ponytail GM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">$30</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">$24</td></tr>
+                    <tr><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.com/barrettes/barrette-hair-clip-loops-simple" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Loop Simple Ponytail TGM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">$40</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">$32</td></tr>
+                    <tr style="background-color: #fafafa;"><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.com/hairclips/love-hair-clip-pm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">LOVE Hair Clip PM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">$80</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">$64</td></tr>
+                    <tr><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.com/hairclips/love-hair-clip-gm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">LOVE Hair Clip GM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">$110</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">$88</td></tr>
+                    <tr style="background-color: #fafafa;"><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.com/hairclips/daisy-hair-clip-gm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Daisy Hair Clip GM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">$90</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">$72</td></tr>
+                    <tr><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.com/hairclips/mini-sorbet-hair-clip-pm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Mini Sorbet Hair Clip PM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">$15</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">$12</td></tr>
+                    <tr style="background-color: #fafafa;"><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.com/hairclips/sorbet-hair-clip-mm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Sorbet Hair Clip MM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">$20</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">$16</td></tr>
+                    <tr><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.com/hair-accessories/comb-flamenco-brillant-gm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Comb Flamenco Brillant GM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">$30</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">$24</td></tr>
+                    <tr style="background-color: #fafafa;"><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.com/hair-combs/rockn-roll-metal-comb-mm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Rock'n Roll Metal Comb MM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">$50</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">$40</td></tr>
+                    <tr><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.com/headbands/ivory-headband-mm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Ivory Headband MM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">$60</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">$48</td></tr>
+                    <tr style="background-color: #fafafa;"><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="https://mcdavidian.com/headbands/renaissance-headband-tgm" target="_blank" style="color: #1a1a1a !important; text-decoration: none;">Renaissance Headband TGM</a></td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #999999 !important; text-decoration: line-through;">$80</td><td align="right" style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; color: #c9a96e !important;">$64</td></tr>
+                </table>
+            </div>
+        </div>
+
+        <!-- CTA BUTTON -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.com/private-sale"
+                   target="_blank"
+                   class="btn btn-primary"
+                   style="display: inline-block; padding: 16px 56px; background-color: #c9a96e !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: #ffffff !important; text-decoration: none; border-radius: 2px; border: none;">
+                    Shop now
+                </a>
+            </div>
+        </div>
+
+        <!-- URGENCY REMINDER -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; color: #7a5c5c !important; text-align: center; max-width: 460px;">
+                    ⏱ Until <strong>Saturday July 4, 6:00 PM Paris</strong> only. After that, prices return to normal.
+                </p>
+            </div>
+        </div>
+
+        <!-- CONCLUSION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    See you very soon,
+                </p>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-style: italic; color: #1a1a1a !important; text-align: left;">
+                    Marie-Christine
+                </p>
+            </div>
+        </div>
+
+        <!-- FOOTER CONTACT -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; color: #1a1a1a !important; text-transform: uppercase; letter-spacing: 1px;">
+                    MC Davidian
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important; line-height: 1.6;">
+                    Luxury Hair Accessories · Handmade in France<br/>
+                    <a href="mailto:marie@news.mcdavidian.com" style="color: #c9a96e !important; text-decoration: none;">marie@news.mcdavidian.com</a>
+                    &#160;•&#160;
+                    <a href="https://mcdavidian.com" target="_blank" style="color: #c9a96e !important; text-decoration: none;">mcdavidian.com</a>
+                </p>
+            </div>
+        </div>
+
+        <!-- UNSUBSCRIBE -->
+        <t t-call="mass_mailing.s_mail_block_footer_social"/>
+
+    </template>
+
+    <!-- ============================================================ -->
     <!-- MC Davidian B2B · Bilingual EN/FR · Bienvenue revendeurs     -->
     <!-- ============================================================ -->
     <template id="theme_mcdavidian_b2b_bienvenue_template">
