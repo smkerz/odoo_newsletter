@@ -30,6 +30,7 @@ TEMPLATES = [
     ("mcdavidian_b2b_bienvenue",        "B2B",    "Bienvenue / Welcome"),
     ("mcdavidian_b2b_reassort_ete",     "B2B",    "Réassort été / Summer reorder"),
     ("mcdavidian_b2b_trois_partenaires", "B2B",   "Trois partenaires / Three partners"),
+    ("mcdavidian_b2b_paris_save_the_date", "B2B", "Paris Save the date"),
     ("mcd_prospection_fr_fashion",      "PROSPECTION FR", "Fashion & Lifestyle"),
     ("mcd_prospection_fr_bridal",       "PROSPECTION FR", "Bridal & Cérémonie"),
     ("mcd_prospection_fr_hair_beauty",  "PROSPECTION FR", "Hair & Beauty"),

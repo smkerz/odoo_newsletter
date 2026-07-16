@@ -1,6 +1,6 @@
 {
     'name': 'MC Davidian Newsletter Templates',
-    'version': '17.0.1.11.0',
+    'version': '17.0.1.12.0',
     'category': 'Marketing',
     'summary': 'Templates newsletter premium pour MC Davidian',
     'description': """
