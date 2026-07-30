@@ -5719,4 +5719,268 @@
 
     </template>
 
+    <!-- ============================================================ -->
+    <!-- MC Davidian B2B · Bilingual EN/FR · Paris derniers créneaux  -->
+    <!-- ============================================================ -->
+    <template id="theme_mcdavidian_b2b_paris_derniers_creneaux_template">
+
+        <style id="design-element-b2b-paris-last">
+            h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; color: #1a1a1a !important; }
+            p, p > *, li, li > * { color: #444444 !important; }
+            a { color: #c9a96e !important; }
+        </style>
+
+        <!-- FR VERSION NOTICE -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #1a1a1a; padding: 10px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #ffffff !important; letter-spacing: 0.5px;">
+                    🇫🇷 Version française disponible plus bas
+                </p>
+            </div>
+        </div>
+
+        <!-- HEADER BLUSH PINK + LOGO -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #f5e1dc; padding: 40px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.hair" target="_blank" style="text-decoration: none;">
+                    <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg"
+                         alt="MC Davidian"
+                         width="200"
+                         style="display: inline-block; max-width: 200px; height: auto;" />
+                </a>
+                <p style="margin: 16px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 12px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
+                    Reseller Partners · Partenaires revendeurs · Since 1980
+                </p>
+            </div>
+        </div>
+
+        <!-- HERO PHOTO · MC PREPARING SELECTIONS -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px 0 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <img src="https://gallery.mcdavidian.com/galleries/Photo%20Marie-Christine%20Davidian/Photo%20Marie-Christine%20qui%20Travaille/IMG_0978.jpg"
+                     alt="Marie-Christine preparing selections at her desk"
+                     style="display: block; width: 100%; max-width: 480px; height: auto; margin: 0 auto; border-radius: 4px;" />
+                <p style="margin: 12px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 13px; font-style: italic; color: #999999 !important;">
+                    Preparing your selections. · Nous préparons vos sélections.
+                </p>
+            </div>
+        </div>
+
+        <!-- ======== ENGLISH SECTION ======== -->
+
+        <!-- EN TITLE + SUBTITLE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h1 style="margin: 0 0 12px 0; font-size: 26px; line-height: 1.3; color: #1a1a1a !important;">
+                    Two days before Paris.
+                </h1>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important; letter-spacing: 1px;">
+                    A few slots still open in Paris, September 4 to 8.
+                </p>
+            </div>
+        </div>
+
+        <!-- EN SEPARATOR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- EN INTRODUCTION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Dear client,
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Quick reminder: from <strong style="color: #1a1a1a !important;">Friday 4 to Tuesday 8 September</strong>, we will be in <strong style="color: #1a1a1a !important;">Paris</strong>, based at Hôtel Chambiges (8 rue Chambiges, 75008 Paris, 8th arrondissement, a short walk from avenue Montaigne and the Champs-Élysées).
+                </p>
+            </div>
+        </div>
+
+        <!-- EN · SLOT LIST -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f8f6f3; padding: 24px 32px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 12px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 11px; letter-spacing: 3px; color: #c9a96e !important; text-transform: uppercase; text-align: center;">
+                    Slots still open
+                </p>
+                <p style="margin: 0 0 10px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.8; color: #444444 !important;">
+                    &#8226; <strong style="color: #1a1a1a !important;">Friday 4</strong> late afternoon and evening
+                </p>
+                <p style="margin: 0 0 10px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.8; color: #444444 !important;">
+                    &#8226; <strong style="color: #1a1a1a !important;">Saturday 5</strong> early morning, afternoon and evening
+                </p>
+                <p style="margin: 0 0 10px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.8; color: #444444 !important;">
+                    &#8226; <strong style="color: #1a1a1a !important;">Sunday 6</strong> morning and evening (after 6pm)
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.8; color: #444444 !important;">
+                    &#8226; <strong style="color: #1a1a1a !important;">Monday 7</strong> early morning, afternoon and evening
+                </p>
+            </div>
+        </div>
+
+        <!-- EN REMINDER + SIGN-OFF -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px 16px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    If you want a <strong style="color: #1a1a1a !important;">tailored selection</strong> for your boutique, and time to touch the new hair accessories in person, this is the moment. WhatsApp me a day and a rough time, I confirm within the hour.
+                </p>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    If you cannot come this time, I understand. I will write again in October.
+                </p>
+                <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Looking forward to meeting you,
+                </p>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-style: italic; color: #1a1a1a !important; text-align: left;">
+                    Marie-Christine
+                </p>
+            </div>
+        </div>
+
+        <!-- EN WHATSAPP CTA -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px 40px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://wa.me/33651752267"
+                   target="_blank"
+                   class="btn btn-primary"
+                   style="display: inline-block; padding: 16px 44px; background-color: #c9a96e !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #ffffff !important; text-decoration: none; border-radius: 2px; border: none;">
+                    💬 Book your appointment on WhatsApp
+                </a>
+            </div>
+        </div>
+
+        <!-- ======== LANGUAGE DIVIDER ======== -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f5e1dc; padding: 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 8px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 14px; color: #7a5c5c !important; letter-spacing: 3px;">
+                    ── ✦ ──
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #7a5c5c !important; font-style: italic;">
+                    Version française · French version
+                </p>
+            </div>
+        </div>
+
+        <!-- ======== FRENCH SECTION ======== -->
+
+        <!-- FR TITRE + SOUS-TITRE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h1 style="margin: 0 0 12px 0; font-size: 26px; line-height: 1.3; color: #1a1a1a !important;">
+                    Deux jours avant Paris.
+                </h1>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important; letter-spacing: 1px;">
+                    Quelques créneaux encore libres à Paris, du 4 au 8 septembre.
+                </p>
+            </div>
+        </div>
+
+        <!-- FR SEPARATEUR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- FR INTRODUCTION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Cher client,
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Petit rappel : du <strong style="color: #1a1a1a !important;">vendredi 4 au mardi 8 septembre</strong>, nous serons à <strong style="color: #1a1a1a !important;">Paris</strong>, installés à l'Hôtel Chambiges (8 rue Chambiges, 75008 Paris, dans le 8e arrondissement, à deux pas de l'avenue Montaigne et des Champs-Élysées).
+                </p>
+            </div>
+        </div>
+
+        <!-- FR · CRÉNEAUX LIBRES -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f8f6f3; padding: 24px 32px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 12px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 11px; letter-spacing: 3px; color: #c9a96e !important; text-transform: uppercase; text-align: center;">
+                    Créneaux encore libres
+                </p>
+                <p style="margin: 0 0 10px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.8; color: #444444 !important;">
+                    &#8226; <strong style="color: #1a1a1a !important;">Vendredi 4</strong> fin d'après-midi et soirée
+                </p>
+                <p style="margin: 0 0 10px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.8; color: #444444 !important;">
+                    &#8226; <strong style="color: #1a1a1a !important;">Samedi 5</strong> matin tôt, après-midi et soirée
+                </p>
+                <p style="margin: 0 0 10px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.8; color: #444444 !important;">
+                    &#8226; <strong style="color: #1a1a1a !important;">Dimanche 6</strong> matinée et soirée (après 18h)
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.8; color: #444444 !important;">
+                    &#8226; <strong style="color: #1a1a1a !important;">Lundi 7</strong> matin tôt, après-midi et soirée
+                </p>
+            </div>
+        </div>
+
+        <!-- FR RAPPEL + SIGN-OFF -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px 16px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Si vous voulez une <strong style="color: #1a1a1a !important;">sélection sur mesure</strong> pour votre boutique, et le temps de toucher les nouveaux accessoires en physique, c'est le moment. WhatsApp direct, un jour, une plage horaire, je confirme dans l'heure.
+                </p>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Si vous ne pouvez pas venir cette fois, je le comprends. Je vous récris en octobre.
+                </p>
+                <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Dans l'attente de vous rencontrer,
+                </p>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-style: italic; color: #1a1a1a !important; text-align: left;">
+                    Marie-Christine
+                </p>
+            </div>
+        </div>
+
+        <!-- FR WHATSAPP CTA -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px 40px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://wa.me/33651752267"
+                   target="_blank"
+                   class="btn btn-primary"
+                   style="display: inline-block; padding: 16px 44px; background-color: #c9a96e !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #ffffff !important; text-decoration: none; border-radius: 2px; border: none;">
+                    💬 Prendre rendez-vous sur WhatsApp
+                </a>
+            </div>
+        </div>
+
+        <!-- FOOTER CONTACT — bilingue -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; color: #1a1a1a !important; text-transform: uppercase; letter-spacing: 1px;">
+                    MC Davidian
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important; line-height: 1.6;">
+                    Reseller Partners · Partenaires Revendeurs · Handmade in France<br/>
+                    <a href="mailto:marie@news.mcdavidian.com" style="color: #c9a96e !important; text-decoration: none;">marie@news.mcdavidian.com</a>
+                    &#160;•&#160;
+                    <a href="https://mcdavidian.hair" target="_blank" style="color: #c9a96e !important; text-decoration: none;">mcdavidian.hair</a>
+                </p>
+            </div>
+        </div>
+
+        <!-- UNSUBSCRIBE -->
+        <t t-call="mass_mailing.s_mail_block_footer_social"/>
+
+    </template>
+
 </odoo>
