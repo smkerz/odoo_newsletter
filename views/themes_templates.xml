@@ -5983,4 +5983,530 @@
 
     </template>
 
+    <!-- ============================================================ -->
+    <!-- MC Davidian Newsletter #8 · Créations Uniques Couture (FR)     -->
+    <!-- ============================================================ -->
+    <template id="theme_mcdavidian_couture_fr_template">
+
+        <style id="design-element-couture-fr">
+            h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; color: #1a1a1a !important; }
+            p, p &gt; *, li, li &gt; * { color: #444444 !important; }
+            a { color: #c9a96e !important; }
+        </style>
+
+        <!-- HEADER ROSE POUDRE + LOGO -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #f5e1dc; padding: 40px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.fr" target="_blank" style="text-decoration: none;">
+                    <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg"
+                         alt="MC Davidian"
+                         width="200"
+                         style="display: inline-block; max-width: 200px; height: auto;" />
+                </a>
+                <p style="margin: 16px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 12px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
+                    Accessoires cheveux de luxe · Faits main en France depuis 1980
+                </p>
+            </div>
+        </div>
+
+        <!-- TITRE + SOUS-TITRE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 40px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h1 style="margin: 0 0 16px 0; font-size: 28px; line-height: 1.3; color: #1a1a1a !important;">
+                    Uniques. Vraiment.
+                </h1>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important; letter-spacing: 1px; line-height: 1.5;">
+                    Notre collection couture arrive sur mcdavidian.fr. Chaque création n'existe qu'une fois.
+                </p>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 24px 24px 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- INTRODUCTION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Chère lectrice, cher lecteur,
+                </p>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Dans notre atelier, certains accessoires cheveux ne sont pas fabriqués en série. Ils sont brodés à la main, un par un, de perles, de cristaux, de sequins ou de velours.
+                </p>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Quand la broderie est terminée, la création existe en un seul exemplaire. Une fois vendue, elle ne revient pas.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Jusqu'ici, cette collection n'était proposée que sur notre site international. Elle vient d'arriver sur mcdavidian.fr : 99 créations, et je voulais vous montrer quelques-unes de mes préférées.
+                </p>
+            </div>
+        </div>
+
+        <!-- PHOTO HERO 82066 -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <table align="center" style="border-collapse: collapse; margin: 0 auto;"><tr><td align="center">
+                    <a href="https://mcdavidian.fr/serre-tetes-couture/serre-tete-rosier-pastel" target="_blank" style="text-decoration: none;">
+                        <img src="https://mcdavidian.fr/54067-large_default/serre-tete-rosier-pastel.jpg"
+                             alt="Serre-tête Rosier Pastel sur un mannequin"
+                             width="400"
+                             style="display: block; width: 400px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                    </a>
+                </td></tr></table>
+                <p style="margin: 12px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 13px; font-style: italic; color: #999999 !important;">
+                    Le serre-tête Rosier Pastel. Des roses brodées en perles rose tendre et vert.
+                </p>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- CE QUI FAIT UNE CREATION COUTURE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 20px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important;">
+                    Ce qui fait une création couture
+                </h2>
+                <table width="100%" style="border-collapse: collapse;">
+                    <tr><td style="padding: 0 0 16px 0;">
+                        <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; color: #1a1a1a !important;">Brodée à la main</p>
+                        <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; color: #666666 !important;">Perles, cristaux et sequins, posés un à un.</p>
+                    </td></tr>
+                    <tr><td style="padding: 0 0 16px 0;">
+                        <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; color: #1a1a1a !important;">Faite en France</p>
+                        <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; color: #666666 !important;">Dans notre atelier, comme chaque accessoire MC Davidian depuis 1980.</p>
+                    </td></tr>
+                    <tr><td style="padding: 0 0 0 0;">
+                        <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; color: #1a1a1a !important;">Un seul exemplaire</p>
+                        <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; color: #666666 !important;">Une fois vendue, jamais reproduite.</p>
+                    </td></tr>
+                </table>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- GRILLE 2 x 3 COUPS DE COEUR -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 24px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important; text-align: center;">
+                    Quelques-unes de mes préférées
+                </h2>
+                <table width="100%" style="border-collapse: collapse;">
+                    <tr>
+                        <td width="50%" valign="top" align="center" style="padding: 0 8px 24px 0;">
+                            <a href="https://mcdavidian.fr/serre-tetes-couture/serre-tete-holi-rangoli-couture" target="_blank" style="text-decoration: none;">
+                                <img src="https://mcdavidian.fr/53950-large_default/serre-tete-holi-rangoli-couture.jpg" alt="Serre-tête Holi Rangoli Couture" width="250"
+                                     style="display: block; width: 250px; max-width: 100%; height: auto; margin: 0 auto 10px auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important; line-height: 1.4;">Serre-tête Holi Rangoli Couture</p>
+                            <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #666666 !important; line-height: 1.5;">Inspiré des couleurs du Holi et de l'art Rangoli.</p>
+                            <a href="https://mcdavidian.fr/serre-tetes-couture/serre-tete-holi-rangoli-couture" target="_blank" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline;">Voir →</a>
+                        </td>
+                        <td width="50%" valign="top" align="center" style="padding: 0 0 24px 8px;">
+                            <a href="https://mcdavidian.fr/serre-tetes-couture/serre-tete-guirlande-ivoire" target="_blank" style="text-decoration: none;">
+                                <img src="https://mcdavidian.fr/53970-large_default/serre-tete-guirlande-ivoire.jpg" alt="Serre-tête Guirlande Ivoire" width="250"
+                                     style="display: block; width: 250px; max-width: 100%; height: auto; margin: 0 auto 10px auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important; line-height: 1.4;">Serre-tête Guirlande Ivoire</p>
+                            <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #666666 !important; line-height: 1.5;">Perles dorées et nacrées, un charme nuptial.</p>
+                            <a href="https://mcdavidian.fr/serre-tetes-couture/serre-tete-guirlande-ivoire" target="_blank" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline;">Voir →</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="50%" valign="top" align="center" style="padding: 0 8px 24px 0;">
+                            <a href="https://mcdavidian.fr/serre-tetes-couture/serre-tete-jardin-tropical-noir" target="_blank" style="text-decoration: none;">
+                                <img src="https://mcdavidian.fr/53956-large_default/serre-tete-jardin-tropical-noir.jpg" alt="Serre-tête Jardin Tropical Noir" width="250"
+                                     style="display: block; width: 250px; max-width: 100%; height: auto; margin: 0 auto 10px auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important; line-height: 1.4;">Serre-tête Jardin Tropical Noir</p>
+                            <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #666666 !important; line-height: 1.5;">Un jardin tropical brodé sur fond noir.</p>
+                            <a href="https://mcdavidian.fr/serre-tetes-couture/serre-tete-jardin-tropical-noir" target="_blank" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline;">Voir →</a>
+                        </td>
+                        <td width="50%" valign="top" align="center" style="padding: 0 0 24px 8px;">
+                            <a href="https://mcdavidian.fr/chouchous-couture/chouchou-bouquet-de-perles-rose" target="_blank" style="text-decoration: none;">
+                                <img src="https://mcdavidian.fr/53947-large_default/chouchou-bouquet-de-perles-rose.jpg" alt="Chouchou Bouquet de Perles Rosé" width="250"
+                                     style="display: block; width: 250px; max-width: 100%; height: auto; margin: 0 auto 10px auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important; line-height: 1.4;">Chouchou Bouquet de Perles Rosé</p>
+                            <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #666666 !important; line-height: 1.5;">Un bouquet de perles roses et de cristaux.</p>
+                            <a href="https://mcdavidian.fr/chouchous-couture/chouchou-bouquet-de-perles-rose" target="_blank" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline;">Voir →</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="50%" valign="top" align="center" style="padding: 0 8px 24px 0;">
+                            <a href="https://mcdavidian.fr/barrettes-couture/barrette-papillon-bleu-ciel" target="_blank" style="text-decoration: none;">
+                                <img src="https://mcdavidian.fr/54129-large_default/barrette-papillon-bleu-ciel.jpg" alt="Barrette Papillon Bleu Ciel" width="250"
+                                     style="display: block; width: 250px; max-width: 100%; height: auto; margin: 0 auto 10px auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important; line-height: 1.4;">Barrette Papillon Bleu Ciel</p>
+                            <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #666666 !important; line-height: 1.5;">Des papillons en perles rouge et pêche.</p>
+                            <a href="https://mcdavidian.fr/barrettes-couture/barrette-papillon-bleu-ciel" target="_blank" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline;">Voir →</a>
+                        </td>
+                        <td width="50%" valign="top" align="center" style="padding: 0 0 24px 8px;">
+                            <a href="https://mcdavidian.fr/serre-tetes-couture/serre-tete-jardin-brode" target="_blank" style="text-decoration: none;">
+                                <img src="https://mcdavidian.fr/53887-large_default/serre-tete-jardin-brode.jpg" alt="Serre-tête Jardin Brodé" width="250"
+                                     style="display: block; width: 250px; max-width: 100%; height: auto; margin: 0 auto 10px auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important; line-height: 1.4;">Serre-tête Jardin Brodé</p>
+                            <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #666666 !important; line-height: 1.5;">Des fleurs roses brodées sur denim.</p>
+                            <a href="https://mcdavidian.fr/serre-tetes-couture/serre-tete-jardin-brode" target="_blank" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline;">Voir →</a>
+                        </td>
+                    </tr>
+                </table>
+                <p style="margin: 0 0 24px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.7; color: #666666 !important; text-align: center; font-style: italic;">
+                    Serre-têtes, chouchous, barrettes et bandeaux, de 34 € à 640 €.
+                </p>
+            </div>
+        </div>
+
+        <!-- CONCLUSION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Si l'une d'elles vous plaît, n'attendez pas trop : il n'y en aura pas de deuxième.
+                </p>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Et si vous pensez à un cadeau, c'est la certitude d'offrir ce que personne d'autre n'aura jamais.
+                </p>
+                <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    À bientôt,
+                </p>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-style: italic; color: #1a1a1a !important; text-align: left;">
+                    Marie-Christine
+                </p>
+            </div>
+        </div>
+
+        <!-- BOUTON CTA -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px 40px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.fr/pieces-uniques-couture"
+                   target="_blank"
+                   class="btn btn-primary"
+                   style="display: inline-block; padding: 14px 40px; background-color: #c9a96e !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #ffffff !important; text-decoration: none; border-radius: 2px; border: none;">
+                    Découvrir la collection couture
+                </a>
+            </div>
+        </div>
+
+        <!-- CITATION BANDEAU ROSE POUDRE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f5e1dc; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 17px; font-style: italic; line-height: 1.6; color: #7a5c5c !important;">
+                    « Une fois vendue, jamais reproduite. »
+                </p>
+            </div>
+        </div>
+
+        <!-- FOOTER CONTACT -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; color: #1a1a1a !important; text-transform: uppercase; letter-spacing: 1px;">
+                    MC Davidian
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important; line-height: 1.6;">
+                    Accessoires Cheveux · Faits Main en France<br/>
+                    <a href="mailto:marie@news.mcdavidian.com" style="color: #c9a96e !important; text-decoration: none;">marie@news.mcdavidian.com</a>
+                    &#160;•&#160;
+                    <a href="https://mcdavidian.fr" target="_blank" style="color: #c9a96e !important; text-decoration: none;">mcdavidian.fr</a>
+                </p>
+            </div>
+        </div>
+
+        <!-- UNSUBSCRIBE -->
+        <t t-call="mass_mailing.s_mail_block_footer_social"/>
+
+    </template>
+
+    <!-- ============================================================ -->
+    <!-- MC Davidian Newsletter #8 · One of a Kind Couture (EN)         -->
+    <!-- ============================================================ -->
+    <template id="theme_mcdavidian_couture_en_template">
+
+        <style id="design-element-couture-en">
+            h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; color: #1a1a1a !important; }
+            p, p &gt; *, li, li &gt; * { color: #444444 !important; }
+            a { color: #c9a96e !important; }
+        </style>
+
+        <!-- HEADER ROSE POUDRE + LOGO -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #f5e1dc; padding: 40px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.com" target="_blank" style="text-decoration: none;">
+                    <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg"
+                         alt="MC Davidian"
+                         width="200"
+                         style="display: inline-block; max-width: 200px; height: auto;" />
+                </a>
+                <p style="margin: 16px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 12px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
+                    Luxury hair accessories · Handmade in France since 1980
+                </p>
+            </div>
+        </div>
+
+        <!-- TITRE + SOUS-TITRE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 40px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h1 style="margin: 0 0 16px 0; font-size: 28px; line-height: 1.3; color: #1a1a1a !important;">
+                    One of a kind. Truly.
+                </h1>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important; letter-spacing: 1px; line-height: 1.5;">
+                    Our couture collection: each creation exists only once.
+                </p>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 24px 24px 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- INTRODUCTION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Dear reader,
+                </p>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    In our atelier, some hair accessories are not made in series. They are embroidered by hand, one at a time, with beads, pearls, crystals, sequins or velvet.
+                </p>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    When the embroidery is finished, that creation exists once. When it is sold, it is gone for good.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    There are 99 of them on the site today. I wanted to show you a few of my favourites.
+                </p>
+            </div>
+        </div>
+
+        <!-- PHOTO HERO 82066 -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <table align="center" style="border-collapse: collapse; margin: 0 auto;"><tr><td align="center">
+                    <a href="https://mcdavidian.com/couture-headbands/pastel-rose-garden-headband" target="_blank" style="text-decoration: none;">
+                        <img src="https://mcdavidian.com/16620-large_default/pastel-rose-garden-headband.jpg"
+                             alt="Pastel Rose Garden headband on a mannequin"
+                             width="400"
+                             style="display: block; width: 400px; max-width: 100%; height: auto; border-radius: 4px; border: 0;" />
+                    </a>
+                </td></tr></table>
+                <p style="margin: 12px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 13px; font-style: italic; color: #999999 !important;">
+                    The Pastel Rose Garden headband. Roses embroidered in soft pink and green beads.
+                </p>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- CE QUI FAIT UNE CREATION COUTURE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 20px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important;">
+                    What makes a creation couture?
+                </h2>
+                <table width="100%" style="border-collapse: collapse;">
+                    <tr><td style="padding: 0 0 16px 0;">
+                        <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; color: #1a1a1a !important;">Embroidered by hand</p>
+                        <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; color: #666666 !important;">Beads, pearls, crystals and sequins, set one by one.</p>
+                    </td></tr>
+                    <tr><td style="padding: 0 0 16px 0;">
+                        <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; color: #1a1a1a !important;">Made in France</p>
+                        <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; color: #666666 !important;">In our atelier, like every MC Davidian hair accessory since 1980.</p>
+                    </td></tr>
+                    <tr><td style="padding: 0 0 0 0;">
+                        <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; color: #1a1a1a !important;">One of each</p>
+                        <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; color: #666666 !important;">Once sold, never reproduced.</p>
+                    </td></tr>
+                </table>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- GRILLE 2 x 3 COUPS DE COEUR -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 24px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important; text-align: center;">
+                    A few of my favourites
+                </h2>
+                <table width="100%" style="border-collapse: collapse;">
+                    <tr>
+                        <td width="50%" valign="top" align="center" style="padding: 0 8px 24px 0;">
+                            <a href="https://mcdavidian.com/couture-headbands/holi-rangoli-couture-headband" target="_blank" style="text-decoration: none;">
+                                <img src="https://mcdavidian.com/17015-large_default/holi-rangoli-couture-headband.jpg" alt="Holi Rangoli Couture Headband" width="250"
+                                     style="display: block; width: 250px; max-width: 100%; height: auto; margin: 0 auto 10px auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important; line-height: 1.4;">Holi Rangoli Couture Headband</p>
+                            <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #666666 !important; line-height: 1.5;">Inspired by the colours of Holi and Rangoli art.</p>
+                            <a href="https://mcdavidian.com/couture-headbands/holi-rangoli-couture-headband" target="_blank" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline;">See it →</a>
+                        </td>
+                        <td width="50%" valign="top" align="center" style="padding: 0 0 24px 8px;">
+                            <a href="https://mcdavidian.com/couture-headbands/ivory-garland-headband" target="_blank" style="text-decoration: none;">
+                                <img src="https://mcdavidian.com/16523-large_default/ivory-garland-headband.jpg" alt="Ivory Garland Headband" width="250"
+                                     style="display: block; width: 250px; max-width: 100%; height: auto; margin: 0 auto 10px auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important; line-height: 1.4;">Ivory Garland Headband</p>
+                            <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #666666 !important; line-height: 1.5;">Golden beads and pearls, a bridal charm.</p>
+                            <a href="https://mcdavidian.com/couture-headbands/ivory-garland-headband" target="_blank" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline;">See it →</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="50%" valign="top" align="center" style="padding: 0 8px 24px 0;">
+                            <a href="https://mcdavidian.com/couture-headbands/black-tropical-garden-headband" target="_blank" style="text-decoration: none;">
+                                <img src="https://mcdavidian.com/16509-large_default/black-tropical-garden-headband.jpg" alt="Black Tropical Garden Headband" width="250"
+                                     style="display: block; width: 250px; max-width: 100%; height: auto; margin: 0 auto 10px auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important; line-height: 1.4;">Black Tropical Garden Headband</p>
+                            <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #666666 !important; line-height: 1.5;">A tropical garden, embroidered on black.</p>
+                            <a href="https://mcdavidian.com/couture-headbands/black-tropical-garden-headband" target="_blank" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline;">See it →</a>
+                        </td>
+                        <td width="50%" valign="top" align="center" style="padding: 0 0 24px 8px;">
+                            <a href="https://mcdavidian.com/couture-scrunchies/pink-pearl-bouquet-scrunchie" target="_blank" style="text-decoration: none;">
+                                <img src="https://mcdavidian.com/16502-large_default/pink-pearl-bouquet-scrunchie.jpg" alt="Pink Pearl Bouquet Scrunchie" width="250"
+                                     style="display: block; width: 250px; max-width: 100%; height: auto; margin: 0 auto 10px auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important; line-height: 1.4;">Pink Pearl Bouquet Scrunchie</p>
+                            <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #666666 !important; line-height: 1.5;">A bouquet of pink beads and crystals.</p>
+                            <a href="https://mcdavidian.com/couture-scrunchies/pink-pearl-bouquet-scrunchie" target="_blank" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline;">See it →</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="50%" valign="top" align="center" style="padding: 0 8px 24px 0;">
+                            <a href="https://mcdavidian.com/couture-barrettes/sky-blue-butterfly-barrette" target="_blank" style="text-decoration: none;">
+                                <img src="https://mcdavidian.com/16682-large_default/sky-blue-butterfly-barrette.jpg" alt="Sky Blue Butterfly Barrette" width="250"
+                                     style="display: block; width: 250px; max-width: 100%; height: auto; margin: 0 auto 10px auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important; line-height: 1.4;">Sky Blue Butterfly Barrette</p>
+                            <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #666666 !important; line-height: 1.5;">Butterflies in red and peach beads.</p>
+                            <a href="https://mcdavidian.com/couture-barrettes/sky-blue-butterfly-barrette" target="_blank" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline;">See it →</a>
+                        </td>
+                        <td width="50%" valign="top" align="center" style="padding: 0 0 24px 8px;">
+                            <a href="https://mcdavidian.com/couture-headbands/embroidered-garden-headband" target="_blank" style="text-decoration: none;">
+                                <img src="https://mcdavidian.com/16443-large_default/embroidered-garden-headband.jpg" alt="Embroidered Garden Headband" width="250"
+                                     style="display: block; width: 250px; max-width: 100%; height: auto; margin: 0 auto 10px auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important; line-height: 1.4;">Embroidered Garden Headband</p>
+                            <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #666666 !important; line-height: 1.5;">Pink flowers embroidered on denim.</p>
+                            <a href="https://mcdavidian.com/couture-headbands/embroidered-garden-headband" target="_blank" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; text-decoration: underline;">See it →</a>
+                        </td>
+                    </tr>
+                </table>
+                <p style="margin: 0 0 24px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.7; color: #666666 !important; text-align: center; font-style: italic;">
+                    Headbands, scrunchies, barrettes and bandeaux, from $40 to $800.
+                </p>
+            </div>
+        </div>
+
+        <!-- CONCLUSION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    If one of them catches your eye, don't wait too long: there won't be a second one.
+                </p>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    And if you are thinking of a gift, it is the certainty of offering something no one else will ever have.
+                </p>
+                <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    See you soon,
+                </p>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-style: italic; color: #1a1a1a !important; text-align: left;">
+                    Marie-Christine
+                </p>
+            </div>
+        </div>
+
+        <!-- BOUTON CTA -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px 40px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.com/one-of-a-kind-couture"
+                   target="_blank"
+                   class="btn btn-primary"
+                   style="display: inline-block; padding: 14px 40px; background-color: #c9a96e !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #ffffff !important; text-decoration: none; border-radius: 2px; border: none;">
+                    Discover the couture collection
+                </a>
+            </div>
+        </div>
+
+        <!-- CITATION BANDEAU ROSE POUDRE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f5e1dc; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 17px; font-style: italic; line-height: 1.6; color: #7a5c5c !important;">
+                    “Once sold, never reproduced.”
+                </p>
+            </div>
+        </div>
+
+        <!-- FOOTER CONTACT -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; color: #1a1a1a !important; text-transform: uppercase; letter-spacing: 1px;">
+                    MC Davidian
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important; line-height: 1.6;">
+                    Luxury Hair Accessories · Handmade in France<br/>
+                    <a href="mailto:marie@news.mcdavidian.com" style="color: #c9a96e !important; text-decoration: none;">marie@news.mcdavidian.com</a>
+                    &#160;•&#160;
+                    <a href="https://mcdavidian.com" target="_blank" style="color: #c9a96e !important; text-decoration: none;">mcdavidian.com</a>
+                </p>
+            </div>
+        </div>
+
+        <!-- UNSUBSCRIBE -->
+        <t t-call="mass_mailing.s_mail_block_footer_social"/>
+
+    </template>
+
 </odoo>
