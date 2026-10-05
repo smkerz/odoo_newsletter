@@ -29,6 +29,8 @@ TEMPLATES = [
     ("mcdavidian_b2c_vente_privee_en",  "B2C EN", "Summer Private Sale 48h"),
     ("mcdavidian_b2c_couture_fr",       "B2C FR", "Créations Uniques Couture"),
     ("mcdavidian_b2c_couture_en",       "B2C EN", "One of a Kind Couture"),
+    ("mcdavidian_b2c_arcade_fr",        "B2C FR", "Pince Arcade"),
+    ("mcdavidian_b2c_arcade_en",        "B2C EN", "Arcade Claw Clip"),
     ("mcdavidian_b2b_bienvenue",        "B2B",    "Bienvenue / Welcome"),
     ("mcdavidian_b2b_reassort_ete",     "B2B",    "Réassort été / Summer reorder"),
     ("mcdavidian_b2b_trois_partenaires", "B2B",   "Trois partenaires / Three partners"),

@@ -6509,4 +6509,404 @@
 
     </template>
 
+    <!-- ============================================================ -->
+    <!-- MC Davidian Newsletter #9 · Pince Arcade (FR)                  -->
+    <!-- ============================================================ -->
+    <template id="theme_mcdavidian_arcade_fr_template">
+
+        <style id="design-element-arcade-fr">
+            h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; color: #1a1a1a !important; }
+            p, p &gt; *, li, li &gt; * { color: #444444 !important; }
+            a { color: #c9a96e !important; }
+        </style>
+
+        <!-- HEADER ROSE POUDRE + LOGO -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #f5e1dc; padding: 40px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.fr" target="_blank" style="text-decoration: none;">
+                    <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg"
+                         alt="MC Davidian"
+                         width="200"
+                         style="display: inline-block; max-width: 200px; height: auto;" />
+                </a>
+                <p style="margin: 16px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 12px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
+                    Accessoires cheveux de luxe · Faits main en France depuis 1980
+                </p>
+            </div>
+        </div>
+
+        <!-- TITRE + SOUS-TITRE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 40px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h1 style="margin: 0 0 16px 0; font-size: 28px; line-height: 1.3; color: #1a1a1a !important;">
+                    Une pince. Trois éclats.
+                </h1>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important; letter-spacing: 1px; line-height: 1.5;">
+                    La nouvelle pince Arcade, en quatre tailles et trois finitions.
+                </p>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 24px 24px 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- INTRODUCTION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Chère lectrice, cher lecteur,
+                </p>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Voici notre nouvelle pince, la Arcade. Une seule forme, façonnée à la main en France, déclinée en trois finitions.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    La même pince, nue, à peine piquée de cristaux, ou entièrement sertie. À vous de choisir le niveau d'éclat selon le moment de la journée.
+                </p>
+            </div>
+        </div>
+
+        <!-- TROIS FINITIONS -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 24px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important; text-align: center;">
+                    Trois finitions
+                </h2>
+                <table width="100%" style="border-collapse: collapse;">
+                    <tr>
+                        <td width="33%" valign="top" align="center" style="padding: 0 8px 0 0;">
+                            <a href="https://mcdavidian.fr/pince-a-cheveux/pince-arcade-18-dents-simple" target="_blank" style="text-decoration: none;">
+                                <img src="https://mcdavidian.fr/54394-large_default/pince-arcade-18-dents-simple.jpg" alt="Pince Arcade 18 Dents Simple" width="170"
+                                     style="display: block; width: 170px; max-width: 100%; height: auto; margin: 0 auto 8px auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; color: #1a1a1a !important;">Simple</p>
+                            <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #666666 !important; line-height: 1.5;">L'acétate seul, pour tous les jours.</p>
+                            <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; font-weight: 600;">à partir de 10 €</p>
+                        </td>
+                        <td width="33%" valign="top" align="center" style="padding: 0 4px;">
+                            <a href="https://mcdavidian.fr/pince-a-cheveux/pince-arcade-18-dents-light" target="_blank" style="text-decoration: none;">
+                                <img src="https://mcdavidian.fr/54440-large_default/pince-arcade-18-dents-light.jpg" alt="Pince Arcade 18 Dents Light" width="170"
+                                     style="display: block; width: 170px; max-width: 100%; height: auto; margin: 0 auto 8px auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; color: #1a1a1a !important;">Light</p>
+                            <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #666666 !important; line-height: 1.5;">Quelques cristaux, posés à la main.</p>
+                            <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; font-weight: 600;">à partir de 30 €</p>
+                        </td>
+                        <td width="33%" valign="top" align="center" style="padding: 0 0 0 8px;">
+                            <a href="https://mcdavidian.fr/pince-a-cheveux/pince-arcade-18-dents-very-full" target="_blank" style="text-decoration: none;">
+                                <img src="https://mcdavidian.fr/54404-large_default/pince-arcade-18-dents-very-full.jpg" alt="Pince Arcade 18 Dents Very Full" width="170"
+                                     style="display: block; width: 170px; max-width: 100%; height: auto; margin: 0 auto 8px auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; color: #1a1a1a !important;">Full</p>
+                            <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #666666 !important; line-height: 1.5;">Entièrement sertie, pour les grands soirs.</p>
+                            <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; font-weight: 600;">à partir de 135 €</p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 24px 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- QUATRE TAILLES -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 20px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important; text-align: center;">
+                    Quatre tailles
+                </h2>
+                <table width="100%" style="border-collapse: collapse;">
+                    <tr style="background-color: #fafafa;"><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">8 dents</td><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #c9a96e !important;">5,5 cm</td><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #666666 !important;">une mèche, une demi-attache</td></tr>
+                    <tr><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">10 dents</td><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #c9a96e !important;">7 cm</td><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #666666 !important;">la taille passe-partout</td></tr>
+                    <tr style="background-color: #fafafa;"><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">14 dents</td><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #c9a96e !important;">9 cm</td><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #666666 !important;">les cheveux épais</td></tr>
+                    <tr><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">18 dents</td><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #c9a96e !important;">11 cm</td><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #666666 !important;">les chevelures les plus longues</td></tr>
+                </table>
+                <p style="margin: 16px 0 0 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.7; color: #666666 !important; text-align: center; font-style: italic;">
+                    Chaque taille existe dans les trois finitions, soit douze pinces en tout.
+                </p>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- CONCLUSION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Toutes sont faites à la main dans notre atelier, une par une.
+                </p>
+                <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    À bientôt,
+                </p>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-style: italic; color: #1a1a1a !important; text-align: left;">
+                    Marie-Christine
+                </p>
+            </div>
+        </div>
+
+        <!-- BOUTON CTA -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px 40px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.fr/pince-a-cheveux"
+                   target="_blank"
+                   class="btn btn-primary"
+                   style="display: inline-block; padding: 14px 40px; background-color: #c9a96e !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #ffffff !important; text-decoration: none; border-radius: 2px; border: none;">
+                    Découvrir les pinces Arcade
+                </a>
+            </div>
+        </div>
+
+        <!-- CITATION BANDEAU ROSE POUDRE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f5e1dc; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 17px; font-style: italic; line-height: 1.6; color: #7a5c5c !important;">
+                    « La même pince, du matin au soir. »
+                </p>
+            </div>
+        </div>
+
+        <!-- FOOTER CONTACT -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; color: #1a1a1a !important; text-transform: uppercase; letter-spacing: 1px;">
+                    MC Davidian
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important; line-height: 1.6;">
+                    Accessoires Cheveux · Faits Main en France<br/>
+                    <a href="mailto:marie@news.mcdavidian.com" style="color: #c9a96e !important; text-decoration: none;">marie@news.mcdavidian.com</a>
+                    &#160;•&#160;
+                    <a href="https://mcdavidian.fr" target="_blank" style="color: #c9a96e !important; text-decoration: none;">mcdavidian.fr</a>
+                </p>
+            </div>
+        </div>
+
+        <!-- UNSUBSCRIBE -->
+        <t t-call="mass_mailing.s_mail_block_footer_social"/>
+
+    </template>
+
+    <!-- ============================================================ -->
+    <!-- MC Davidian Newsletter #9 · Arcade Claw Clip (EN)              -->
+    <!-- ============================================================ -->
+    <template id="theme_mcdavidian_arcade_en_template">
+
+        <style id="design-element-arcade-en">
+            h1, h2, h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; color: #1a1a1a !important; }
+            p, p &gt; *, li, li &gt; * { color: #444444 !important; }
+            a { color: #c9a96e !important; }
+        </style>
+
+        <!-- HEADER ROSE POUDRE + LOGO -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #f5e1dc; padding: 40px 20px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.com" target="_blank" style="text-decoration: none;">
+                    <img src="https://mcdavidian.com/img/mc-davidian-logo-1618496773.jpg"
+                         alt="MC Davidian"
+                         width="200"
+                         style="display: inline-block; max-width: 200px; height: auto;" />
+                </a>
+                <p style="margin: 16px 0 0 0; font-family: Georgia, 'Times New Roman', serif; font-size: 12px; letter-spacing: 3px; color: #7a5c5c !important; text-transform: uppercase;">
+                    Luxury hair accessories · Handmade in France since 1980
+                </p>
+            </div>
+        </div>
+
+        <!-- TITRE + SOUS-TITRE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 40px 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h1 style="margin: 0 0 16px 0; font-size: 28px; line-height: 1.3; color: #1a1a1a !important;">
+                    One claw clip. Three levels of sparkle.
+                </h1>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; font-style: italic; color: #c9a96e !important; letter-spacing: 1px; line-height: 1.5;">
+                    The new Arcade claw clip, in four sizes and three finishes.
+                </p>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 24px 24px 16px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- INTRODUCTION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 32px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Dear reader,
+                </p>
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    Here is our new claw clip, the Arcade. One single shape, handmade in France, in three finishes.
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    The same clip, bare, lightly scattered with crystals, or fully set. You choose how much sparkle the moment calls for.
+                </p>
+            </div>
+        </div>
+
+        <!-- TROIS FINITIONS -->
+        <div class="s_text_block o_mail_snippet_general o_not_editable"
+             style="background-color: #ffffff; padding: 0 24px 8px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 24px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important; text-align: center;">
+                    Three finishes
+                </h2>
+                <table width="100%" style="border-collapse: collapse;">
+                    <tr>
+                        <td width="33%" valign="top" align="center" style="padding: 0 8px 0 0;">
+                            <a href="https://mcdavidian.com/hairclips/arcade-claw-clip-18-teeth-simple" target="_blank" style="text-decoration: none;">
+                                <img src="https://mcdavidian.com/17150-large_default/arcade-claw-clip-18-teeth-simple.jpg" alt="Arcade Claw Clip 18 Teeth Simple" width="170"
+                                     style="display: block; width: 170px; max-width: 100%; height: auto; margin: 0 auto 8px auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; color: #1a1a1a !important;">Simple</p>
+                            <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #666666 !important; line-height: 1.5;">Just the acetate, for every day.</p>
+                            <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; font-weight: 600;">from $10</p>
+                        </td>
+                        <td width="33%" valign="top" align="center" style="padding: 0 4px;">
+                            <a href="https://mcdavidian.com/hairclips/arcade-claw-clip-18-teeth-light" target="_blank" style="text-decoration: none;">
+                                <img src="https://mcdavidian.com/17196-large_default/arcade-claw-clip-18-teeth-light.jpg" alt="Arcade Claw Clip 18 Teeth Light" width="170"
+                                     style="display: block; width: 170px; max-width: 100%; height: auto; margin: 0 auto 8px auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; color: #1a1a1a !important;">Light</p>
+                            <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #666666 !important; line-height: 1.5;">A few crystals, set by hand.</p>
+                            <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; font-weight: 600;">from $40</p>
+                        </td>
+                        <td width="33%" valign="top" align="center" style="padding: 0 0 0 8px;">
+                            <a href="https://mcdavidian.com/hairclips/arcade-claw-clip-18-teeth-very-full" target="_blank" style="text-decoration: none;">
+                                <img src="https://mcdavidian.com/17160-large_default/arcade-claw-clip-18-teeth-very-full.jpg" alt="Arcade Claw Clip 18 Teeth Very Full" width="170"
+                                     style="display: block; width: 170px; max-width: 100%; height: auto; margin: 0 auto 8px auto; border-radius: 4px; border: 0;" />
+                            </a>
+                            <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; color: #1a1a1a !important;">Full</p>
+                            <p style="margin: 0 0 6px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #666666 !important; line-height: 1.5;">Fully set, for the evenings that count.</p>
+                            <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; color: #c9a96e !important; font-weight: 600;">from $170</p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 24px 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- QUATRE TAILLES -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <h2 style="margin: 0 0 20px 0; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 400; color: #1a1a1a !important; text-align: center;">
+                    Four sizes
+                </h2>
+                <table width="100%" style="border-collapse: collapse;">
+                    <tr style="background-color: #fafafa;"><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">8 teeth</td><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #c9a96e !important;">5.5 cm</td><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #666666 !important;">a strand, a half-up</td></tr>
+                    <tr><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">10 teeth</td><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #c9a96e !important;">7 cm</td><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #666666 !important;">the everyday size</td></tr>
+                    <tr style="background-color: #fafafa;"><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">14 teeth</td><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #c9a96e !important;">9 cm</td><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #666666 !important;">thick hair</td></tr>
+                    <tr><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; color: #1a1a1a !important;">18 teeth</td><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #c9a96e !important;">11 cm</td><td style="padding: 10px 8px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #666666 !important;">the longest hair</td></tr>
+                </table>
+                <p style="margin: 16px 0 0 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.7; color: #666666 !important; text-align: center; font-style: italic;">
+                    Every size comes in all three finishes, twelve clips in all.
+                </p>
+            </div>
+        </div>
+
+        <!-- SEPARATEUR -->
+        <div class="s_hr o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <hr style="width: 60px; border: none; border-top: 2px solid #c9a96e; margin: 0 auto;" />
+            </div>
+        </div>
+
+        <!-- CONCLUSION -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 0 24px 24px 24px;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 16px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    All of them are made by hand in our atelier, one at a time.
+                </p>
+                <p style="margin: 0 0 8px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #444444 !important; text-align: left;">
+                    See you soon,
+                </p>
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-style: italic; color: #1a1a1a !important; text-align: left;">
+                    Marie-Christine
+                </p>
+            </div>
+        </div>
+
+        <!-- BOUTON CTA -->
+        <div class="s_btn o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 16px 24px 40px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <a href="https://mcdavidian.com/hairclips"
+                   target="_blank"
+                   class="btn btn-primary"
+                   style="display: inline-block; padding: 14px 40px; background-color: #c9a96e !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #ffffff !important; text-decoration: none; border-radius: 2px; border: none;">
+                    Discover the Arcade claw clips
+                </a>
+            </div>
+        </div>
+
+        <!-- CITATION BANDEAU ROSE POUDRE -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #f5e1dc; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-size: 17px; font-style: italic; line-height: 1.6; color: #7a5c5c !important;">
+                    “The same claw clip, from morning to evening.”
+                </p>
+            </div>
+        </div>
+
+        <!-- FOOTER CONTACT -->
+        <div class="s_text_block o_mail_snippet_general"
+             style="background-color: #ffffff; padding: 32px 24px; text-align: center;">
+            <div class="container s_allow_columns">
+                <p style="margin: 0 0 4px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; color: #1a1a1a !important; text-transform: uppercase; letter-spacing: 1px;">
+                    MC Davidian
+                </p>
+                <p style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #999999 !important; line-height: 1.6;">
+                    Luxury Hair Accessories · Handmade in France<br/>
+                    <a href="mailto:marie@news.mcdavidian.com" style="color: #c9a96e !important; text-decoration: none;">marie@news.mcdavidian.com</a>
+                    &#160;•&#160;
+                    <a href="https://mcdavidian.com" target="_blank" style="color: #c9a96e !important; text-decoration: none;">mcdavidian.com</a>
+                </p>
+            </div>
+        </div>
+
+        <!-- UNSUBSCRIBE -->
+        <t t-call="mass_mailing.s_mail_block_footer_social"/>
+
+    </template>
+
 </odoo>
